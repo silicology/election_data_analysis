@@ -1,0 +1,175 @@
+[
+    {
+        "state": "Andaman & Nicobar Islands",
+        "party_state_data": [
+            {
+                "party": "Bharatiya Janata Party - BJP",
+                "won": 1,
+                "leading": 0,
+                "total": 1,
+                "party_url": "https://results.eci.gov.in/PcResultGenJune2024/partywisewinresult-369U01.htm",
+                "constituencies": [
+                    {
+                        "constituency": "Andaman & Nicobar Islands(1)",
+                        "winning_candidate": "BISHNU PADA RAY",
+                        "total_votes": 102436,
+                        "margin": 24396,
+                        "url": "https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U011.htm",
+                        "candidates_info": [
+                            {
+                                "candidate_name": "BISHNU PADA RAY",
+                                "status": "won",
+                                "votes": "102436",
+                                "plus_minus": "(+ 24396)",
+                                "party": "Bharatiya Janata Party"
+                            },
+                            {
+                                "candidate_name": "KULDEEP RAI SHARMA",
+                                "status": "lost",
+                                "votes": "78040",
+                                "plus_minus": "( -24396)",
+                                "party": "Indian National Congress"
+                            },
+                            {
+                                "candidate_name": "V.K. ABDUL AZIZ",
+                                "status": "lost",
+                                "votes": "2203",
+                                "plus_minus": "( -100233)",
+                                "party": "Independent"
+                            },
+                            {
+                                "candidate_name": "K J B SELVARAJ",
+                                "status": "lost",
+                                "votes": "914",
+                                "plus_minus": "( -101522)",
+                                "party": "All India Anna Dravida Munnetra Kazhagam"
+                            },
+                            {
+                                "candidate_name": "DR ARUN KUMAR MALLIK",
+                                "status": "lost",
+                                "votes": "719",
+                                "plus_minus": "( -101717)",
+                                "party": "Bahujan Samaj Party"
+                            },
+                            {
+                                "candidate_name": "RINKU MALA MONDAL",
+                                "status": "lost",
+                                "votes": "542",
+                                "plus_minus": "( -101894)",
+                                "party": "Independent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "state": "Andhra Pradesh",
+        "party_state_data": [
+            {
+                "party": "Telugu Desam - TDP",
+                "won": 16,
+                "leading": 0,
+                "total": 16,
+                "party_url": "https://results.eci.gov.in/PcResultGenJune2024/partywisewinresult-1745S01.htm",
+                "constituencies": [
+                    {
+                        "constituency": "Srikakulam(2)",
+                        "winning_candidate": "KINJARAPU RAMMOHAN NAIDU",
+                        "total_votes": 754328,
+                        "margin": 327901,
+                        "url": "https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S012.htm",
+                        "candidates_info": [
+                            {
+                                "candidate_name": "KINJARAPU RAMMOHAN NAIDU",
+                                "status": "won",
+                                "votes": "754328",
+                                "plus_minus": "(+ 327901)",
+                                "party": "Telugu Desam"
+                            },
+                            {
+                                "candidate_name": "TILAK PERADA",
+                                "status": "lost",
+                                "votes": "426427",
+                                "plus_minus": "( -327901)",
+                                "party": "Yuvajana Sramika Rythu Congress Party"
+                            },
+                            {
+                                "candidate_name": "PEDADA PARAMESWARA RAO",
+                                "status": "lost",
+                                "votes": "7172",
+                                "plus_minus": "( -747156)",
+                                "party": "Indian National Congress"
+                            },
+                            {
+                                "candidate_name": "SANAPALA SRAVAN KUMAR",
+                                "status": "lost",
+                                "votes": "5958",
+                                "plus_minus": "( -748370)",
+                                "party": "Independent"
+                            },
+                            {
+                                "candidate_name": "NAIDUGARI RAJASEKHAR",
+                                "status": "lost",
+                                "votes": "4742",
+                                "plus_minus": "( -749586)",
+                                "party": "Bahujan Samaj Party"
+                            }
+                        ]
+                    },
+                    {
+                        "constituency": "Vizianagaram(3)",
+                        "winning_candidate": "APPALANAIDU KALISETTI",
+                        "total_votes": 743113,
+                        "margin": 249351,
+                        "url": "https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S013.htm",
+                        "candidates_info": [
+                            {
+                                "candidate_name": "APPALANAIDU KALISETTI",
+                                "status": "won",
+                                "votes": "743113",
+                                "plus_minus": "(+ 249351)",
+                                "party": "Telugu Desam"
+                            },
+                            {
+                                "candidate_name": "BELLANA CHANDRASEKHAR",
+                                "status": "lost",
+                                "votes": "493762",
+                                "plus_minus": "( -249351)",
+                                "party": "Yuvajana Sramika Rythu Congress Party"
+                            }
+                           
+                        ]
+                    },
+                    {
+                        "constituency": "Visakhapatnam(4)",
+                        "winning_candidate": "SRIBHARAT MATHUKUMILI",
+                        "total_votes": 907467,
+                        "margin": 504247,
+                        "url": "https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S014.htm",
+                        "candidates_info": [
+                            {
+                                "candidate_name": "SRIBHARAT MATHUKUMILI",
+                                "status": "won",
+                                "votes": "907467",
+                                "plus_minus": "(+ 504247)",
+                                "party": "Telugu Desam"
+                            },
+                            {
+                                "candidate_name": "JHANSI LAKSHMI. BOTCHA.",
+                                "status": "lost",
+                                "votes": "403220",
+                                "plus_minus": "( -504247)",
+                                "party": "Yuvajana Sramika Rythu Congress Party"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
+
+                    
+                        
