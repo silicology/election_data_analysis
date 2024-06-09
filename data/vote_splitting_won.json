@@ -1,0 +1,2067 @@
+{
+  "Andaman & Nicobar Islands": [],
+  "Andhra Pradesh": [
+    {
+      "constituency": "Ongole(16)",
+      "loser_votes": 720320,
+      "winner_party": "Telugu Desam",
+      "winner_votes": 701894,
+      "winning_candidate": "MAGUNTA SREENIVASULU REDDY"
+    },
+    {
+      "constituency": "Nandyal(17)",
+      "loser_votes": 703287,
+      "winner_party": "Telugu Desam",
+      "winner_votes": 701131,
+      "winning_candidate": "DR BYREDDY SHABARI"
+    },
+    {
+      "constituency": "Kurnoolu(18)",
+      "loser_votes": 671866,
+      "winner_party": "Telugu Desam",
+      "winner_votes": 658914,
+      "winning_candidate": "BASTIPATI NAGARAJU PANCHALINGALA"
+    },
+    {
+      "constituency": "Araku (ST)(1)",
+      "loser_votes": 687440,
+      "winner_party": "Yuvajana Sramika Rythu Congress Party",
+      "winner_votes": 477005,
+      "winning_candidate": "GUMMA THANUJA RANI"
+    },
+    {
+      "constituency": "Kadapa(21)",
+      "loser_votes": 716832,
+      "winner_party": "Yuvajana Sramika Rythu Congress Party",
+      "winner_votes": 605143,
+      "winning_candidate": "Y. S. AVINASH REDDY"
+    },
+    {
+      "constituency": "Thirupathi(SC)(23)",
+      "loser_votes": 750342,
+      "winner_party": "Yuvajana Sramika Rythu Congress Party",
+      "winner_votes": 632228,
+      "winning_candidate": "GURUMOORTHY MADDILA"
+    },
+    {
+      "constituency": "Rajampet(24)",
+      "loser_votes": 688095,
+      "winner_party": "Yuvajana Sramika Rythu Congress Party",
+      "winner_votes": 644844,
+      "winning_candidate": "P V MIDHUN REDDY"
+    }
+  ],
+  "Arunachal Pradesh": [
+    {
+      "constituency": "Arunachal East(2)",
+      "loser_votes": 177862,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 145581,
+      "winning_candidate": "TAPIR GAO"
+    }
+  ],
+  "Assam": [
+    {
+      "constituency": "Darrang-Udalguri(4)",
+      "loser_votes": 942813,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 868387,
+      "winning_candidate": "DILIP SAIKIA"
+    },
+    {
+      "constituency": "Diphu(6)",
+      "loser_votes": 348207,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 334620,
+      "winning_candidate": "AMARSING TISSO"
+    },
+    {
+      "constituency": "Karimganj(7)",
+      "loser_votes": 601789,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 545093,
+      "winning_candidate": "KRIPANATH MALLAH"
+    },
+    {
+      "constituency": "Kokrajhar (1)",
+      "loser_votes": 752501,
+      "winner_party": "United People’s Party, Liberal",
+      "winner_votes": 488995,
+      "winning_candidate": "JOYANTA BASUMATARY"
+    }
+  ],
+  "Bihar": [
+    {
+      "constituency": "Valmiki Nagar (1)",
+      "loser_votes": 578408,
+      "winner_party": "Janata Dal  (United)",
+      "winner_votes": 523422,
+      "winning_candidate": "SUNIL KUMAR"
+    },
+    {
+      "constituency": "Sheohar(4)",
+      "loser_votes": 578990,
+      "winner_party": "Janata Dal  (United)",
+      "winner_votes": 476612,
+      "winning_candidate": "LOVELY ANAND"
+    },
+    {
+      "constituency": "Sitamarhi(5)",
+      "loser_votes": 578273,
+      "winner_party": "Janata Dal  (United)",
+      "winner_votes": 515719,
+      "winning_candidate": "DEVESH CHANDRA THAKUR"
+    },
+    {
+      "constituency": "Jhanjharpur(7)",
+      "loser_votes": 560709,
+      "winner_party": "Janata Dal  (United)",
+      "winner_votes": 533032,
+      "winning_candidate": "RAMPRIT MANDAL"
+    },
+    {
+      "constituency": "Supaul(8)",
+      "loser_votes": 636076,
+      "winner_party": "Janata Dal  (United)",
+      "winner_votes": 595038,
+      "winning_candidate": "DILESHWAR KAMAIT"
+    },
+    {
+      "constituency": "Gopalganj(17)",
+      "loser_votes": 551161,
+      "winner_party": "Janata Dal  (United)",
+      "winner_votes": 511866,
+      "winning_candidate": "DR. ALOK KUMAR SUMAN"
+    },
+    {
+      "constituency": "Siwan(18)",
+      "loser_votes": 611510,
+      "winner_party": "Janata Dal  (United)",
+      "winner_votes": 386508,
+      "winning_candidate": "VIJAYLAKSHMI DEVI"
+    },
+    {
+      "constituency": "Banka(27)",
+      "loser_votes": 507477,
+      "winner_party": "Janata Dal  (United)",
+      "winner_votes": 506678,
+      "winning_candidate": "GIRIDHARI YADAV"
+    },
+    {
+      "constituency": "Munger(28)",
+      "loser_votes": 588935,
+      "winner_party": "Janata Dal  (United)",
+      "winner_votes": 550146,
+      "winning_candidate": "RAJIV RANJAN SINGH ALIAS LALAN SINGH"
+    },
+    {
+      "constituency": "Nalanda(29)",
+      "loser_votes": 584961,
+      "winner_party": "Janata Dal  (United)",
+      "winner_votes": 559422,
+      "winning_candidate": "KAUSHALENDRA KUMAR"
+    },
+    {
+      "constituency": "Araria(9)",
+      "loser_votes": 652414,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 600146,
+      "winning_candidate": "PRADEEP KUMAR SINGH"
+    },
+    {
+      "constituency": "Saran(20)",
+      "loser_votes": 549756,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 471752,
+      "winning_candidate": "RAJIV PRATAP RUDY"
+    },
+    {
+      "constituency": "Ujiarpur(22)",
+      "loser_votes": 526103,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 515965,
+      "winning_candidate": "NITYANAND RAI"
+    },
+    {
+      "constituency": "Nawada(39)",
+      "loser_votes": 459262,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 410608,
+      "winning_candidate": "VIVEK THAKUR"
+    },
+    {
+      "constituency": "Vaishali(16)",
+      "loser_votes": 605017,
+      "winner_party": "Lok Janshakti Party(Ram Vilas)",
+      "winner_votes": 567043,
+      "winning_candidate": "VEENA DEVI"
+    },
+    {
+      "constituency": "Patliputra(31)",
+      "loser_votes": 616816,
+      "winner_party": "Rashtriya Janata Dal",
+      "winner_votes": 613283,
+      "winning_candidate": "MISHA BHARTI"
+    },
+    {
+      "constituency": "Buxar(33)",
+      "loser_votes": 635414,
+      "winner_party": "Rashtriya Janata Dal",
+      "winner_votes": 438345,
+      "winning_candidate": "SUDHAKAR SINGH"
+    },
+    {
+      "constituency": "Jahanabad(36)",
+      "loser_votes": 482335,
+      "winner_party": "Rashtriya Janata Dal",
+      "winner_votes": 443035,
+      "winning_candidate": "SURENDRA PRASAD YADAV"
+    },
+    {
+      "constituency": "Aurangabad(37)",
+      "loser_votes": 480313,
+      "winner_party": "Rashtriya Janata Dal",
+      "winner_votes": 465567,
+      "winning_candidate": "ABHAY KUMAR SINHA"
+    },
+    {
+      "constituency": "Kishanganj(10)",
+      "loser_votes": 748249,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 402850,
+      "winning_candidate": "MOHAMMAD JAWED"
+    },
+    {
+      "constituency": "Katihar(11)",
+      "loser_votes": 604454,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 567092,
+      "winning_candidate": "TARIQ ANWAR"
+    },
+    {
+      "constituency": "Sasaram(34)",
+      "loser_votes": 584071,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 513004,
+      "winning_candidate": "MANOJ KUMAR"
+    },
+    {
+      "constituency": "Arrah(32)",
+      "loser_votes": 567179,
+      "winner_party": "Communist Party of India  (Marxist-Leninist)  (Liberation)",
+      "winner_votes": 529382,
+      "winning_candidate": "SUDAMA PRASAD"
+    },
+    {
+      "constituency": "Karakat(35)",
+      "loser_votes": 651037,
+      "winner_party": "Communist Party of India  (Marxist-Leninist)  (Liberation)",
+      "winner_votes": 380581,
+      "winning_candidate": "RAJA RAM SINGH"
+    },
+    {
+      "constituency": "Purnia(12)",
+      "loser_votes": 628288,
+      "winner_party": "Independent",
+      "winner_votes": 567556,
+      "winning_candidate": "RAJESH RANJAN ALIAS PAPPU YADAV"
+    }
+  ],
+  "Chandigarh": [
+    {
+      "constituency": "Chandigarh(1)",
+      "loser_votes": 232618,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 216657,
+      "winning_candidate": "MANISH TEWARI"
+    }
+  ],
+  "Chhattisgarh": [
+    {
+      "constituency": "SURGUJA(1)",
+      "loser_votes": 742069,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 713200,
+      "winning_candidate": "CHINTAMANI MAHARAJ"
+    },
+    {
+      "constituency": "JANJGIR-CHAMPA(3)",
+      "loser_votes": 714041,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 678199,
+      "winning_candidate": "KAMLESH JANGDE"
+    },
+    {
+      "constituency": "RAJNANDGAON(6)",
+      "loser_votes": 733708,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 712057,
+      "winning_candidate": "SANTOSH PANDEY"
+    },
+    {
+      "constituency": "BASTAR(10)",
+      "loser_votes": 548997,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 458398,
+      "winning_candidate": "MAHESH KASHYAP"
+    },
+    {
+      "constituency": "KANKER(11)",
+      "loser_votes": 667805,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 597624,
+      "winning_candidate": "BHOJRAJ NAG"
+    },
+    {
+      "constituency": "KORBA(4)",
+      "loser_votes": 655131,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 570182,
+      "winning_candidate": "JYOTSNA CHARANDAS MAHANT"
+    }
+  ],
+  "Dadra & Nagar Haveli and Daman & Diu": [
+    {
+      "constituency": "Daman & Diu (1)",
+      "loser_votes": 49887,
+      "winner_party": "Independent",
+      "winner_votes": 42523,
+      "winning_candidate": "PATEL UMESHBHAI BABUBHAI"
+    }
+  ],
+  "Goa": [
+    {
+      "constituency": "South Goa(2)",
+      "loser_votes": 232684,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 217836,
+      "winning_candidate": "CAPTAIN  VIRIATO FERNANDES"
+    }
+  ],
+  "Gujarat": [
+    {
+      "constituency": "Patan(3)",
+      "loser_votes": 601178,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 591947,
+      "winning_candidate": "DABHI  BHARATSINHJI  SHANKARJI"
+    },
+    {
+      "constituency": "Banaskantha(2)",
+      "loser_votes": 704020,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 671883,
+      "winning_candidate": "GENIBEN NAGAJI THAKOR"
+    }
+  ],
+  "Haryana": [
+    {
+      "constituency": "AMBALA(1)",
+      "loser_votes": 683065,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 663657,
+      "winning_candidate": "VARUN CHAUDHRY"
+    },
+    {
+      "constituency": "HISAR(4)",
+      "loser_votes": 603691,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 570424,
+      "winning_candidate": "JAI PARKASH (J P) S/O HARIKESH"
+    },
+    {
+      "constituency": "SONIPAT(6)",
+      "loser_votes": 575262,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 548682,
+      "winning_candidate": "SATPAL BRAHAMCHARI"
+    },
+    {
+      "constituency": "KURUKSHETRA(2)",
+      "loser_votes": 663697,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 542175,
+      "winning_candidate": "NAVEEN JINDAL"
+    },
+    {
+      "constituency": "BHIWANI-MAHENDRAGARH(8)",
+      "loser_votes": 594731,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 588664,
+      "winning_candidate": "DHARAMBIR SINGH"
+    }
+  ],
+  "Himachal Pradesh": [],
+  "Jammu and Kashmir": [
+    {
+      "constituency": "BARAMULLA(1)",
+      "loser_votes": 561419,
+      "winner_party": "Independent",
+      "winner_votes": 472481,
+      "winning_candidate": "ABDUL RASHID SHEIKH"
+    }
+  ],
+  "Jharkhand": [
+    {
+      "constituency": "Godda(3)",
+      "loser_votes": 705064,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 693140,
+      "winning_candidate": "NISHIKANT DUBEY"
+    },
+    {
+      "constituency": "Ranchi(8)",
+      "loser_votes": 783049,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 664732,
+      "winning_candidate": "SANJAY SETH"
+    },
+    {
+      "constituency": "Dumka(2)",
+      "loser_votes": 636762,
+      "winner_party": "Jharkhand Mukti Morcha",
+      "winner_votes": 547370,
+      "winning_candidate": "NALIN SOREN"
+    },
+    {
+      "constituency": "Lohardaga(12)",
+      "loser_votes": 484087,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 483038,
+      "winning_candidate": "SUKHDEO BHAGAT"
+    },
+    {
+      "constituency": "Giridih(6)",
+      "loser_votes": 813694,
+      "winner_party": "AJSU Party",
+      "winner_votes": 451139,
+      "winning_candidate": "CHANDRA PRAKASH CHOUDHARY"
+    }
+  ],
+  "Karnataka": [
+    {
+      "constituency": "Gulbarga(5)",
+      "loser_votes": 658156,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 652321,
+      "winning_candidate": "RADHAKRISHNA"
+    },
+    {
+      "constituency": "Koppal(8)",
+      "loser_votes": 665425,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 663511,
+      "winning_candidate": "K. RAJASHEKAR BASAVARAJ HITNAL"
+    },
+    {
+      "constituency": "Davanagere(13)",
+      "loser_votes": 687309,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 633059,
+      "winning_candidate": "DR. PRABHA MALLIKARJUN"
+    },
+    {
+      "constituency": "Hassan(16)",
+      "loser_votes": 682019,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 672988,
+      "winning_candidate": "SHREYAS. M. PATEL"
+    }
+  ],
+  "Kerala": [
+    {
+      "constituency": "Kasaragod(1)",
+      "loser_votes": 621887,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 490659,
+      "winning_candidate": "RAJMOHAN UNNITHAN"
+    },
+    {
+      "constituency": "Kannur(2)",
+      "loser_votes": 545331,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 518524,
+      "winning_candidate": "K. SUDHAKARAN"
+    },
+    {
+      "constituency": "Vadakara(3)",
+      "loser_votes": 565419,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 557528,
+      "winning_candidate": "SHAFI PARAMBIL"
+    },
+    {
+      "constituency": "Kozhikode(5)",
+      "loser_votes": 569629,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 520421,
+      "winning_candidate": "M. K. RAGHAVAN"
+    },
+    {
+      "constituency": "Palakkad(8)",
+      "loser_votes": 614667,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 421169,
+      "winning_candidate": "V K SREEKANDAN"
+    },
+    {
+      "constituency": "Chalakudy(11)",
+      "loser_votes": 557116,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 394171,
+      "winning_candidate": "BENNY BEHANAN"
+    },
+    {
+      "constituency": "Alappuzha(15)",
+      "loser_votes": 654143,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 404560,
+      "winning_candidate": "K. C VENUGOPAL"
+    },
+    {
+      "constituency": "Mavelikkara (16)",
+      "loser_votes": 525455,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 369516,
+      "winning_candidate": "KODIKUNNIL SURESH"
+    },
+    {
+      "constituency": "Pathanamthitta(17)",
+      "loser_votes": 551946,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 367623,
+      "winning_candidate": "ANTO ANTONY"
+    },
+    {
+      "constituency": "Attingal(19)",
+      "loser_votes": 657290,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 328051,
+      "winning_candidate": "ADV ADOOR PRAKASH"
+    },
+    {
+      "constituency": "Thiruvananthapuram(20)",
+      "loser_votes": 604828,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 358155,
+      "winning_candidate": "SHASHI THAROOR"
+    },
+    {
+      "constituency": "Alathur (9)",
+      "loser_votes": 588821,
+      "winner_party": "Communist Party of India  (Marxist)",
+      "winner_votes": 403447,
+      "winning_candidate": "K.RADHAKRISHNAN"
+    },
+    {
+      "constituency": "Thrissur(10)",
+      "loser_votes": 678538,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 412338,
+      "winning_candidate": "SURESH GOPI"
+    },
+    {
+      "constituency": "Kottayam(14)",
+      "loser_votes": 471592,
+      "winner_party": "Kerala Congress",
+      "winner_votes": 364631,
+      "winning_candidate": "ADV K FRANCIS GEORGE"
+    },
+    {
+      "constituency": "Kollam(18)",
+      "loser_votes": 472063,
+      "winner_party": "Revolutionary Socialist Party",
+      "winner_votes": 443628,
+      "winning_candidate": "N K PREMACHANDRAN"
+    }
+  ],
+  "Ladakh": [
+    {
+      "constituency": "Ladakh(1)",
+      "loser_votes": 70265,
+      "winner_party": "Independent",
+      "winner_votes": 65259,
+      "winning_candidate": "MOHMAD HANEEFA"
+    }
+  ],
+  "Lakshadweep": [],
+  "Madhya Pradesh": [
+    {
+      "constituency": "MORENA(1)",
+      "loser_votes": 671854,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 515477,
+      "winning_candidate": "SHIVMANGAL SINGH TOMAR"
+    },
+    {
+      "constituency": "GWALIOR(3)",
+      "loser_votes": 671694,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 671535,
+      "winning_candidate": "BHARAT SINGH KUSHWAH"
+    },
+    {
+      "constituency": "SATNA(9)",
+      "loser_votes": 599244,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 459728,
+      "winning_candidate": "GANESH SINGH"
+    },
+    {
+      "constituency": "MANDLA(14)",
+      "loser_votes": 784257,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 751375,
+      "winning_candidate": "FAGGAN SINGH KULASTE"
+    },
+    {
+      "constituency": "CHHINDWARA(16)",
+      "loser_votes": 660089,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 644738,
+      "winning_candidate": "BUNTY VIVEK SAHU"
+    }
+  ],
+  "Maharashtra": [
+    {
+      "constituency": "Dhule(2)",
+      "loser_votes": 635429,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 583866,
+      "winning_candidate": "BACHHAV SHOBHA DINESH"
+    },
+    {
+      "constituency": "Amravati (7)",
+      "loser_votes": 647308,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 526271,
+      "winning_candidate": "BALWANT BASWANT WANKHADE"
+    },
+    {
+      "constituency": "Ramtek (9)",
+      "loser_votes": 639487,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 613025,
+      "winning_candidate": "Shyamkumar (Babalu) Daulat Barve"
+    },
+    {
+      "constituency": "Bhandara Gondiya(11)",
+      "loser_votes": 647660,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 587413,
+      "winning_candidate": "DR. PRASHANT YADAORAO PADOLE"
+    },
+    {
+      "constituency": "Nanded(16)",
+      "loser_votes": 599360,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 528894,
+      "winning_candidate": "CHAVAN VASANTRAO BALWANTRAO"
+    },
+    {
+      "constituency": "Jalna(18)",
+      "loser_votes": 755512,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 607897,
+      "winning_candidate": "KALYAN VAIJINATHRAO KALE"
+    },
+    {
+      "constituency": "Mumbai North Central(29)",
+      "loser_votes": 465017,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 445545,
+      "winning_candidate": "GAIKWAD VARSHA EKNATH"
+    },
+    {
+      "constituency": "Latur (41)",
+      "loser_votes": 630058,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 609021,
+      "winning_candidate": "DR. KALGE SHIVAJI BANDAPPA"
+    },
+    {
+      "constituency": "Akola(6)",
+      "loser_votes": 716042,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 457030,
+      "winning_candidate": "ANUP SANJAY DHOTRE"
+    },
+    {
+      "constituency": "Palghar(22)",
+      "loser_votes": 774830,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 601244,
+      "winning_candidate": "DR. HEMANT VISHNU SAVARA"
+    },
+    {
+      "constituency": "Satara(45)",
+      "loser_votes": 626870,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 571134,
+      "winning_candidate": "SHRIMANT CHH UDAYANRAJE PRATAPSINHAMAHARAJ BHONSLE"
+    },
+    {
+      "constituency": "Ratnagiri- Sindhudurg(46)",
+      "loser_votes": 465524,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 448514,
+      "winning_candidate": "NARAYAN TATU RANE"
+    },
+    {
+      "constituency": "Yavatmal- Washim(14)",
+      "loser_votes": 630723,
+      "winner_party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+      "winner_votes": 594807,
+      "winning_candidate": "SANJAY UTTAMRAO DESHMUKH"
+    },
+    {
+      "constituency": "Hingoli(15)",
+      "loser_votes": 666765,
+      "winner_party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+      "winner_votes": 492535,
+      "winning_candidate": "AASHTIKAR PATIL NAGESH BAPURAO"
+    },
+    {
+      "constituency": "Parbhani(17)",
+      "loser_votes": 729833,
+      "winner_party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+      "winner_votes": 601343,
+      "winning_candidate": "JADHAV SANJAY ( BANDU ) HARIBHAU"
+    },
+    {
+      "constituency": "Nashik(21)",
+      "loser_votes": 620475,
+      "winner_party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+      "winner_votes": 616729,
+      "winning_candidate": "RAJABHAU (PARAG) PRAKASH WAJE"
+    },
+    {
+      "constituency": "Mumbai North East(28)",
+      "loser_votes": 475532,
+      "winner_party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+      "winner_votes": 450937,
+      "winning_candidate": "SANJAY DINA PATIL"
+    },
+    {
+      "constituency": "Mumbai South Central(30)",
+      "loser_votes": 399386,
+      "winner_party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+      "winner_votes": 395138,
+      "winning_candidate": "ANIL YESHWANT DESAI"
+    },
+    {
+      "constituency": "Shirdi (38)",
+      "loser_votes": 582964,
+      "winner_party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+      "winner_votes": 476900,
+      "winning_candidate": "BHAUSAHEB RAJARAM WAKCHAURE"
+    },
+    {
+      "constituency": "Wardha(8)",
+      "loser_votes": 561906,
+      "winner_party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "winner_votes": 533106,
+      "winning_candidate": "AMAR SHARADRAO KALE"
+    },
+    {
+      "constituency": "Dindori (20)",
+      "loser_votes": 663571,
+      "winner_party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "winner_votes": 577339,
+      "winning_candidate": "BHASKAR MURLIDHAR BHAGARE"
+    },
+    {
+      "constituency": "Bhiwandi(23)",
+      "loser_votes": 753935,
+      "winner_party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "winner_votes": 499464,
+      "winning_candidate": "BALYA MAMA - SURESH GOPINATH MHATRE"
+    },
+    {
+      "constituency": "Ahmednagar(37)",
+      "loser_votes": 700680,
+      "winner_party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "winner_votes": 624797,
+      "winning_candidate": "NILESH DNYANDEV LANKE"
+    },
+    {
+      "constituency": "Beed(39)",
+      "loser_votes": 838345,
+      "winner_party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "winner_votes": 683950,
+      "winning_candidate": "BAJRANG MANOHAR SONWANE"
+    },
+    {
+      "constituency": "Madha(43)",
+      "loser_votes": 651205,
+      "winner_party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "winner_votes": 622213,
+      "winning_candidate": "MOHITE-PATIL DHAIRYASHEEL RAJSINH"
+    },
+    {
+      "constituency": "Buldhana(5)",
+      "loser_votes": 759629,
+      "winner_party": "Shiv Sena",
+      "winner_votes": 349867,
+      "winning_candidate": "JADHAV PRATAPRAO GANPATRAO"
+    },
+    {
+      "constituency": "Aurangabad(19)",
+      "loser_votes": 826067,
+      "winner_party": "Shiv Sena",
+      "winner_votes": 476130,
+      "winning_candidate": "BHUMARE SANDIPANRAO ASARAM"
+    },
+    {
+      "constituency": "Mumbai North West(27)",
+      "loser_votes": 502295,
+      "winner_party": "Shiv Sena",
+      "winner_votes": 452644,
+      "winning_candidate": "RAVINDRA DATTARAM WAIKAR"
+    },
+    {
+      "constituency": "Maval(33)",
+      "loser_votes": 726569,
+      "winner_party": "Shiv Sena",
+      "winner_votes": 692832,
+      "winning_candidate": "SHRIRANG APPA CHANDU BARNE"
+    },
+    {
+      "constituency": "Hatkanangale(48)",
+      "loser_votes": 775834,
+      "winner_party": "Shiv Sena",
+      "winner_votes": 520190,
+      "winning_candidate": "DHAIRYASHEEL SAMBHAJIRAO MANE"
+    },
+    {
+      "constituency": "Sangli(44)",
+      "loser_votes": 597078,
+      "winner_party": "Independent",
+      "winner_votes": 571666,
+      "winning_candidate": "VISHAL (DADA) PRAKASHBAPU PATIL"
+    }
+  ],
+  "Manipur": [
+    {
+      "constituency": "Inner Manipur(1)",
+      "loser_votes": 422880,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 374017,
+      "winning_candidate": "ANGOMCHA BIMOL AKOIJAM"
+    },
+    {
+      "constituency": "Outer Manipur(2)",
+      "loser_votes": 411781,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 384954,
+      "winning_candidate": "ALFRED KANNGAM S ARTHUR"
+    }
+  ],
+  "Meghalaya": [],
+  "Mizoram": [
+    {
+      "constituency": "MIZORAM(1)",
+      "loser_votes": 282784,
+      "winner_party": "Zoram People’s Movement",
+      "winner_votes": 208552,
+      "winning_candidate": "RICHARD VANLALHMANGAIHA"
+    }
+  ],
+  "NCT OF Delhi": [],
+  "Nagaland": [],
+  "Odisha": [
+    {
+      "constituency": "Sundargarh(2)",
+      "loser_votes": 661495,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 494282,
+      "winning_candidate": "JUAL ORAM"
+    },
+    {
+      "constituency": "Sambalpur(3)",
+      "loser_votes": 604585,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 592162,
+      "winning_candidate": "DHARMENDRA PRADHAN"
+    },
+    {
+      "constituency": "Keonjhar(4)",
+      "loser_votes": 682692,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 573923,
+      "winning_candidate": "ANANTA NAYAK"
+    },
+    {
+      "constituency": "Mayurbhanj(5)",
+      "loser_votes": 588079,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 585971,
+      "winning_candidate": "NABA CHARAN MAJHI"
+    },
+    {
+      "constituency": "Balasore(6)",
+      "loser_votes": 675770,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 563865,
+      "winning_candidate": "PRATAP CHANDRA SARANGI"
+    },
+    {
+      "constituency": "Bhadrak(7)",
+      "loser_votes": 724058,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 573319,
+      "winning_candidate": "AVIMANYU SETHI"
+    },
+    {
+      "constituency": "Jajpur(8)",
+      "loser_votes": 626969,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 534239,
+      "winning_candidate": "RABINDRA NARAYAN BEHERA"
+    },
+    {
+      "constituency": "Bolangir(10)",
+      "loser_votes": 782504,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 617744,
+      "winning_candidate": "SANGEETA KUMARI SINGH DEO"
+    },
+    {
+      "constituency": "Kalahandi(11)",
+      "loser_votes": 789941,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 544303,
+      "winning_candidate": "MALVIKA DEVI"
+    },
+    {
+      "constituency": "Nabarangpur(12)",
+      "loser_votes": 761079,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 481396,
+      "winning_candidate": "BALABHADRA MAJHI"
+    },
+    {
+      "constituency": "Kandhamal(13)",
+      "loser_votes": 579676,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 416415,
+      "winning_candidate": "SUKANTA KUMAR PANIGRAHI"
+    },
+    {
+      "constituency": "Cuttack(14)",
+      "loser_votes": 589194,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 531601,
+      "winning_candidate": "BHARTRUHARI MAHTAB"
+    },
+    {
+      "constituency": "Kendrapara(15)",
+      "loser_votes": 661403,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 615705,
+      "winning_candidate": "BAIJAYANT PANDA"
+    },
+    {
+      "constituency": "Jagatsinghpur(16)",
+      "loser_votes": 697194,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 589093,
+      "winning_candidate": "BIBHU PRASAD TARAI"
+    },
+    {
+      "constituency": "Bhubaneswar(18)",
+      "loser_votes": 569696,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 512519,
+      "winning_candidate": "APARAJITA SARANGI"
+    },
+    {
+      "constituency": "Aska(19)",
+      "loser_votes": 523688,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 494226,
+      "winning_candidate": "ANITA SUBHADARSHINI"
+    },
+    {
+      "constituency": "Berhampur(20)",
+      "loser_votes": 529821,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 513102,
+      "winning_candidate": "DR. PRADEEP KUMAR PANIGRAHY"
+    },
+    {
+      "constituency": "Koraput(21)",
+      "loser_votes": 677449,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 471393,
+      "winning_candidate": "SAPTAGIRI SANKAR ULAKA"
+    }
+  ],
+  "Puducherry": [],
+  "Punjab": [
+    {
+      "constituency": "Gurdaspur(1)",
+      "loser_votes": 713783,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 364043,
+      "winning_candidate": "SUKHJINDER SINGH RANDHAWA"
+    },
+    {
+      "constituency": "Amritsar(2)",
+      "loser_votes": 650475,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 255181,
+      "winning_candidate": "GURJEET SINGH AUJLA"
+    },
+    {
+      "constituency": "Jalandhar(4)",
+      "loser_votes": 599054,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 390053,
+      "winning_candidate": "CHARANJIT SINGH CHANNI"
+    },
+    {
+      "constituency": "Ludhiana(7)",
+      "loser_votes": 736933,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 322224,
+      "winning_candidate": "AMRINDER SINGH RAJA WARRING"
+    },
+    {
+      "constituency": "Fatehgarh Sahib(8)",
+      "loser_votes": 641665,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 332591,
+      "winning_candidate": "AMAR SINGH"
+    },
+    {
+      "constituency": "Firozpur(10)",
+      "loser_votes": 858489,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 266626,
+      "winning_candidate": "SHER SINGH GHUBAYA"
+    },
+    {
+      "constituency": "Patiala(13)",
+      "loser_votes": 846127,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 305616,
+      "winning_candidate": "DR DHARAMVIRA GANDHI"
+    },
+    {
+      "constituency": "Hoshiarpur(5)",
+      "loser_votes": 644626,
+      "winner_party": "Aam Aadmi Party",
+      "winner_votes": 303859,
+      "winning_candidate": "DR. RAJ KUMAR CHABBEWAL"
+    },
+    {
+      "constituency": "Anandpur Sahib(6)",
+      "loser_votes": 763906,
+      "winner_party": "Aam Aadmi Party",
+      "winner_votes": 313217,
+      "winning_candidate": "MALVINDER SINGH KANG"
+    },
+    {
+      "constituency": "Sangrur(12)",
+      "loser_votes": 645580,
+      "winner_party": "Aam Aadmi Party",
+      "winner_votes": 364085,
+      "winning_candidate": "GURMEET SINGH MEET HAYER"
+    },
+    {
+      "constituency": "Bathinda(11)",
+      "loser_votes": 774612,
+      "winner_party": "Shiromani Akali Dal",
+      "winner_votes": 376558,
+      "winning_candidate": "HARSIMRAT KAUR BADAL"
+    },
+    {
+      "constituency": "Khadoor Sahib(3)",
+      "loser_votes": 642735,
+      "winner_party": "Independent",
+      "winner_votes": 404430,
+      "winning_candidate": "AMRITPAL SINGH"
+    },
+    {
+      "constituency": "Faridkot(9)",
+      "loser_votes": 716393,
+      "winner_party": "Independent",
+      "winner_votes": 298062,
+      "winning_candidate": "SARABJEET SINGH KHALSA"
+    }
+  ],
+  "Rajasthan": [
+    {
+      "constituency": "JAIPUR RURAL(6)",
+      "loser_votes": 644177,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 617877,
+      "winning_candidate": "RAO RAJENDRA SINGH"
+    },
+    {
+      "constituency": "UDAIPUR (19)",
+      "loser_votes": 760090,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 738286,
+      "winning_candidate": "MANNA LAL RAWAT"
+    },
+    {
+      "constituency": "JHUNJHUNU (4)",
+      "loser_votes": 565759,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 553168,
+      "winning_candidate": "BRIJENDRA SINGH OLA"
+    },
+    {
+      "constituency": "BARMER(17)",
+      "loser_votes": 983375,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 704676,
+      "winning_candidate": "UMMEDA RAM BENIWAL"
+    },
+    {
+      "constituency": "NAGAUR(14)",
+      "loser_votes": 641518,
+      "winner_party": "Rashtriya Loktantrik Party",
+      "winner_votes": 596955,
+      "winning_candidate": "HANUMAN BENIWAL"
+    }
+  ],
+  "Sikkim": [
+    {
+      "constituency": "Sikkim(1)",
+      "loser_votes": 220497,
+      "winner_party": "Sikkim Krantikari Morcha",
+      "winner_votes": 164396,
+      "winning_candidate": "INDRA HANG SUBBA"
+    }
+  ],
+  "Tamil Nadu": [
+    {
+      "constituency": "CHENNAI SOUTH(3)",
+      "loser_votes": 582693,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 516628,
+      "winning_candidate": "T.SUMATHY (ALIAS) THAMIZHACHI THANGAPANDIAN"
+    },
+    {
+      "constituency": "KANCHEEPURAM(6)",
+      "loser_votes": 673534,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 586044,
+      "winning_candidate": "SELVAM. G"
+    },
+    {
+      "constituency": "ARAKKONAM(7)",
+      "loser_votes": 600606,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 563216,
+      "winning_candidate": "S JAGATHRATCHAKAN"
+    },
+    {
+      "constituency": "DHARMAPURI(10)",
+      "loser_votes": 815165,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 432667,
+      "winning_candidate": "MANI. A."
+    },
+    {
+      "constituency": "TIRUVANNAMALAI(11)",
+      "loser_votes": 598894,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 547379,
+      "winning_candidate": "ANNADURAI, C.N."
+    },
+    {
+      "constituency": "ARANI(12)",
+      "loser_votes": 640162,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 500099,
+      "winning_candidate": "THARANIVENTHAN M S"
+    },
+    {
+      "constituency": "KALLAKURICHI(14)",
+      "loser_votes": 687979,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 561589,
+      "winning_candidate": "MALAIYARASAN D"
+    },
+    {
+      "constituency": "SALEM(15)",
+      "loser_votes": 738759,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 566085,
+      "winning_candidate": "SELVAGANAPATHI T M"
+    },
+    {
+      "constituency": "NAMAKKAL(16)",
+      "loser_votes": 684267,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 462036,
+      "winning_candidate": "MATHESWARAN V S"
+    },
+    {
+      "constituency": "NILGIRIS(19)",
+      "loser_votes": 545694,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 473212,
+      "winning_candidate": "RAJA A"
+    },
+    {
+      "constituency": "COIMBATORE(20)",
+      "loser_votes": 804633,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 568200,
+      "winning_candidate": "GANAPATHY RAJKUMAR P"
+    },
+    {
+      "constituency": "POLLACHI(21)",
+      "loser_votes": 592668,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 533377,
+      "winning_candidate": "ESWARASAMY K"
+    },
+    {
+      "constituency": "THANJAVUR(30)",
+      "loser_votes": 526461,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 502245,
+      "winning_candidate": "MURASOLI S"
+    },
+    {
+      "constituency": "TENKASI(37)",
+      "loser_votes": 613440,
+      "winner_party": "Dravida Munnetra Kazhagam",
+      "winner_votes": 425679,
+      "winning_candidate": "DR RANI SRI KUMAR"
+    },
+    {
+      "constituency": "KRISHNAGIRI(9)",
+      "loser_votes": 673273,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 492883,
+      "winning_candidate": "GOPINATH K"
+    },
+    {
+      "constituency": "KARUR(23)",
+      "loser_votes": 597139,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 534906,
+      "winning_candidate": "JOTHIMANI. S"
+    },
+    {
+      "constituency": "CUDDALORE(26)",
+      "loser_votes": 576510,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 455053,
+      "winning_candidate": "M.K. VISHNUPRASAD"
+    },
+    {
+      "constituency": "MAYILADUTHURAI(28)",
+      "loser_votes": 569249,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 518459,
+      "winning_candidate": "SUDHA R"
+    },
+    {
+      "constituency": "SIVAGANGA(31)",
+      "loser_votes": 625742,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 427677,
+      "winning_candidate": "KARTI P CHIDAMBARAM"
+    },
+    {
+      "constituency": "VIRUDHUNAGAR(34)",
+      "loser_votes": 676645,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 385256,
+      "winning_candidate": "MANICKAM TAGORE B"
+    },
+    {
+      "constituency": "TIRUNELVELI(38)",
+      "loser_votes": 565152,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 502296,
+      "winning_candidate": "ROBERT BRUCE C"
+    },
+    {
+      "constituency": "VILUPPURAM(13)",
+      "loser_votes": 675634,
+      "winner_party": "Viduthalai Chiruthaigal Katchi",
+      "winner_votes": 477033,
+      "winning_candidate": "RAVIKUMAR. D"
+    },
+    {
+      "constituency": "CHIDAMBARAM(27)",
+      "loser_votes": 661987,
+      "winner_party": "Viduthalai Chiruthaigal Katchi",
+      "winner_votes": 505084,
+      "winning_candidate": "THIRUMAAVALAVAN THOL"
+    },
+    {
+      "constituency": "TIRUPPUR(18)",
+      "loser_votes": 669810,
+      "winner_party": "Communist Party of India",
+      "winner_votes": 472739,
+      "winning_candidate": "SUBBARAYAN, K."
+    },
+    {
+      "constituency": "NAGAPATTINAM(29)",
+      "loser_votes": 507967,
+      "winner_party": "Communist Party of India",
+      "winner_votes": 465044,
+      "winning_candidate": "SELVARAJ V"
+    },
+    {
+      "constituency": "MADURAI(32)",
+      "loser_votes": 556646,
+      "winner_party": "Communist Party of India  (Marxist)",
+      "winner_votes": 430323,
+      "winning_candidate": "VENKATESAN S"
+    },
+    {
+      "constituency": "RAMANATHAPURAM(35)",
+      "loser_votes": 600189,
+      "winner_party": "Indian Union Muslim League",
+      "winner_votes": 509664,
+      "winning_candidate": "NAVASKANI K"
+    }
+  ],
+  "Telangana": [
+    {
+      "constituency": "Adilabad (1)",
+      "loser_votes": 667429,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 568168,
+      "winning_candidate": "GODAM NAGESH"
+    },
+    {
+      "constituency": "Karimnagar (3)",
+      "loser_votes": 727736,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 585116,
+      "winning_candidate": "BANDI SANJAY KUMAR"
+    },
+    {
+      "constituency": "Nizamabad(4)",
+      "loser_votes": 641263,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 592318,
+      "winning_candidate": "ARVIND DHARMAPURI"
+    },
+    {
+      "constituency": "Medak(6)",
+      "loser_votes": 915022,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 471217,
+      "winning_candidate": "MADHAVANENI RAGHUNANDAN RAO"
+    },
+    {
+      "constituency": "Secunderabad(8)",
+      "loser_votes": 574647,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 473012,
+      "winning_candidate": "G. KISHAN REDDY"
+    },
+    {
+      "constituency": "Chevella(10)",
+      "loser_votes": 865472,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 809882,
+      "winning_candidate": "KONDA VISHWESHWAR REDDY"
+    },
+    {
+      "constituency": "Mahbubnagar(11)",
+      "loser_votes": 715331,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 510747,
+      "winning_candidate": "ARUNA. D. K"
+    },
+    {
+      "constituency": "Peddapalle (2)",
+      "loser_votes": 619708,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 475587,
+      "winning_candidate": "VAMSI KRISHNA GADDAM"
+    },
+    {
+      "constituency": "Zahirabad(5)",
+      "loser_votes": 708175,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 528418,
+      "winning_candidate": "SURESH KUMAR SHETKAR"
+    },
+    {
+      "constituency": "Nagarkurnool(12)",
+      "loser_votes": 754151,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 465072,
+      "winning_candidate": "DR.MALLU RAVI"
+    },
+    {
+      "constituency": "Bhongir (14)",
+      "loser_votes": 772253,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 629143,
+      "winning_candidate": "CHAMALA KIRAN KUMAR REDDY"
+    },
+    {
+      "constituency": "Warangal(15)",
+      "loser_votes": 686652,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 581294,
+      "winning_candidate": "KADIYAM KAVYA"
+    }
+  ],
+  "Tripura": [],
+  "Uttar Pradesh": [
+    {
+      "constituency": "Kairana(2)",
+      "loser_votes": 551793,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 528013,
+      "winning_candidate": "IQRA CHOUDHARY"
+    },
+    {
+      "constituency": "Muzaffarnagar(3)",
+      "loser_votes": 607948,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 470721,
+      "winning_candidate": "HARENDRA SINGH MALIK"
+    },
+    {
+      "constituency": "Moradabad(6)",
+      "loser_votes": 645822,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 637363,
+      "winning_candidate": "RUCHI VIRA"
+    },
+    {
+      "constituency": "Rampur(7)",
+      "loser_votes": 486576,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 481503,
+      "winning_candidate": "MOHIBBULLAH"
+    },
+    {
+      "constituency": "Sambhal(8)",
+      "loser_votes": 623822,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 571161,
+      "winning_candidate": "ZIA UR REHMAN"
+    },
+    {
+      "constituency": "Firozabad(20)",
+      "loser_votes": 564259,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 543037,
+      "winning_candidate": "AKSHAYA YADAV"
+    },
+    {
+      "constituency": "Etah(22)",
+      "loser_votes": 534573,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 475808,
+      "winning_candidate": "DEVESH SHAKYA"
+    },
+    {
+      "constituency": "Badaun(23)",
+      "loser_votes": 589909,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 501855,
+      "winning_candidate": "ADITYA YADAV"
+    },
+    {
+      "constituency": "Aonla(24)",
+      "loser_votes": 596381,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 492515,
+      "winning_candidate": "NEERAJ MAURYA"
+    },
+    {
+      "constituency": "Kheri(28)",
+      "loser_votes": 655994,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 557365,
+      "winning_candidate": "UTKARSH VERMA  'MADHUR'"
+    },
+    {
+      "constituency": "Dhaurahra(29)",
+      "loser_votes": 668104,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 443743,
+      "winning_candidate": "ANAND BHADAURIYA"
+    },
+    {
+      "constituency": "Mohanlalganj(34)",
+      "loser_votes": 709583,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 667869,
+      "winning_candidate": "R.K. CHAUDHARY"
+    },
+    {
+      "constituency": "Sultanpur(38)",
+      "loser_votes": 589057,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 444330,
+      "winning_candidate": "RAMBHUAL NISHAD"
+    },
+    {
+      "constituency": "Pratapgarh(39)",
+      "loser_votes": 505356,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 441932,
+      "winning_candidate": "SHIV PAL SINGH PATEL (DR. S P SINGH)"
+    },
+    {
+      "constituency": "Etawah(41)",
+      "loser_votes": 543037,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 490747,
+      "winning_candidate": "JITENDRA KUMAR DOHARE"
+    },
+    {
+      "constituency": "Jalaun(45)",
+      "loser_votes": 598769,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 530180,
+      "winning_candidate": "NARAYAN DAS AHIRWAR"
+    },
+    {
+      "constituency": "Hamirpur(47)",
+      "loser_votes": 624616,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 490683,
+      "winning_candidate": "AJENDRA SINGH LODHI"
+    },
+    {
+      "constituency": "Banda(48)",
+      "loser_votes": 637565,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 406567,
+      "winning_candidate": "KRISHNA DEVI SHIVSHANKER PATEL"
+    },
+    {
+      "constituency": "Fatehpur(49)",
+      "loser_votes": 606616,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 500328,
+      "winning_candidate": "NARESH CHANDRA UTTAM PATEL"
+    },
+    {
+      "constituency": "Faizabad(54)",
+      "loser_votes": 586372,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 554289,
+      "winning_candidate": "AWADHESH PRASAD"
+    },
+    {
+      "constituency": "Ambedkar Nagar(55)",
+      "loser_votes": 632103,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 544959,
+      "winning_candidate": "LALJI VERMA"
+    },
+    {
+      "constituency": "Shrawasti(58)",
+      "loser_votes": 535473,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 511055,
+      "winning_candidate": "RAM SHIROMANI VERMA"
+    },
+    {
+      "constituency": "Basti(61)",
+      "loser_votes": 555865,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 527005,
+      "winning_candidate": "RAM PRASAD CHAUDHARY"
+    },
+    {
+      "constituency": "Sant Kabir Nagar(62)",
+      "loser_votes": 592507,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 498695,
+      "winning_candidate": "LAXMIKANT PAPPU NISHAD"
+    },
+    {
+      "constituency": "Lalganj(68)",
+      "loser_votes": 563479,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 439959,
+      "winning_candidate": "DAROGA PRASAD SAROJ"
+    },
+    {
+      "constituency": "Azamgarh(69)",
+      "loser_votes": 546281,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 508239,
+      "winning_candidate": "DHARMENDRA YADAV"
+    },
+    {
+      "constituency": "Ghosi(70)",
+      "loser_votes": 647459,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 503131,
+      "winning_candidate": "RAJEEV RAI"
+    },
+    {
+      "constituency": "Salempur(71)",
+      "loser_votes": 511890,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 405472,
+      "winning_candidate": "RAMASHANKAR RAJBHAR"
+    },
+    {
+      "constituency": "Ballia(72)",
+      "loser_votes": 540254,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 467068,
+      "winning_candidate": "SANATAN PANDEY"
+    },
+    {
+      "constituency": "Jaunpur(73)",
+      "loser_votes": 592658,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 509130,
+      "winning_candidate": "BABU SINGH KUSHWAHA"
+    },
+    {
+      "constituency": "Machhlishahr(74)",
+      "loser_votes": 608771,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 451292,
+      "winning_candidate": "PRIYA SAROJ"
+    },
+    {
+      "constituency": "Ghazipur(75)",
+      "loser_votes": 613182,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 539912,
+      "winning_candidate": "AFZAL ANSARI"
+    },
+    {
+      "constituency": "Chandauli(76)",
+      "loser_votes": 642023,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 474476,
+      "winning_candidate": "BIRENDRA SINGH"
+    },
+    {
+      "constituency": "Robertsganj(80)",
+      "loser_votes": 543697,
+      "winner_party": "Samajwadi Party",
+      "winner_votes": 465848,
+      "winning_candidate": "CHHOTELAL"
+    },
+    {
+      "constituency": "Amroha(9)",
+      "loser_votes": 634184,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 476506,
+      "winning_candidate": "KANWAR SINGH TANWAR"
+    },
+    {
+      "constituency": "Meerut(10)",
+      "loser_votes": 636010,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 546469,
+      "winning_candidate": "ARUN GOVIL"
+    },
+    {
+      "constituency": "Aligarh(15)",
+      "loser_votes": 631532,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 501834,
+      "winning_candidate": "SATISH KUMAR GAUTAM"
+    },
+    {
+      "constituency": "Fatehpur Sikri(19)",
+      "loser_votes": 588498,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 445657,
+      "winning_candidate": "RAJKUMAR CHAHAR"
+    },
+    {
+      "constituency": "Shahjahanpur(27)",
+      "loser_votes": 655184,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 592718,
+      "winning_candidate": "ARUN KUMAR SAGAR"
+    },
+    {
+      "constituency": "Hardoi(31)",
+      "loser_votes": 613318,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 486798,
+      "winning_candidate": "JAI PRAKASH"
+    },
+    {
+      "constituency": "Misrikh(32)",
+      "loser_votes": 576967,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 475016,
+      "winning_candidate": "ASHOK KUMAR RAWAT"
+    },
+    {
+      "constituency": "Unnao(33)",
+      "loser_votes": 686138,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 616133,
+      "winning_candidate": "SWAMI SACHCHIDANAND HARI SAKSHI"
+    },
+    {
+      "constituency": "Farrukhabad(40)",
+      "loser_votes": 545831,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 487963,
+      "winning_candidate": "MUKESH RAJPUT"
+    },
+    {
+      "constituency": "Kanpur(43)",
+      "loser_votes": 444341,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 443055,
+      "winning_candidate": "RAMESH AWASTHI"
+    },
+    {
+      "constituency": "Akbarpur(44)",
+      "loser_votes": 569530,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 517423,
+      "winning_candidate": "DEVENDRA SINGH ALIAS BHOLE SINGH"
+    },
+    {
+      "constituency": "Phulpur(51)",
+      "loser_votes": 562224,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 452600,
+      "winning_candidate": "PRAVEEN PATEL"
+    },
+    {
+      "constituency": "Baharaich(56)",
+      "loser_votes": 537764,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 518802,
+      "winning_candidate": "ANAND KUMAR"
+    },
+    {
+      "constituency": "Gonda(59)",
+      "loser_votes": 478626,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 474258,
+      "winning_candidate": "KIRTIVARDHAN SINGH"
+    },
+    {
+      "constituency": "Domariyaganj(60)",
+      "loser_votes": 555662,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 463303,
+      "winning_candidate": "JAGDAMBIKA PAL"
+    },
+    {
+      "constituency": "Maharajganj(63)",
+      "loser_votes": 619141,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 591310,
+      "winning_candidate": "PANKAJ CHAUDHARY"
+    },
+    {
+      "constituency": "Kushi Nagar(65)",
+      "loser_votes": 564138,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 516345,
+      "winning_candidate": "VIJAY KUMAR DUBAY"
+    },
+    {
+      "constituency": "Deoria(66)",
+      "loser_votes": 538767,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 504541,
+      "winning_candidate": "SHASHANK MANI"
+    },
+    {
+      "constituency": "Bansgaon(67)",
+      "loser_votes": 516070,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 428693,
+      "winning_candidate": "KAMLESH PASWAN"
+    },
+    {
+      "constituency": "Bhadohi(78)",
+      "loser_votes": 625011,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 459982,
+      "winning_candidate": "DR. VINOD KUMAR BIND"
+    },
+    {
+      "constituency": "Saharanpur(1)",
+      "loser_votes": 681488,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 547967,
+      "winning_candidate": "IMRAN MASOOD"
+    },
+    {
+      "constituency": "Sitapur(30)",
+      "loser_votes": 570877,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 531138,
+      "winning_candidate": "RAKESH RATHOR"
+    },
+    {
+      "constituency": "Allahabad(52)",
+      "loser_votes": 484855,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 462145,
+      "winning_candidate": "UJJWAL RAMAN SINGH"
+    },
+    {
+      "constituency": "Bijnor(4)",
+      "loser_votes": 619939,
+      "winner_party": "Rashtriya Lok Dal",
+      "winner_votes": 404493,
+      "winning_candidate": "CHANDAN CHAUHAN"
+    },
+    {
+      "constituency": "Mirzapur(79)",
+      "loser_votes": 633774,
+      "winner_party": "Apna Dal (Soneylal)",
+      "winner_votes": 471631,
+      "winning_candidate": "ANUPRIYA PATEL"
+    }
+  ],
+  "Uttarakhand": [],
+  "West Bengal": [
+    {
+      "constituency": "Coochbehar(1)",
+      "loser_votes": 834673,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 788375,
+      "winning_candidate": "JAGADISH CHANDRA BARMA BASUNIA"
+    },
+    {
+      "constituency": "Jangipur(9)",
+      "loser_votes": 825206,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 544427,
+      "winning_candidate": "KHALILUR RAHAMAN"
+    },
+    {
+      "constituency": "Baharampur(10)",
+      "loser_votes": 860254,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 524516,
+      "winning_candidate": "PATHAN YUSUF"
+    },
+    {
+      "constituency": "Murshidabad(11)",
+      "loser_votes": 859117,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 682442,
+      "winning_candidate": "ABU TAHER KHAN"
+    },
+    {
+      "constituency": "Krishnanagar(12)",
+      "loser_votes": 796923,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 628789,
+      "winning_candidate": "MAHUA MOITRA"
+    },
+    {
+      "constituency": "Barrackpur(15)",
+      "loser_votes": 621629,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 520231,
+      "winning_candidate": "PARTHA BHOWMICK"
+    },
+    {
+      "constituency": "Dum dum(16)",
+      "loser_votes": 731467,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 528579,
+      "winning_candidate": "SOUGATA RAY"
+    },
+    {
+      "constituency": "Barasat(17)",
+      "loser_votes": 840591,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 692010,
+      "winning_candidate": "KAKOLI GHOSH DASTIDAR"
+    },
+    {
+      "constituency": "Jadavpur(22)",
+      "loser_votes": 848610,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 717899,
+      "winning_candidate": "SAYANI GHOSH"
+    },
+    {
+      "constituency": "Kolkata Dakshin(23)",
+      "loser_votes": 628203,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 615274,
+      "winning_candidate": "MALA ROY"
+    },
+    {
+      "constituency": "Kolkata Uttar(24)",
+      "loser_votes": 503737,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 454696,
+      "winning_candidate": "BANDYOPADHYAY SUDIP"
+    },
+    {
+      "constituency": "Howrah(25)",
+      "loser_votes": 645303,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 626493,
+      "winning_candidate": "PRASUN BANERJEE"
+    },
+    {
+      "constituency": "Srerampur(27)",
+      "loser_votes": 802562,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 673970,
+      "winning_candidate": "KALYAN BANERJEE"
+    },
+    {
+      "constituency": "Hooghly(28)",
+      "loser_votes": 814767,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 702744,
+      "winning_candidate": "RACHNA BANERJEE"
+    },
+    {
+      "constituency": "Arambagh(29)",
+      "loser_votes": 846492,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 712587,
+      "winning_candidate": "BAG MITALI"
+    },
+    {
+      "constituency": "Jhargram(33)",
+      "loser_votes": 747365,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 743478,
+      "winning_candidate": "KALIPADA SAREN (KHERWAL)"
+    },
+    {
+      "constituency": "Medinipur(34)",
+      "loser_votes": 779371,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 702192,
+      "winning_candidate": "JUNE MALIAH"
+    },
+    {
+      "constituency": "Bankura(36)",
+      "loser_votes": 805861,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 641813,
+      "winning_candidate": "ARUP CHAKRABORTY"
+    },
+    {
+      "constituency": "Bardhaman Purba(38)",
+      "loser_votes": 777008,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 720302,
+      "winning_candidate": "DR. SHARMILA SARKAR"
+    },
+    {
+      "constituency": "Bardhaman-Durgapur(39)",
+      "loser_votes": 781106,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 720667,
+      "winning_candidate": "AZAD KIRTI JHA"
+    },
+    {
+      "constituency": "Asansol(40)",
+      "loser_votes": 695895,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 605645,
+      "winning_candidate": "SHATRUGHAN PRASAD SINHA"
+    },
+    {
+      "constituency": "Birbhum(42)",
+      "loser_votes": 809471,
+      "winner_party": "All India Trinamool Congress",
+      "winner_votes": 717961,
+      "winning_candidate": "SATABDI ROY"
+    },
+    {
+      "constituency": "Alipurduars(2)",
+      "loser_votes": 726075,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 695314,
+      "winning_candidate": "MANOJ TIGGA"
+    },
+    {
+      "constituency": "Jalpaiguri(3)",
+      "loser_votes": 811821,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 766568,
+      "winning_candidate": "DR JAYANTA KUMAR ROY"
+    },
+    {
+      "constituency": "Raiganj(5)",
+      "loser_votes": 807574,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 560897,
+      "winning_candidate": "KARTICK CHANDRA PAUL"
+    },
+    {
+      "constituency": "Balurghat(6)",
+      "loser_votes": 662312,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 574996,
+      "winning_candidate": "SUKANTA MAJUMDAR"
+    },
+    {
+      "constituency": "Maldaha Uttar(7)",
+      "loser_votes": 890566,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 527023,
+      "winning_candidate": "KHAGEN MURMU"
+    },
+    {
+      "constituency": "Bangaon(14)",
+      "loser_votes": 773603,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 719505,
+      "winning_candidate": "SHANTANU THAKUR"
+    },
+    {
+      "constituency": "Tamluk(30)",
+      "loser_votes": 811735,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 765584,
+      "winning_candidate": "ABHIJIT GANGOPADHYAY"
+    },
+    {
+      "constituency": "Kanthi(31)",
+      "loser_votes": 767802,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 763195,
+      "winning_candidate": "ADHIKARI SOUMENDU"
+    },
+    {
+      "constituency": "Purulia(35)",
+      "loser_votes": 855529,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 578489,
+      "winning_candidate": "JYOTIRMAY SINGH MAHATO"
+    },
+    {
+      "constituency": "Bishnupur(37)",
+      "loser_votes": 833742,
+      "winner_party": "Bharatiya Janata Party",
+      "winner_votes": 680130,
+      "winning_candidate": "KHAN SAUMITRA"
+    },
+    {
+      "constituency": "Maldaha Dakshin(8)",
+      "loser_votes": 797394,
+      "winner_party": "Indian National Congress",
+      "winner_votes": 572395,
+      "winning_candidate": "ISHA KHAN CHOUDHURY"
+    }
+  ]
+}

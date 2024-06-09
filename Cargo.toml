@@ -1,6 +1,6 @@
 [workspace]
 members = [ "state-wise-votes"
-, "vote-percentage"]
+, "vote-percentage", "vote-splitting"]
 
 resolver = "2"
 
