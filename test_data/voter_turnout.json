@@ -1,0 +1,22 @@
+{
+  "Andaman & Nicobar Islands": [
+    {
+      "constituency": "Andaman & Nicobar Islands(1)",
+      "turnout_votes": 184854
+    }
+  ],
+  "Andhra Pradesh": [
+    {
+      "constituency": "Srikakulam(2)",
+      "turnout_votes": 1198627
+    },
+    {
+      "constituency": "Vizianagaram(3)",
+      "turnout_votes": 1236875
+    },
+    {
+      "constituency": "Visakhapatnam(4)",
+      "turnout_votes": 1310687
+    }
+  ]
+}
