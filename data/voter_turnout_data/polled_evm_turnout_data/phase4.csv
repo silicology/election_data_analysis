@@ -1,0 +1,97 @@
+sl_no,state,pc_name,count_of_elector,poll_percentage,count_of_votes
+1,Andhra Pradesh,Amalapuram (SC),1531410,83.85,1284018
+2,Andhra Pradesh,Anakapalle,1596916,82.03,1309977
+3,Andhra Pradesh,Ananthapur,1767591,80.51,1423108
+4,Andhra Pradesh,Araku (ST),1554633,73.68,1145426
+5,Andhra Pradesh,Bapatla (SC),1506354,85.48,1287704
+6,Andhra Pradesh,Chittoor(SC),1640202,85.77,1406880
+7,Andhra Pradesh,Eluru,1637430,83.68,1370153
+8,Andhra Pradesh,Guntur,1791543,78.81,1411989
+9,Andhra Pradesh,Hindupur,1656775,84.70,1403259
+10,Andhra Pradesh,Kadapa,1639066,79.57,1304256
+11,Andhra Pradesh,Kakinada,1634122,80.30,1312255
+12,Andhra Pradesh,Kurnoolu,1722857,76.80,1323071
+13,Andhra Pradesh,Machilipatnam,1539460,84.05,1293935
+14,Andhra Pradesh,Nandyal,1721013,80.61,1387367
+15,Andhra Pradesh,Narsapuram,1472923,82.59,1216550
+16,Andhra Pradesh,Narsaraopet,1734858,85.65,1485909
+17,Andhra Pradesh,Nellore,1712274,79.05,1353563
+18,Andhra Pradesh,Ongole,1607832,87.06,1399707
+19,Andhra Pradesh,Rajahmundry,1623149,80.93,1313630
+20,Andhra Pradesh,Rajampet,1665702,79.09,1317448
+21,Andhra Pradesh,Srikakulam,1631174,74.43,1214128
+22,Andhra Pradesh,Thirupathi(SC),1729832,79.10,1368362
+23,Andhra Pradesh,Vijayawada,1704077,79.37,1352495
+24,Andhra Pradesh,Visakhapatnam,1927303,71.11,1370484
+25,Andhra Pradesh,Vizianagaram,1585206,81.05,1284886
+26,Bihar,Begusarai,2196089,58.70,1289076
+27,Bihar,Darbhanga,1781356,57.37,1021962
+28,Bihar,Munger,2042279,55.55,1134548
+29,Bihar,Samastipur,1818530,60.11,1093182
+30,Bihar,Ujiarpur,1745408,59.59,1040026
+31,Jammu and Kashmir,SRINAGAR,1747810,38.49,672653
+32,Jharkhand,Khunti,1326138,69.93,927422
+33,Jharkhand,Lohardaga,1441302,66.45,957690
+34,Jharkhand,Palamau,2243034,61.27,1374358
+35,Jharkhand,Singhbhum,1447562,69.32,1003482
+36,Madhya Pradesh,DEWAS,1940472,75.48,1464690
+37,Madhya Pradesh,DHAR,1953834,72.76,1421585
+38,Madhya Pradesh,INDORE,2526803,61.67,1558341
+39,Madhya Pradesh,KHANDWA,2112203,71.52,1510588
+40,Madhya Pradesh,KHARGONE,2046030,76.03,1555585
+41,Madhya Pradesh,MANDSOUR,1898060,75.27,1428623
+42,Madhya Pradesh,RATLAM,2094548,72.94,1527828
+43,Madhya Pradesh,UJJAIN,1798704,73.82,1327715
+44,Maharashtra,Ahmednagar,1981866,66.61,1320168
+45,Maharashtra,Aurangabad,2059710,63.03,1298227
+46,Maharashtra,Beed,2142547,70.92,1519526
+47,Maharashtra,Jalgaon,1994046,58.47,1165968
+48,Maharashtra,Jalna,1967574,69.18,1361226
+49,Maharashtra,Maval,2585018,54.87,1418439
+50,Maharashtra,Nandurbar,1970327,70.68,1392635
+51,Maharashtra,Pune,2061276,53.54,1103678
+52,Maharashtra,Raver,1821750,64.28,1170944
+53,Maharashtra,Shirdi,1677335,63.03,1057298
+54,Maharashtra,Shirur,2539702,54.16,1375593
+55,Odisha,Berhampur,1591380,65.41,1040924
+56,Odisha,Kalahandi,1700780,77.90,1324936
+57,Odisha,Koraput,1480922,77.53,1148182
+58,Odisha,Nabarangpur,1514140,82.16,1243957
+59,Telangana,Adilabad,1650175,74.03,1221553
+60,Telangana,Bhongir,1808585,76.78,1388680
+61,Telangana,Chevella,2938370,56.40,1657107
+62,Telangana,Hyderabad,2217094,48.48,1074827
+63,Telangana,Karimnagar,1797150,72.54,1303690
+64,Telangana,Khammam,1631039,76.09,1241135
+65,Telangana,Mahabubabad,1532366,71.85,1101030
+66,Telangana,Mahbubnagar,1682470,72.43,1218587
+67,Telangana,Malkajgiri,3779596,50.78,1919131
+68,Telangana,Medak,1828210,75.09,1372894
+69,Telangana,Nagarkurnool,1738254,69.46,1207470
+70,Telangana,Nalgonda,1725465,74.02,1277137
+71,Telangana,Nizamabad,1704867,71.92,1226133
+72,Telangana,Peddapalle,1596430,67.87,1083467
+73,Telangana,Secunderabad,2120401,49.04,1039834
+74,Telangana,Warangal,1824466,68.86,1256301
+75,Telangana,Zahirabad,1641410,74.63,1225049
+76,Uttar Pradesh,Akbarpur,1869167,57.78,1079978
+77,Uttar Pradesh,Baharaich,1838684,57.42,1055818
+78,Uttar Pradesh,Dhaurahra,1719345,64.54,1109680
+79,Uttar Pradesh,Etawah,1828498,56.36,1030554
+80,Uttar Pradesh,Farrukhabad,1747182,59.08,1032244
+81,Uttar Pradesh,Hardoi,1910485,57.52,1098820
+82,Uttar Pradesh,Kannauj,1988925,61.08,1214886
+83,Uttar Pradesh,Kanpur,1662859,53.05,882074
+84,Uttar Pradesh,Kheri,1870170,64.68,1209621
+85,Uttar Pradesh,Misrikh,1878195,55.89,1049630
+86,Uttar Pradesh,Shahjahanpur,2331834,53.36,1244364
+87,Uttar Pradesh,Sitapur,1759943,62.54,1100741
+88,Uttar Pradesh,Unnao,2341740,55.46,1298677
+89,West Bengal,Asansol,1770281,73.27,1297096
+90,West Bengal,Baharampur,1783078,77.54,1382678
+91,West Bengal,Bardhaman Purba,1801333,82.85,1492453
+92,West Bengal,Bardhaman-Durgapur,1851780,80.72,1494778
+93,West Bengal,Birbhum,1857022,81.91,1521023
+94,West Bengal,Bolpur,1839234,82.66,1520401
+95,West Bengal,Krishnanagar,1755631,80.65,1415859
+96,West Bengal,Ranaghat,1871658,81.87,1532304

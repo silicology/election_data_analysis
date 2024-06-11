@@ -1,0 +1,58 @@
+sl_no,state,pc_name,count_of_elector,poll_percentage,count_of_votes
+1,Bihar,Arrah,2165574,50.27,1088685
+2,Bihar,Buxar,1923164,55.39,1065290
+3,Bihar,Jahanabad,1670327,55.09,920114
+4,Bihar,Karakat,1881191,54.68,1028641
+5,Bihar,Nalanda,2288240,49.78,1139006
+6,Bihar,Patliputra,2073685,59.24,1228549
+7,Bihar,Patna Sahib,2292045,46.85,1073847
+8,Bihar,Sasaram,1910368,57.16,1091993
+9,Chandigarh,Chandigarh,659805,67.98,448547
+10,Himachal Pradesh,HAMIRPUR,1432636,71.56,1025237
+11,Himachal Pradesh,KANGRA,1502514,67.89,1020026
+12,Himachal Pradesh,MANDI,1364060,73.15,997833
+13,Himachal Pradesh,SHIMLA,1346369,71.26,959445
+14,Jharkhand,Dumka,1591061,73.87,1175294
+15,Jharkhand,Godda,2028154,68.63,1391960
+16,Jharkhand,Rajmahal,1704671,70.78,1206577
+17,Odisha,Balasore,1608014,76.77,1234427
+18,Odisha,Bhadrak,1770915,73.23,1296802
+19,Odisha,Jagatsinghpur,1700814,75.48,1283700
+20,Odisha,Jajpur,1545664,74.47,1151038
+21,Odisha,Kendrapara,1792723,71.22,1276773
+22,Odisha,Mayurbhanj,1542927,75.79,1169335
+23,Punjab,Amritsar,1611263,56.06,903206
+24,Punjab,Anandpur Sahib,1732211,61.98,1073572
+25,Punjab,Bathinda,1651188,69.36,1145241
+26,Punjab,Faridkot,1594033,63.34,1009637
+27,Punjab,Fatehgarh Sahib,1552567,62.53,970783
+28,Punjab,Firozpur,1670008,67.02,1119167
+29,Punjab,Gurdaspur,1605204,66.67,1070267
+30,Punjab,Hoshiarpur,1601826,58.86,942766
+31,Punjab,Jalandhar,1654005,59.7,987508
+32,Punjab,Khadoor Sahib,1667797,62.55,1043248
+33,Punjab,Ludhiana,1758614,60.12,1057274
+34,Punjab,Patiala,1806424,63.63,1149417
+35,Punjab,Sangrur,1556601,64.63,1006048
+36,Uttar Pradesh,Ballia,1923645,52.05,1001317
+37,Uttar Pradesh,Bansgaon,1820854,51.79,943007
+38,Uttar Pradesh,Chandauli,1843196,60.58,1116673
+39,Uttar Pradesh,Deoria,1873821,55.51,1040178
+40,Uttar Pradesh,Ghazipur,2074883,55.45,1150496
+41,Uttar Pradesh,Ghosi,2083928,55.05,1147213
+42,Uttar Pradesh,Gorakhpur,2097202,54.93,1152057
+43,Uttar Pradesh,Kushi Nagar,1875222,57.57,1079573
+44,Uttar Pradesh,Maharajganj,2004050,60.31,1208589
+45,Uttar Pradesh,Mirzapur,1906327,57.92,1104186
+46,Uttar Pradesh,Robertsganj,1779189,56.78,1010277
+47,Uttar Pradesh,Salempur,1776982,51.38,913009
+48,Uttar Pradesh,Varanasi,1997578,56.49,1128527
+49,West Bengal,Barasat,1905400,80.17,1527620
+50,West Bengal,Basirhat,1804261,84.31,1521154
+51,West Bengal,Diamond harbour,1880779,81.04,1524138
+52,West Bengal,Dum dum,1699656,73.81,1254452
+53,West Bengal,Jadavpur,2033525,76.68,1559330
+54,West Bengal,Joynagar,1844780,80.08,1477298
+55,West Bengal,Kolkata Dakshin,1849520,66.95,1238256
+56,West Bengal,Kolkata Uttar,1505356,63.59,957319
+57,West Bengal,Mathurapur,1817068,82.02,1490299

@@ -1,0 +1,94 @@
+sl_no,state,pc_name,count_of_elector,poll_percentage,count_of_votes
+1,Assam,Barpeta,1966847,85.24,1676633
+2,Assam,Dhubri,2660827,92.08,2450041
+3,Assam,Guwahati,2036846,78.39,1596664
+4,Assam,Kokrajhar,1484571,83.55,1240306
+5,Bihar,Araria,2018767,61.93,1250261
+6,Bihar,Jhanjharpur,2003040,54.48,1091258
+7,Bihar,Khagaria,1840217,57.52,1058539
+8,Bihar,Madhepura,2071166,58.29,1207368
+9,Bihar,Supaul,1927207,63.55,1224821
+10,Chhattisgarh,BILASPUR,2102687,64.77,1361871
+11,Chhattisgarh,DURG,2090414,73.68,1540193
+12,Chhattisgarh,JANJGIR-CHAMPA,2056047,67.56,1389012
+13,Chhattisgarh,KORBA,1618864,75.63,1224268
+14,Chhattisgarh,RAIGARH,1838547,78.85,1449673
+15,Chhattisgarh,RAIPUR,2375379,66.82,1587116
+16,Chhattisgarh,SURGUJA,1819347,79.89,1453444
+17,Dadra &amp; Nagar Haveli and Daman &amp; Diu,Dadar &amp; Nagar Haveli,283024,72.52,205248
+18,Dadra &amp; Nagar Haveli and Daman &amp; Diu,Daman &amp; Diu,134189,68.77,92279
+19,Goa,North Goa,580577,77.69,451042
+20,Goa,South Goa,598767,74.47,445916
+21,Gujarat,Ahmedabad East,2038162,54.72,1115317
+22,Gujarat,Ahmedabad West,1726987,55.45,957573
+23,Gujarat,Amreli,1732810,50.29,871373
+24,Gujarat,Anand,1780182,65.04,1157763
+25,Gujarat,Banaskantha,1961924,69.62,1365989
+26,Gujarat,Bardoli,2048408,64.81,1327669
+27,Gujarat,Bharuch,1723353,69.16,1191877
+28,Gujarat,Bhavnagar,1916900,53.92,1033629
+29,Gujarat,Chhota Udaipur,1821708,69.15,1259760
+30,Gujarat,Dahod,1875136,59.31,1112211
+31,Gujarat,Gandhinagar,2182736,59.80,1305197
+32,Gujarat,Jamnagar,1817864,57.67,1048410
+33,Gujarat,Junagadh,1795110,58.91,1057462
+34,Gujarat,Kachchh,1943136,56.14,1090878
+35,Gujarat,Kheda,2007404,58.12,1166619
+36,Gujarat,Mahesana,1770617,59.86,1059938
+37,Gujarat,Navsari,2223550,59.66,1326542
+38,Gujarat,Panchmahal,1896743,58.85,1116171
+39,Gujarat,Patan,2019916,58.56,1182950
+40,Gujarat,Porbandar,1768212,51.83,916519
+41,Gujarat,Rajkot,2112273,59.69,1260768
+42,Gujarat,Sabarkantha,1976349,63.56,1256210
+43,Gujarat,Surendranagar,2033419,55.09,1120128
+44,Gujarat,Vadodara,1949573,61.59,1200768
+45,Gujarat,Valsad,1859974,72.71,1352413
+46,Karnataka,Bagalkot,1806183,72.66,1312319
+47,Karnataka,Belgaum,1923788,71.49,1375283
+48,Karnataka,Bellary,1884040,73.59,1386553
+49,Karnataka,Bidar,1892962,65.47,1239358
+50,Karnataka,Bijapur,1946090,66.32,1290719
+51,Karnataka,Chikkodi,1761694,78.66,1385688
+52,Karnataka,Davanagere,1709244,76.99,1315916
+53,Karnataka,Dharwad,1831975,74.37,1362421
+54,Karnataka,Gulbarga,2098202,62.25,1306119
+55,Karnataka,Haveri,1792774,77.60,1391214
+56,Karnataka,Koppal,1866397,70.99,1324898
+57,Karnataka,Raichur,2010103,64.66,1299806
+58,Karnataka,Shimoga,1752885,78.33,1372949
+59,Karnataka,Uttara Kannada,1641156,76.53,1256027
+60,Madhya Pradesh,BETUL,1895331,73.53,1393608
+61,Madhya Pradesh,BHIND,1900654,54.93,1044022
+62,Madhya Pradesh,BHOPAL,2339411,64.06,1498626
+63,Madhya Pradesh,GUNA,1889551,72.43,1368554
+64,Madhya Pradesh,GWALIOR,2154601,62.13,1338708
+65,Madhya Pradesh,MORENA,2006730,58.97,1183282
+66,Madhya Pradesh,RAJGARH,1875211,76.04,1425911
+67,Madhya Pradesh,SAGAR,1745690,65.75,1147866
+68,Madhya Pradesh,VIDISHA,1945404,74.48,1449010
+69,Maharashtra,Baramati,2372668,59.50,1411621
+70,Maharashtra,Hatkanangale,1814277,71.11,1290073
+71,Maharashtra,Kolhapur,1936403,71.59,1386230
+72,Maharashtra,Latur,1977042,62.59,1237355
+73,Maharashtra,Madha,1991454,63.65,1267530
+74,Maharashtra,Osmanabad,1992737,63.88,1272969
+75,Maharashtra,Raigad,1668372,60.51,1009567
+76,Maharashtra,Ratnagiri- Sindhudurg,1451630,62.52,907618
+77,Maharashtra,Sangli,1868174,62.27,1163353
+78,Maharashtra,Satara,1889740,63.16,1193492
+79,Maharashtra,Solapur,2030119,59.19,1201586
+80,Uttar Pradesh,Agra,2072685,54.08,1120864
+81,Uttar Pradesh,Aonla,1891713,57.44,1086687
+82,Uttar Pradesh,Badaun,2008758,54.35,1091697
+83,Uttar Pradesh,Bareilly,1924434,58.03,1116749
+84,Uttar Pradesh,Etah,1700524,59.31,1008533
+85,Uttar Pradesh,Fatehpur Sikri,1798823,57.19,1028791
+86,Uttar Pradesh,Firozabad,1890772,58.53,1106747
+87,Uttar Pradesh,Hathras,1938080,55.71,1079731
+88,Uttar Pradesh,Mainpuri,1790797,58.73,1051758
+89,Uttar Pradesh,Sambhal,1898202,62.91,1194209
+90,West Bengal,Jangipur,1805360,75.72,1367014
+91,West Bengal,Maldaha Dakshin,1782159,76.69,1366728
+92,West Bengal,Maldaha Uttar,1862035,76.03,1415718
+93,West Bengal,Murshidabad,1888097,81.52,1539112

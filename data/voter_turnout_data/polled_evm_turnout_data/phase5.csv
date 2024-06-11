@@ -1,0 +1,50 @@
+sl_no,state,pc_name,count_of_elector,poll_percentage,count_of_votes
+1,Bihar,Hajipur,1967094,58.43,1149406
+2,Bihar,Madhubani,1934980,53.04,1026408
+3,Bihar,Muzaffarpur,1866106,59.47,1109688
+4,Bihar,Saran,1795010,56.73,1018366
+5,Bihar,Sitamarhi,1947996,56.21,1094885
+6,Jammu and Kashmir,BARAMULLA,1737865,59.10,1027084
+7,Jharkhand,Chatra,1689926,63.69,1076352
+8,Jharkhand,Hazaribagh,1939374,64.39,1248798
+9,Jharkhand,Kodarma,2205318,61.81,1363010
+10,Ladakh,Ladakh,184808,71.82,132727
+11,Maharashtra,Bhiwandi,2087244,59.89,1250090
+12,Maharashtra,Dhule,2022061,60.21,1217523
+13,Maharashtra,Dindori,1853387,66.75,1237180
+14,Maharashtra,Kalyan,2082221,50.12,1043610
+15,Maharashtra,Mumbai North,1811942,57.02,1033241
+16,Maharashtra,Mumbai North Central,1744128,51.98,906530
+17,Maharashtra,Mumbai North East,1636890,56.37,922760
+18,Maharashtra,Mumbai North West,1735088,54.84,951580
+19,Maharashtra,Mumbai South,1536168,50.06,769010
+20,Maharashtra,Mumbai South Central,1474405,53.60,790339
+21,Maharashtra,Nashik,2030124,60.75,1233379
+22,Maharashtra,Palghar,2148514,63.91,1373162
+23,Maharashtra,Thane,2507372,52.09,1306194
+24,Odisha,Aska,1620974,62.67,1015883
+25,Odisha,Bargarh,1631974,79.78,1302069
+26,Odisha,Bolangir,1801744,77.52,1396719
+27,Odisha,Kandhamal,1339090,74.16,993091
+28,Odisha,Sundargarh,1576105,73.02,1150875
+29,Uttar Pradesh,Amethi,1796098,54.34,976053
+30,Uttar Pradesh,Banda,1747425,59.70,1043256
+31,Uttar Pradesh,Barabanki,1918491,67.20,1289258
+32,Uttar Pradesh,Faizabad,1927459,59.14,1139882
+33,Uttar Pradesh,Fatehpur,1938563,57.09,1106690
+34,Uttar Pradesh,Gonda,1843121,51.62,951394
+35,Uttar Pradesh,Hamirpur,1839761,60.60,1114874
+36,Uttar Pradesh,Jalaun,2006161,56.18,1127112
+37,Uttar Pradesh,Jhansi,2161221,63.86,1380214
+38,Uttar Pradesh,Kaiserganj,1904726,55.68,1060576
+39,Uttar Pradesh,Kaushambi,1909620,52.80,1008255
+40,Uttar Pradesh,Lucknow,2172171,52.28,1135624
+41,Uttar Pradesh,Mohanlalganj,2187232,62.88,1375372
+42,Uttar Pradesh,Rae Bareli,1784314,58.12,1036997
+43,West Bengal,Arambagh,1883266,82.62,1555882
+44,West Bengal,Bangaon,1836374,81.04,1488209
+45,West Bengal,Barrackpur,1508728,75.41,1137763
+46,West Bengal,Hooghly,1858067,81.38,1512060
+47,West Bengal,Howrah,1769184,71.73,1269079
+48,West Bengal,Srerampur,1926645,76.44,1472793
+49,West Bengal,Uluberia,1741438,79.78,1389316

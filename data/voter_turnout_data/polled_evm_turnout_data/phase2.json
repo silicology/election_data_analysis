@@ -1,0 +1,706 @@
+[
+  {
+    "sl_no": "1",
+    "state": "Assam",
+    "pc_name": "Darrang-Udalguri",
+    "count_of_elector": "2209314",
+    "poll_percentage": "82.01",
+    "count_of_votes": "1811764"
+  },
+  {
+    "sl_no": "2",
+    "state": "Assam",
+    "pc_name": "Diphu",
+    "count_of_elector": "901032",
+    "poll_percentage": "75.74",
+    "count_of_votes": "682441"
+  },
+  {
+    "sl_no": "3",
+    "state": "Assam",
+    "pc_name": "Karimganj",
+    "count_of_elector": "1412148",
+    "poll_percentage": "80.48",
+    "count_of_votes": "1136538"
+  },
+  {
+    "sl_no": "4",
+    "state": "Assam",
+    "pc_name": "Nagaon",
+    "count_of_elector": "1817204",
+    "poll_percentage": "84.97",
+    "count_of_votes": "1544081"
+  },
+  {
+    "sl_no": "5",
+    "state": "Assam",
+    "pc_name": "Silchar",
+    "count_of_elector": "1369578",
+    "poll_percentage": "79.05",
+    "count_of_votes": "1082616"
+  },
+  {
+    "sl_no": "6",
+    "state": "Bihar",
+    "pc_name": "Banka",
+    "count_of_elector": "1856566",
+    "poll_percentage": "54.48",
+    "count_of_votes": "1011513"
+  },
+  {
+    "sl_no": "7",
+    "state": "Bihar",
+    "pc_name": "Bhagalpur",
+    "count_of_elector": "1983031",
+    "poll_percentage": "53.50",
+    "count_of_votes": "1060982"
+  },
+  {
+    "sl_no": "8",
+    "state": "Bihar",
+    "pc_name": "Katihar",
+    "count_of_elector": "1833009",
+    "poll_percentage": "63.76",
+    "count_of_votes": "1168752"
+  },
+  {
+    "sl_no": "9",
+    "state": "Bihar",
+    "pc_name": "Kishanganj",
+    "count_of_elector": "1829994",
+    "poll_percentage": "62.84",
+    "count_of_votes": "1149988"
+  },
+  {
+    "sl_no": "10",
+    "state": "Bihar",
+    "pc_name": "Purnia",
+    "count_of_elector": "1893698",
+    "poll_percentage": "63.08",
+    "count_of_votes": "1194484"
+  },
+  {
+    "sl_no": "11",
+    "state": "Chhattisgarh",
+    "pc_name": "KANKER",
+    "count_of_elector": "1654440",
+    "poll_percentage": "76.23",
+    "count_of_votes": "1261103"
+  },
+  {
+    "sl_no": "12",
+    "state": "Chhattisgarh",
+    "pc_name": "MAHASAMUND",
+    "count_of_elector": "1762477",
+    "poll_percentage": "75.02",
+    "count_of_votes": "1322125"
+  },
+  {
+    "sl_no": "13",
+    "state": "Chhattisgarh",
+    "pc_name": "RAJNANDGAON",
+    "count_of_elector": "1868021",
+    "poll_percentage": "77.42",
+    "count_of_votes": "1446247"
+  },
+  {
+    "sl_no": "14",
+    "state": "Jammu and Kashmir",
+    "pc_name": "JAMMU",
+    "count_of_elector": "1780835",
+    "poll_percentage": "72.22",
+    "count_of_votes": "1286144"
+  },
+  {
+    "sl_no": "15",
+    "state": "Karnataka",
+    "pc_name": "Bangalore central",
+    "count_of_elector": "2433751",
+    "poll_percentage": "54.06",
+    "count_of_votes": "1315612"
+  },
+  {
+    "sl_no": "16",
+    "state": "Karnataka",
+    "pc_name": "Bangalore North",
+    "count_of_elector": "3214496",
+    "poll_percentage": "54.45",
+    "count_of_votes": "1750372"
+  },
+  {
+    "sl_no": "17",
+    "state": "Karnataka",
+    "pc_name": "Bangalore Rural",
+    "count_of_elector": "2802580",
+    "poll_percentage": "68.30",
+    "count_of_votes": "1914030"
+  },
+  {
+    "sl_no": "18",
+    "state": "Karnataka",
+    "pc_name": "Bangalore South",
+    "count_of_elector": "2341759",
+    "poll_percentage": "53.17",
+    "count_of_votes": "1245168"
+  },
+  {
+    "sl_no": "19",
+    "state": "Karnataka",
+    "pc_name": "Chamarajanagar",
+    "count_of_elector": "1778310",
+    "poll_percentage": "76.82",
+    "count_of_votes": "1366015"
+  },
+  {
+    "sl_no": "20",
+    "state": "Karnataka",
+    "pc_name": "Chikkballapur",
+    "count_of_elector": "1981347",
+    "poll_percentage": "77.00",
+    "count_of_votes": "1525718"
+  },
+  {
+    "sl_no": "21",
+    "state": "Karnataka",
+    "pc_name": "Chitradurga",
+    "count_of_elector": "1856876",
+    "poll_percentage": "73.30",
+    "count_of_votes": "1361031"
+  },
+  {
+    "sl_no": "22",
+    "state": "Karnataka",
+    "pc_name": "Dakshina Kannada",
+    "count_of_elector": "1817603",
+    "poll_percentage": "77.56",
+    "count_of_votes": "1409653"
+  },
+  {
+    "sl_no": "23",
+    "state": "Karnataka",
+    "pc_name": "Hassan",
+    "count_of_elector": "1736610",
+    "poll_percentage": "77.68",
+    "count_of_votes": "1348966"
+  },
+  {
+    "sl_no": "24",
+    "state": "Karnataka",
+    "pc_name": "Kolar",
+    "count_of_elector": "1726914",
+    "poll_percentage": "78.27",
+    "count_of_votes": "1351646"
+  },
+  {
+    "sl_no": "25",
+    "state": "Karnataka",
+    "pc_name": "Mandya",
+    "count_of_elector": "1779243",
+    "poll_percentage": "81.67",
+    "count_of_votes": "1453060"
+  },
+  {
+    "sl_no": "26",
+    "state": "Karnataka",
+    "pc_name": "Mysore",
+    "count_of_elector": "2092222",
+    "poll_percentage": "70.62",
+    "count_of_votes": "1477576"
+  },
+  {
+    "sl_no": "27",
+    "state": "Karnataka",
+    "pc_name": "Tumkur",
+    "count_of_elector": "1661309",
+    "poll_percentage": "78.05",
+    "count_of_votes": "1296720"
+  },
+  {
+    "sl_no": "28",
+    "state": "Karnataka",
+    "pc_name": "Udupi Chikmagalur",
+    "count_of_elector": "1585162",
+    "poll_percentage": "77.15",
+    "count_of_votes": "1222888"
+  },
+  {
+    "sl_no": "29",
+    "state": "Kerala",
+    "pc_name": "Alappuzha",
+    "count_of_elector": "1400082",
+    "poll_percentage": "75.05",
+    "count_of_votes": "1050726"
+  },
+  {
+    "sl_no": "30",
+    "state": "Kerala",
+    "pc_name": "Alathur",
+    "count_of_elector": "1337496",
+    "poll_percentage": "73.42",
+    "count_of_votes": "981945"
+  },
+  {
+    "sl_no": "31",
+    "state": "Kerala",
+    "pc_name": "Attingal",
+    "count_of_elector": "1396807",
+    "poll_percentage": "69.48",
+    "count_of_votes": "970517"
+  },
+  {
+    "sl_no": "32",
+    "state": "Kerala",
+    "pc_name": "Chalakudy",
+    "count_of_elector": "1310529",
+    "poll_percentage": "71.94",
+    "count_of_votes": "942787"
+  },
+  {
+    "sl_no": "33",
+    "state": "Kerala",
+    "pc_name": "Ernakulam",
+    "count_of_elector": "1324047",
+    "poll_percentage": "68.29",
+    "count_of_votes": "904131"
+  },
+  {
+    "sl_no": "34",
+    "state": "Kerala",
+    "pc_name": "Idukki",
+    "count_of_elector": "1250157",
+    "poll_percentage": "66.55",
+    "count_of_votes": "831936"
+  },
+  {
+    "sl_no": "35",
+    "state": "Kerala",
+    "pc_name": "Kannur",
+    "count_of_elector": "1358368",
+    "poll_percentage": "77.21",
+    "count_of_votes": "1048839"
+  },
+  {
+    "sl_no": "36",
+    "state": "Kerala",
+    "pc_name": "Kasaragod",
+    "count_of_elector": "1452230",
+    "poll_percentage": "76.04",
+    "count_of_votes": "1104331"
+  },
+  {
+    "sl_no": "37",
+    "state": "Kerala",
+    "pc_name": "Kollam",
+    "count_of_elector": "1326648",
+    "poll_percentage": "68.15",
+    "count_of_votes": "904047"
+  },
+  {
+    "sl_no": "38",
+    "state": "Kerala",
+    "pc_name": "Kottayam",
+    "count_of_elector": "1254823",
+    "poll_percentage": "65.61",
+    "count_of_votes": "823237"
+  },
+  {
+    "sl_no": "39",
+    "state": "Kerala",
+    "pc_name": "Kozhikode",
+    "count_of_elector": "1429631",
+    "poll_percentage": "75.52",
+    "count_of_votes": "1079683"
+  },
+  {
+    "sl_no": "40",
+    "state": "Kerala",
+    "pc_name": "Malappuram",
+    "count_of_elector": "1479921",
+    "poll_percentage": "72.95",
+    "count_of_votes": "1079547"
+  },
+  {
+    "sl_no": "41",
+    "state": "Kerala",
+    "pc_name": "Mavelikkara",
+    "count_of_elector": "1331880",
+    "poll_percentage": "65.95",
+    "count_of_votes": "878360"
+  },
+  {
+    "sl_no": "42",
+    "state": "Kerala",
+    "pc_name": "Palakkad",
+    "count_of_elector": "1398143",
+    "poll_percentage": "73.57",
+    "count_of_votes": "1028627"
+  },
+  {
+    "sl_no": "43",
+    "state": "Kerala",
+    "pc_name": "Pathanamthitta",
+    "count_of_elector": "1429700",
+    "poll_percentage": "63.37",
+    "count_of_votes": "906051"
+  },
+  {
+    "sl_no": "44",
+    "state": "Kerala",
+    "pc_name": "Ponnani",
+    "count_of_elector": "1470804",
+    "poll_percentage": "69.34",
+    "count_of_votes": "1019889"
+  },
+  {
+    "sl_no": "45",
+    "state": "Kerala",
+    "pc_name": "Thiruvananthapuram",
+    "count_of_elector": "1430531",
+    "poll_percentage": "66.47",
+    "count_of_votes": "950829"
+  },
+  {
+    "sl_no": "46",
+    "state": "Kerala",
+    "pc_name": "Thrissur",
+    "count_of_elector": "1483055",
+    "poll_percentage": "72.90",
+    "count_of_votes": "1081125"
+  },
+  {
+    "sl_no": "47",
+    "state": "Kerala",
+    "pc_name": "Vadakara",
+    "count_of_elector": "1421883",
+    "poll_percentage": "78.41",
+    "count_of_votes": "1114950"
+  },
+  {
+    "sl_no": "48",
+    "state": "Kerala",
+    "pc_name": "Wayanad",
+    "count_of_elector": "1462423",
+    "poll_percentage": "73.57",
+    "count_of_votes": "1075921"
+  },
+  {
+    "sl_no": "49",
+    "state": "Madhya Pradesh",
+    "pc_name": "DAMOH",
+    "count_of_elector": "1925314",
+    "poll_percentage": "56.48",
+    "count_of_votes": "1087455"
+  },
+  {
+    "sl_no": "50",
+    "state": "Madhya Pradesh",
+    "pc_name": "HOSHANGABAD",
+    "count_of_elector": "1855692",
+    "poll_percentage": "67.21",
+    "count_of_votes": "1247298"
+  },
+  {
+    "sl_no": "51",
+    "state": "Madhya Pradesh",
+    "pc_name": "KHAJURAHO",
+    "count_of_elector": "1997483",
+    "poll_percentage": "56.97",
+    "count_of_votes": "1137867"
+  },
+  {
+    "sl_no": "52",
+    "state": "Madhya Pradesh",
+    "pc_name": "REWA",
+    "count_of_elector": "1852126",
+    "poll_percentage": "49.43",
+    "count_of_votes": "915444"
+  },
+  {
+    "sl_no": "53",
+    "state": "Madhya Pradesh",
+    "pc_name": "SATNA",
+    "count_of_elector": "1705260",
+    "poll_percentage": "61.94",
+    "count_of_votes": "1056175"
+  },
+  {
+    "sl_no": "54",
+    "state": "Madhya Pradesh",
+    "pc_name": "TIKAMGARH",
+    "count_of_elector": "1826585",
+    "poll_percentage": "60.00",
+    "count_of_votes": "1096023"
+  },
+  {
+    "sl_no": "55",
+    "state": "Maharashtra",
+    "pc_name": "Akola",
+    "count_of_elector": "1890814",
+    "poll_percentage": "61.79",
+    "count_of_votes": "1168366"
+  },
+  {
+    "sl_no": "56",
+    "state": "Maharashtra",
+    "pc_name": "Amravati",
+    "count_of_elector": "1836078",
+    "poll_percentage": "63.67",
+    "count_of_votes": "1169121"
+  },
+  {
+    "sl_no": "57",
+    "state": "Maharashtra",
+    "pc_name": "Buldhana",
+    "count_of_elector": "1782700",
+    "poll_percentage": "62.03",
+    "count_of_votes": "1105761"
+  },
+  {
+    "sl_no": "58",
+    "state": "Maharashtra",
+    "pc_name": "Hingoli",
+    "count_of_elector": "1817734",
+    "poll_percentage": "63.54",
+    "count_of_votes": "1154958"
+  },
+  {
+    "sl_no": "59",
+    "state": "Maharashtra",
+    "pc_name": "Nanded",
+    "count_of_elector": "1851843",
+    "poll_percentage": "60.94",
+    "count_of_votes": "1128564"
+  },
+  {
+    "sl_no": "60",
+    "state": "Maharashtra",
+    "pc_name": "Parbhani",
+    "count_of_elector": "2123056",
+    "poll_percentage": "62.26",
+    "count_of_votes": "1321868"
+  },
+  {
+    "sl_no": "61",
+    "state": "Maharashtra",
+    "pc_name": "Wardha",
+    "count_of_elector": "1682771",
+    "poll_percentage": "64.85",
+    "count_of_votes": "1091351"
+  },
+  {
+    "sl_no": "62",
+    "state": "Maharashtra",
+    "pc_name": "Yavatmal- Washim",
+    "count_of_elector": "1940916",
+    "poll_percentage": "62.87",
+    "count_of_votes": "1220189"
+  },
+  {
+    "sl_no": "63",
+    "state": "Manipur",
+    "pc_name": "Outer Manipur",
+    "count_of_elector": "484949",
+    "poll_percentage": "85.11",
+    "count_of_votes": "412737"
+  },
+  {
+    "sl_no": "64",
+    "state": "Rajasthan",
+    "pc_name": "AJMER",
+    "count_of_elector": "1995699",
+    "poll_percentage": "59.66",
+    "count_of_votes": "1190561"
+  },
+  {
+    "sl_no": "65",
+    "state": "Rajasthan",
+    "pc_name": "BANSWARA",
+    "count_of_elector": "2200438",
+    "poll_percentage": "73.88",
+    "count_of_votes": "1625731"
+  },
+  {
+    "sl_no": "66",
+    "state": "Rajasthan",
+    "pc_name": "BARMER",
+    "count_of_elector": "2206237",
+    "poll_percentage": "75.93",
+    "count_of_votes": "1675276"
+  },
+  {
+    "sl_no": "67",
+    "state": "Rajasthan",
+    "pc_name": "BHILWARA",
+    "count_of_elector": "2147159",
+    "poll_percentage": "60.37",
+    "count_of_votes": "1296228"
+  },
+  {
+    "sl_no": "68",
+    "state": "Rajasthan",
+    "pc_name": "CHITTORGARH",
+    "count_of_elector": "2170167",
+    "poll_percentage": "68.61",
+    "count_of_votes": "1488898"
+  },
+  {
+    "sl_no": "69",
+    "state": "Rajasthan",
+    "pc_name": "JALORE",
+    "count_of_elector": "2297328",
+    "poll_percentage": "62.89",
+    "count_of_votes": "1444866"
+  },
+  {
+    "sl_no": "70",
+    "state": "Rajasthan",
+    "pc_name": "JHALAWAR-BARAN",
+    "count_of_elector": "2030525",
+    "poll_percentage": "69.71",
+    "count_of_votes": "1415420"
+  },
+  {
+    "sl_no": "71",
+    "state": "Rajasthan",
+    "pc_name": "JODHPUR",
+    "count_of_elector": "2132713",
+    "poll_percentage": "64.27",
+    "count_of_votes": "1370616"
+  },
+  {
+    "sl_no": "72",
+    "state": "Rajasthan",
+    "pc_name": "KOTA",
+    "count_of_elector": "2088023",
+    "poll_percentage": "71.26",
+    "count_of_votes": "1487879"
+  },
+  {
+    "sl_no": "73",
+    "state": "Rajasthan",
+    "pc_name": "PALI",
+    "count_of_elector": "2343232",
+    "poll_percentage": "57.19",
+    "count_of_votes": "1339989"
+  },
+  {
+    "sl_no": "74",
+    "state": "Rajasthan",
+    "pc_name": "RAJSAMAND",
+    "count_of_elector": "2060942",
+    "poll_percentage": "58.39",
+    "count_of_votes": "1203299"
+  },
+  {
+    "sl_no": "75",
+    "state": "Rajasthan",
+    "pc_name": "TONK-SAWAI MADHOPUR",
+    "count_of_elector": "2148128",
+    "poll_percentage": "56.58",
+    "count_of_votes": "1215309"
+  },
+  {
+    "sl_no": "76",
+    "state": "Rajasthan",
+    "pc_name": "UDAIPUR",
+    "count_of_elector": "2230971",
+    "poll_percentage": "66.66",
+    "count_of_votes": "1487268"
+  },
+  {
+    "sl_no": "77",
+    "state": "Tripura",
+    "pc_name": "Tripura East",
+    "count_of_elector": "1396761",
+    "poll_percentage": "80.36",
+    "count_of_votes": "1122424"
+  },
+  {
+    "sl_no": "78",
+    "state": "Uttar Pradesh",
+    "pc_name": "Aligarh",
+    "count_of_elector": "1997234",
+    "poll_percentage": "56.93",
+    "count_of_votes": "1137051"
+  },
+  {
+    "sl_no": "79",
+    "state": "Uttar Pradesh",
+    "pc_name": "Amroha",
+    "count_of_elector": "1716641",
+    "poll_percentage": "64.58",
+    "count_of_votes": "1108579"
+  },
+  {
+    "sl_no": "80",
+    "state": "Uttar Pradesh",
+    "pc_name": "Baghpat",
+    "count_of_elector": "1653146",
+    "poll_percentage": "56.16",
+    "count_of_votes": "928392"
+  },
+  {
+    "sl_no": "81",
+    "state": "Uttar Pradesh",
+    "pc_name": "Bulandshahr",
+    "count_of_elector": "1859462",
+    "poll_percentage": "56.42",
+    "count_of_votes": "1049189"
+  },
+  {
+    "sl_no": "82",
+    "state": "Uttar Pradesh",
+    "pc_name": "Gautam Buddha Nagar",
+    "count_of_elector": "2675148",
+    "poll_percentage": "53.63",
+    "count_of_votes": "1434667"
+  },
+  {
+    "sl_no": "83",
+    "state": "Uttar Pradesh",
+    "pc_name": "Ghaziabad",
+    "count_of_elector": "2945487",
+    "poll_percentage": "49.88",
+    "count_of_votes": "1469260"
+  },
+  {
+    "sl_no": "84",
+    "state": "Uttar Pradesh",
+    "pc_name": "Mathura",
+    "count_of_elector": "1929550",
+    "poll_percentage": "49.41",
+    "count_of_votes": "953388"
+  },
+  {
+    "sl_no": "85",
+    "state": "Uttar Pradesh",
+    "pc_name": "Meerut",
+    "count_of_elector": "2000530",
+    "poll_percentage": "58.94",
+    "count_of_votes": "1179121"
+  },
+  {
+    "sl_no": "86",
+    "state": "West Bengal",
+    "pc_name": "Balurghat",
+    "count_of_elector": "1561966",
+    "poll_percentage": "79.09",
+    "count_of_votes": "1235347"
+  },
+  {
+    "sl_no": "87",
+    "state": "West Bengal",
+    "pc_name": "Darjeeling",
+    "count_of_elector": "1765744",
+    "poll_percentage": "74.76",
+    "count_of_votes": "1320072"
+  },
+  {
+    "sl_no": "88",
+    "state": "West Bengal",
+    "pc_name": "Raiganj",
+    "count_of_elector": "1790245",
+    "poll_percentage": "76.18",
+    "count_of_votes": "1363854"
+  }
+]
