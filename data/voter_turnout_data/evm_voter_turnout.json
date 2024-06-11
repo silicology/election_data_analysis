@@ -1,0 +1,2246 @@
+{
+  "Andaman & Nicobar Islands": [
+    {
+      "constituency": "Andaman & Nicobar Islands(1)",
+      "evm_turnout_votes": 201992
+    }
+  ],
+  "Andhra Pradesh": [
+    {
+      "constituency": "Srikakulam(2)",
+      "evm_turnout_votes": 1208912
+    },
+    {
+      "constituency": "Vizianagaram(3)",
+      "evm_turnout_votes": 1278710
+    },
+    {
+      "constituency": "Visakhapatnam(4)",
+      "evm_turnout_votes": 1366795
+    },
+    {
+      "constituency": "Amalapuram (SC)(7)",
+      "evm_turnout_votes": 1284957
+    },
+    {
+      "constituency": "Eluru(10)",
+      "evm_turnout_votes": 1366884
+    },
+    {
+      "constituency": "Vijayawada(12)",
+      "evm_turnout_votes": 1347527
+    },
+    {
+      "constituency": "Guntur(13)",
+      "evm_turnout_votes": 1404061
+    },
+    {
+      "constituency": "Narsaraopet(14)",
+      "evm_turnout_votes": 1482913
+    },
+    {
+      "constituency": "Bapatla (SC)(15)",
+      "evm_turnout_votes": 1282422
+    },
+    {
+      "constituency": "Ongole(16)",
+      "evm_turnout_votes": 1401174
+    },
+    {
+      "constituency": "Nandyal(17)",
+      "evm_turnout_votes": 1385007
+    },
+    {
+      "constituency": "Kurnoolu(18)",
+      "evm_turnout_votes": 1316682
+    },
+    {
+      "constituency": "Ananthapur(19)",
+      "evm_turnout_votes": 1420357
+    },
+    {
+      "constituency": "Hindupur(20)",
+      "evm_turnout_votes": 1396687
+    },
+    {
+      "constituency": "Nellore(22)",
+      "evm_turnout_votes": 1352418
+    },
+    {
+      "constituency": "Chittoor(SC)(25)",
+      "evm_turnout_votes": 1400022
+    },
+    {
+      "constituency": "Araku (ST)(1)",
+      "evm_turnout_votes": 1143013
+    },
+    {
+      "constituency": "Kadapa(21)",
+      "evm_turnout_votes": 1300147
+    },
+    {
+      "constituency": "Thirupathi(SC)(23)",
+      "evm_turnout_votes": 1365358
+    },
+    {
+      "constituency": "Rajampet(24)",
+      "evm_turnout_votes": 1314182
+    },
+    {
+      "constituency": "Anakapalle(5)",
+      "evm_turnout_votes": 1306348
+    },
+    {
+      "constituency": "Rajahmundry(8)",
+      "evm_turnout_votes": 1311751
+    },
+    {
+      "constituency": "Narsapuram(9)",
+      "evm_turnout_votes": 1217351
+    },
+    {
+      "constituency": "Kakinada(6)",
+      "evm_turnout_votes": 1312770
+    },
+    {
+      "constituency": "Machilipatnam(11)",
+      "evm_turnout_votes": 1292057
+    }
+  ],
+  "Arunachal Pradesh": [
+    {
+      "constituency": "Arunachal West(1)",
+      "evm_turnout_votes": 379611
+    },
+    {
+      "constituency": "Arunachal East(2)",
+      "evm_turnout_votes": 310213
+    }
+  ],
+  "Assam": [
+    {
+      "constituency": "Darrang-Udalguri(4)",
+      "evm_turnout_votes": 1804194
+    },
+    {
+      "constituency": "Guwahati(5)",
+      "evm_turnout_votes": 1594699
+    },
+    {
+      "constituency": "Diphu(6)",
+      "evm_turnout_votes": 678288
+    },
+    {
+      "constituency": "Karimganj(7)",
+      "evm_turnout_votes": 1140349
+    },
+    {
+      "constituency": "Silchar (8)",
+      "evm_turnout_votes": 1082612
+    },
+    {
+      "constituency": "Kaziranga(10)",
+      "evm_turnout_votes": 1623167
+    },
+    {
+      "constituency": "Sonitpur(11)",
+      "evm_turnout_votes": 1281074
+    },
+    {
+      "constituency": "Lakhimpur(12)",
+      "evm_turnout_votes": 1203562
+    },
+    {
+      "constituency": "Dibrugarh(13)",
+      "evm_turnout_votes": 1273727
+    },
+    {
+      "constituency": "Dhubri (2)",
+      "evm_turnout_votes": 2445683
+    },
+    {
+      "constituency": "Nagaon(9)",
+      "evm_turnout_votes": 1544126
+    },
+    {
+      "constituency": "Jorhat(14)",
+      "evm_turnout_votes": 1377003
+    },
+    {
+      "constituency": "Kokrajhar (1)",
+      "evm_turnout_votes": 1229546
+    },
+    {
+      "constituency": "Barpeta(3)",
+      "evm_turnout_votes": 1675229
+    }
+  ],
+  "Bihar": [
+    {
+      "constituency": "Valmiki Nagar (1)",
+      "evm_turnout_votes": 1098897
+    },
+    {
+      "constituency": "Sheohar(4)",
+      "evm_turnout_votes": 1052505
+    },
+    {
+      "constituency": "Sitamarhi(5)",
+      "evm_turnout_votes": 1091836
+    },
+    {
+      "constituency": "Jhanjharpur(7)",
+      "evm_turnout_votes": 1091394
+    },
+    {
+      "constituency": "Supaul(8)",
+      "evm_turnout_votes": 1225026
+    },
+    {
+      "constituency": "Madhepura(13)",
+      "evm_turnout_votes": 1207499
+    },
+    {
+      "constituency": "Gopalganj(17)",
+      "evm_turnout_votes": 1059393
+    },
+    {
+      "constituency": "Siwan(18)",
+      "evm_turnout_votes": 995506
+    },
+    {
+      "constituency": "Bhagalpur(26)",
+      "evm_turnout_votes": 1061614
+    },
+    {
+      "constituency": "Banka(27)",
+      "evm_turnout_votes": 1011616
+    },
+    {
+      "constituency": "Munger(28)",
+      "evm_turnout_votes": 1134550
+    },
+    {
+      "constituency": "Nalanda(29)",
+      "evm_turnout_votes": 1139336
+    },
+    {
+      "constituency": "Paschim Champaran(2)",
+      "evm_turnout_votes": 1082170
+    },
+    {
+      "constituency": "Purvi Champaran(3)",
+      "evm_turnout_votes": 1069091
+    },
+    {
+      "constituency": "Madhubani(6)",
+      "evm_turnout_votes": 1026338
+    },
+    {
+      "constituency": "Araria(9)",
+      "evm_turnout_votes": 1250207
+    },
+    {
+      "constituency": "Darbhanga(14)",
+      "evm_turnout_votes": 1022134
+    },
+    {
+      "constituency": "Muzaffarpur(15)",
+      "evm_turnout_votes": 1110095
+    },
+    {
+      "constituency": "Maharajganj(19)",
+      "evm_turnout_votes": 1011462
+    },
+    {
+      "constituency": "Saran(20)",
+      "evm_turnout_votes": 1018494
+    },
+    {
+      "constituency": "Ujiarpur(22)",
+      "evm_turnout_votes": 1040183
+    },
+    {
+      "constituency": "Begusarai(24)",
+      "evm_turnout_votes": 1288395
+    },
+    {
+      "constituency": "Patna Sahib(30)",
+      "evm_turnout_votes": 1073762
+    },
+    {
+      "constituency": "Nawada(39)",
+      "evm_turnout_votes": 864900
+    },
+    {
+      "constituency": "Vaishali(16)",
+      "evm_turnout_votes": 1169861
+    },
+    {
+      "constituency": "Hajipur(21)",
+      "evm_turnout_votes": 1149394
+    },
+    {
+      "constituency": "Samastipur(23)",
+      "evm_turnout_votes": 1092821
+    },
+    {
+      "constituency": "Khagaria(25)",
+      "evm_turnout_votes": 1058612
+    },
+    {
+      "constituency": "Jamui(40)",
+      "evm_turnout_votes": 977338
+    },
+    {
+      "constituency": "Patliputra(31)",
+      "evm_turnout_votes": 1227339
+    },
+    {
+      "constituency": "Buxar(33)",
+      "evm_turnout_votes": 1066300
+    },
+    {
+      "constituency": "Jahanabad(36)",
+      "evm_turnout_votes": 920112
+    },
+    {
+      "constituency": "Aurangabad(37)",
+      "evm_turnout_votes": 942301
+    },
+    {
+      "constituency": "Kishanganj(10)",
+      "evm_turnout_votes": 1150070
+    },
+    {
+      "constituency": "Katihar(11)",
+      "evm_turnout_votes": 1168194
+    },
+    {
+      "constituency": "Sasaram(34)",
+      "evm_turnout_votes": 1092158
+    },
+    {
+      "constituency": "Arrah(32)",
+      "evm_turnout_votes": 1088409
+    },
+    {
+      "constituency": "Karakat(35)",
+      "evm_turnout_votes": 1027665
+    },
+    {
+      "constituency": "Gaya(38)",
+      "evm_turnout_votes": 958387
+    },
+    {
+      "constituency": "Purnia(12)",
+      "evm_turnout_votes": 1194607
+    }
+  ],
+  "Chandigarh": [
+    {
+      "constituency": "Chandigarh(1)",
+      "evm_turnout_votes": 448548
+    }
+  ],
+  "Chhattisgarh": [
+    {
+      "constituency": "SURGUJA(1)",
+      "evm_turnout_votes": 1453064
+    },
+    {
+      "constituency": "RAIGARH(2)",
+      "evm_turnout_votes": 1449708
+    },
+    {
+      "constituency": "JANJGIR-CHAMPA(3)",
+      "evm_turnout_votes": 1387196
+    },
+    {
+      "constituency": "BILASPUR(5)",
+      "evm_turnout_votes": 1358037
+    },
+    {
+      "constituency": "RAJNANDGAON(6)",
+      "evm_turnout_votes": 1444139
+    },
+    {
+      "constituency": "DURG(7)",
+      "evm_turnout_votes": 1539539
+    },
+    {
+      "constituency": "RAIPUR(8)",
+      "evm_turnout_votes": 1582240
+    },
+    {
+      "constituency": "MAHASAMUND(9)",
+      "evm_turnout_votes": 1322134
+    },
+    {
+      "constituency": "BASTAR(10)",
+      "evm_turnout_votes": 1004596
+    },
+    {
+      "constituency": "KANKER(11)",
+      "evm_turnout_votes": 1260153
+    },
+    {
+      "constituency": "KORBA(4)",
+      "evm_turnout_votes": 1222833
+    }
+  ],
+  "Dadra & Nagar Haveli and Daman & Diu": [
+    {
+      "constituency": "Dadar & Nagar Haveli(2)",
+      "evm_turnout_votes": 205257
+    },
+    {
+      "constituency": "Daman & Diu (1)",
+      "evm_turnout_votes": 92279
+    }
+  ],
+  "Goa": [
+    {
+      "constituency": "North Goa(1)",
+      "evm_turnout_votes": 451054
+    },
+    {
+      "constituency": "South Goa(2)",
+      "evm_turnout_votes": 445924
+    }
+  ],
+  "Gujarat": [
+    {
+      "constituency": "Kachchh(1)",
+      "evm_turnout_votes": 1090881
+    },
+    {
+      "constituency": "Patan(3)",
+      "evm_turnout_votes": 1181373
+    },
+    {
+      "constituency": "Mahesana(4)",
+      "evm_turnout_votes": 1059316
+    },
+    {
+      "constituency": "Sabarkantha(5)",
+      "evm_turnout_votes": 1256286
+    },
+    {
+      "constituency": "Gandhinagar(6)",
+      "evm_turnout_votes": 1304840
+    },
+    {
+      "constituency": "Ahmedabad East(7)",
+      "evm_turnout_votes": 1114791
+    },
+    {
+      "constituency": "Ahmedabad West(8)",
+      "evm_turnout_votes": 957571
+    },
+    {
+      "constituency": "Surendranagar(9)",
+      "evm_turnout_votes": 1120179
+    },
+    {
+      "constituency": "Rajkot(10)",
+      "evm_turnout_votes": 1260778
+    },
+    {
+      "constituency": "Porbandar(11)",
+      "evm_turnout_votes": 916558
+    },
+    {
+      "constituency": "Jamnagar(12)",
+      "evm_turnout_votes": 1047992
+    },
+    {
+      "constituency": "Junagadh(13)",
+      "evm_turnout_votes": 1057454
+    },
+    {
+      "constituency": "Amreli(14)",
+      "evm_turnout_votes": 871373
+    },
+    {
+      "constituency": "Bhavnagar(15)",
+      "evm_turnout_votes": 1031533
+    },
+    {
+      "constituency": "Anand(16)",
+      "evm_turnout_votes": 1156426
+    },
+    {
+      "constituency": "Kheda(17)",
+      "evm_turnout_votes": 1164397
+    },
+    {
+      "constituency": "Panchmahal(18)",
+      "evm_turnout_votes": 1116210
+    },
+    {
+      "constituency": "Dahod(19)",
+      "evm_turnout_votes": 1112249
+    },
+    {
+      "constituency": "Vadodara(20)",
+      "evm_turnout_votes": 1200380
+    },
+    {
+      "constituency": "Chhota Udaipur(21)",
+      "evm_turnout_votes": 1258990
+    },
+    {
+      "constituency": "Bharuch(22)",
+      "evm_turnout_votes": 1192000
+    },
+    {
+      "constituency": "Bardoli(23)",
+      "evm_turnout_votes": 1324475
+    },
+    {
+      "constituency": "Surat(24)",
+      "evm_turnout_votes": 0
+    },
+    {
+      "constituency": "Navsari(25)",
+      "evm_turnout_votes": 1326543
+    },
+    {
+      "constituency": "Valsad(26)",
+      "evm_turnout_votes": 1351637
+    },
+    {
+      "constituency": "Banaskantha(2)",
+      "evm_turnout_votes": 1365141
+    }
+  ],
+  "Haryana": [
+    {
+      "constituency": "AMBALA(1)",
+      "evm_turnout_votes": 1344533
+    },
+    {
+      "constituency": "SIRSA(3)",
+      "evm_turnout_votes": 1351949
+    },
+    {
+      "constituency": "HISAR(4)",
+      "evm_turnout_votes": 1168313
+    },
+    {
+      "constituency": "SONIPAT(6)",
+      "evm_turnout_votes": 1119190
+    },
+    {
+      "constituency": "ROHTAK(7)",
+      "evm_turnout_votes": 1239652
+    },
+    {
+      "constituency": "KURUKSHETRA(2)",
+      "evm_turnout_votes": 1202413
+    },
+    {
+      "constituency": "KARNAL(5)",
+      "evm_turnout_votes": 1341197
+    },
+    {
+      "constituency": "BHIWANI-MAHENDRAGARH(8)",
+      "evm_turnout_votes": 1171667
+    },
+    {
+      "constituency": "GURGAON(9)",
+      "evm_turnout_votes": 1596251
+    },
+    {
+      "constituency": "FARIDABAD(10)",
+      "evm_turnout_votes": 1469170
+    }
+  ],
+  "Himachal Pradesh": [
+    {
+      "constituency": "KANGRA(1)",
+      "evm_turnout_votes": 1019345
+    },
+    {
+      "constituency": "MANDI(2)",
+      "evm_turnout_votes": 997478
+    },
+    {
+      "constituency": "HAMIRPUR(3)",
+      "evm_turnout_votes": 1022970
+    },
+    {
+      "constituency": "SHIMLA(4)",
+      "evm_turnout_votes": 958978
+    }
+  ],
+  "Jammu and Kashmir": [
+    {
+      "constituency": "SRINAGAR(2)",
+      "evm_turnout_votes": 671933
+    },
+    {
+      "constituency": "ANANTNAG-RAJOURI(3)",
+      "evm_turnout_votes": 1017520
+    },
+    {
+      "constituency": "UDHAMPUR(4)",
+      "evm_turnout_votes": 1106472
+    },
+    {
+      "constituency": "JAMMU(5)",
+      "evm_turnout_votes": 1285944
+    },
+    {
+      "constituency": "BARAMULLA(1)",
+      "evm_turnout_votes": 1026457
+    }
+  ],
+  "Jharkhand": [
+    {
+      "constituency": "Godda(3)",
+      "evm_turnout_votes": 1388559
+    },
+    {
+      "constituency": "Chatra(4)",
+      "evm_turnout_votes": 1074449
+    },
+    {
+      "constituency": "Kodarma(5)",
+      "evm_turnout_votes": 1360792
+    },
+    {
+      "constituency": "Dhanbad(7)",
+      "evm_turnout_votes": 1414710
+    },
+    {
+      "constituency": "Ranchi(8)",
+      "evm_turnout_votes": 1432859
+    },
+    {
+      "constituency": "Jamshedpur(9)",
+      "evm_turnout_votes": 1264240
+    },
+    {
+      "constituency": "Palamau(13)",
+      "evm_turnout_votes": 1373737
+    },
+    {
+      "constituency": "Hazaribagh(14)",
+      "evm_turnout_votes": 1249093
+    },
+    {
+      "constituency": "Rajmahal(1)",
+      "evm_turnout_votes": 1206675
+    },
+    {
+      "constituency": "Dumka(2)",
+      "evm_turnout_votes": 1174681
+    },
+    {
+      "constituency": "Singhbhum(10)",
+      "evm_turnout_votes": 999884
+    },
+    {
+      "constituency": "Khunti(11)",
+      "evm_turnout_votes": 924725
+    },
+    {
+      "constituency": "Lohardaga(12)",
+      "evm_turnout_votes": 954698
+    },
+    {
+      "constituency": "Giridih(6)",
+      "evm_turnout_votes": 1253005
+    }
+  ],
+  "Karnataka": [
+    {
+      "constituency": "Belgaum(2)",
+      "evm_turnout_votes": 1375285
+    },
+    {
+      "constituency": "Bagalkot(3)",
+      "evm_turnout_votes": 1311893
+    },
+    {
+      "constituency": "Bijapur(4)",
+      "evm_turnout_votes": 1289986
+    },
+    {
+      "constituency": "Haveri(10)",
+      "evm_turnout_votes": 1390513
+    },
+    {
+      "constituency": "Dharwad(11)",
+      "evm_turnout_votes": 1362521
+    },
+    {
+      "constituency": "Uttara Kannada(12)",
+      "evm_turnout_votes": 1256012
+    },
+    {
+      "constituency": "Shimoga(14)",
+      "evm_turnout_votes": 1372668
+    },
+    {
+      "constituency": "Udupi Chikmagalur(15)",
+      "evm_turnout_votes": 1222939
+    },
+    {
+      "constituency": "Dakshina Kannada(17)",
+      "evm_turnout_votes": 1408738
+    },
+    {
+      "constituency": "Chitradurga(18)",
+      "evm_turnout_votes": 1360301
+    },
+    {
+      "constituency": "Tumkur(19)",
+      "evm_turnout_votes": 1296730
+    },
+    {
+      "constituency": "Mysore(21)",
+      "evm_turnout_votes": 1476661
+    },
+    {
+      "constituency": "Bangalore Rural(23)",
+      "evm_turnout_votes": 1914024
+    },
+    {
+      "constituency": "Bangalore North(24)",
+      "evm_turnout_votes": 1747729
+    },
+    {
+      "constituency": "Bangalore central(25)",
+      "evm_turnout_votes": 1313862
+    },
+    {
+      "constituency": "Bangalore South(26)",
+      "evm_turnout_votes": 1245188
+    },
+    {
+      "constituency": "Chikkballapur(27)",
+      "evm_turnout_votes": 1525885
+    },
+    {
+      "constituency": "Chikkodi(1)",
+      "evm_turnout_votes": 1385725
+    },
+    {
+      "constituency": "Gulbarga(5)",
+      "evm_turnout_votes": 1306167
+    },
+    {
+      "constituency": "Raichur(6)",
+      "evm_turnout_votes": 1295636
+    },
+    {
+      "constituency": "Bidar(7)",
+      "evm_turnout_votes": 1239406
+    },
+    {
+      "constituency": "Koppal(8)",
+      "evm_turnout_votes": 1324940
+    },
+    {
+      "constituency": "Bellary(9)",
+      "evm_turnout_votes": 1386559
+    },
+    {
+      "constituency": "Davanagere(13)",
+      "evm_turnout_votes": 1315951
+    },
+    {
+      "constituency": "Hassan(16)",
+      "evm_turnout_votes": 1348013
+    },
+    {
+      "constituency": "Chamarajanagar(22)",
+      "evm_turnout_votes": 1365929
+    },
+    {
+      "constituency": "Mandya(20)",
+      "evm_turnout_votes": 1453087
+    },
+    {
+      "constituency": "Kolar(28)",
+      "evm_turnout_votes": 1351321
+    }
+  ],
+  "Kerala": [
+    {
+      "constituency": "Kasaragod(1)",
+      "evm_turnout_votes": 1103719
+    },
+    {
+      "constituency": "Kannur(2)",
+      "evm_turnout_votes": 1048785
+    },
+    {
+      "constituency": "Vadakara(3)",
+      "evm_turnout_votes": 1110765
+    },
+    {
+      "constituency": "Wayanad(4)",
+      "evm_turnout_votes": 1075706
+    },
+    {
+      "constituency": "Kozhikode(5)",
+      "evm_turnout_votes": 1078637
+    },
+    {
+      "constituency": "Palakkad(8)",
+      "evm_turnout_votes": 1027240
+    },
+    {
+      "constituency": "Chalakudy(11)",
+      "evm_turnout_votes": 942792
+    },
+    {
+      "constituency": "Ernakulam(12)",
+      "evm_turnout_votes": 904102
+    },
+    {
+      "constituency": "Idukki(13)",
+      "evm_turnout_votes": 831914
+    },
+    {
+      "constituency": "Alappuzha(15)",
+      "evm_turnout_votes": 1042798
+    },
+    {
+      "constituency": "Mavelikkara (16)",
+      "evm_turnout_votes": 878986
+    },
+    {
+      "constituency": "Pathanamthitta(17)",
+      "evm_turnout_votes": 905748
+    },
+    {
+      "constituency": "Attingal(19)",
+      "evm_turnout_votes": 970517
+    },
+    {
+      "constituency": "Thiruvananthapuram(20)",
+      "evm_turnout_votes": 950874
+    },
+    {
+      "constituency": "Malappuram(6)",
+      "evm_turnout_votes": 1078038
+    },
+    {
+      "constituency": "Ponnani(7)",
+      "evm_turnout_votes": 1019932
+    },
+    {
+      "constituency": "Alathur (9)",
+      "evm_turnout_votes": 981566
+    },
+    {
+      "constituency": "Thrissur(10)",
+      "evm_turnout_votes": 1081181
+    },
+    {
+      "constituency": "Kottayam(14)",
+      "evm_turnout_votes": 822566
+    },
+    {
+      "constituency": "Kollam(18)",
+      "evm_turnout_votes": 902539
+    }
+  ],
+  "Ladakh": [
+    {
+      "constituency": "Ladakh(1)",
+      "evm_turnout_votes": 132614
+    }
+  ],
+  "Lakshadweep": [
+    {
+      "constituency": "Lakshadweep(1)",
+      "evm_turnout_votes": 48630
+    }
+  ],
+  "Madhya Pradesh": [
+    {
+      "constituency": "MORENA(1)",
+      "evm_turnout_votes": 1183586
+    },
+    {
+      "constituency": "BHIND(2)",
+      "evm_turnout_votes": 1043084
+    },
+    {
+      "constituency": "GWALIOR(3)",
+      "evm_turnout_votes": 1337928
+    },
+    {
+      "constituency": "GUNA(4)",
+      "evm_turnout_votes": 1368520
+    },
+    {
+      "constituency": "SAGAR(5)",
+      "evm_turnout_votes": 1147932
+    },
+    {
+      "constituency": "TIKAMGARH(6)",
+      "evm_turnout_votes": 1096402
+    },
+    {
+      "constituency": "DAMOH(7)",
+      "evm_turnout_votes": 1087123
+    },
+    {
+      "constituency": "KHAJURAHO(8)",
+      "evm_turnout_votes": 1138109
+    },
+    {
+      "constituency": "SATNA(9)",
+      "evm_turnout_votes": 1056421
+    },
+    {
+      "constituency": "REWA(10)",
+      "evm_turnout_votes": 914978
+    },
+    {
+      "constituency": "SIDHI(11)",
+      "evm_turnout_votes": 1145388
+    },
+    {
+      "constituency": "SHAHDOL(12)",
+      "evm_turnout_votes": 1149082
+    },
+    {
+      "constituency": "JABALPUR(13)",
+      "evm_turnout_votes": 1156434
+    },
+    {
+      "constituency": "MANDLA(14)",
+      "evm_turnout_votes": 1531950
+    },
+    {
+      "constituency": "BALAGHAT(15)",
+      "evm_turnout_votes": 1377188
+    },
+    {
+      "constituency": "CHHINDWARA(16)",
+      "evm_turnout_votes": 1302172
+    },
+    {
+      "constituency": "HOSHANGABAD(17)",
+      "evm_turnout_votes": 1247358
+    },
+    {
+      "constituency": "VIDISHA(18)",
+      "evm_turnout_votes": 1449038
+    },
+    {
+      "constituency": "BHOPAL(19)",
+      "evm_turnout_votes": 1494415
+    },
+    {
+      "constituency": "RAJGARH(20)",
+      "evm_turnout_votes": 1424176
+    },
+    {
+      "constituency": "DEWAS(21)",
+      "evm_turnout_votes": 1464796
+    },
+    {
+      "constituency": "UJJAIN(22)",
+      "evm_turnout_votes": 1326071
+    },
+    {
+      "constituency": "MANDSOUR(23)",
+      "evm_turnout_votes": 1428345
+    },
+    {
+      "constituency": "RATLAM(24)",
+      "evm_turnout_votes": 1528176
+    },
+    {
+      "constituency": "DHAR(25)",
+      "evm_turnout_votes": 1422029
+    },
+    {
+      "constituency": "INDORE(26)",
+      "evm_turnout_votes": 1558311
+    },
+    {
+      "constituency": "KHARGONE(27)",
+      "evm_turnout_votes": 1555958
+    },
+    {
+      "constituency": "KHANDWA(28)",
+      "evm_turnout_votes": 1509810
+    },
+    {
+      "constituency": "BETUL(29)",
+      "evm_turnout_votes": 1393686
+    }
+  ],
+  "Maharashtra": [
+    {
+      "constituency": "Nandurbar(1)",
+      "evm_turnout_votes": 1391396
+    },
+    {
+      "constituency": "Dhule(2)",
+      "evm_turnout_votes": 1215525
+    },
+    {
+      "constituency": "Amravati (7)",
+      "evm_turnout_votes": 1169205
+    },
+    {
+      "constituency": "Ramtek (9)",
+      "evm_turnout_votes": 1249961
+    },
+    {
+      "constituency": "Bhandara Gondiya(11)",
+      "evm_turnout_votes": 1224251
+    },
+    {
+      "constituency": "Gadchiroli - Chimur(12)",
+      "evm_turnout_votes": 1161041
+    },
+    {
+      "constituency": "Chandrapur(13)",
+      "evm_turnout_votes": 1238291
+    },
+    {
+      "constituency": "Nanded(16)",
+      "evm_turnout_votes": 1123660
+    },
+    {
+      "constituency": "Jalna(18)",
+      "evm_turnout_votes": 1357971
+    },
+    {
+      "constituency": "Mumbai North Central(29)",
+      "evm_turnout_votes": 907229
+    },
+    {
+      "constituency": "Latur (41)",
+      "evm_turnout_votes": 1234853
+    },
+    {
+      "constituency": "Solapur(42)",
+      "evm_turnout_votes": 1201261
+    },
+    {
+      "constituency": "Kolhapur(47)",
+      "evm_turnout_votes": 1386232
+    },
+    {
+      "constituency": "Jalgaon(3)",
+      "evm_turnout_votes": 1165216
+    },
+    {
+      "constituency": "Raver(4)",
+      "evm_turnout_votes": 1169365
+    },
+    {
+      "constituency": "Akola(6)",
+      "evm_turnout_votes": 1167768
+    },
+    {
+      "constituency": "Nagpur(10)",
+      "evm_turnout_votes": 1207455
+    },
+    {
+      "constituency": "Palghar(22)",
+      "evm_turnout_votes": 1373159
+    },
+    {
+      "constituency": "Mumbai North(26)",
+      "evm_turnout_votes": 1032503
+    },
+    {
+      "constituency": "Pune(34)",
+      "evm_turnout_votes": 1103671
+    },
+    {
+      "constituency": "Satara(45)",
+      "evm_turnout_votes": 1193487
+    },
+    {
+      "constituency": "Ratnagiri- Sindhudurg(46)",
+      "evm_turnout_votes": 906206
+    },
+    {
+      "constituency": "Yavatmal- Washim(14)",
+      "evm_turnout_votes": 1220250
+    },
+    {
+      "constituency": "Hingoli(15)",
+      "evm_turnout_votes": 1154970
+    },
+    {
+      "constituency": "Parbhani(17)",
+      "evm_turnout_votes": 1321999
+    },
+    {
+      "constituency": "Nashik(21)",
+      "evm_turnout_votes": 1233252
+    },
+    {
+      "constituency": "Mumbai North East(28)",
+      "evm_turnout_votes": 922256
+    },
+    {
+      "constituency": "Mumbai South Central(30)",
+      "evm_turnout_votes": 790338
+    },
+    {
+      "constituency": "Mumbai South(31)",
+      "evm_turnout_votes": 769223
+    },
+    {
+      "constituency": "Shirdi (38)",
+      "evm_turnout_votes": 1057328
+    },
+    {
+      "constituency": "Osmanabad(40)",
+      "evm_turnout_votes": 1273099
+    },
+    {
+      "constituency": "Wardha(8)",
+      "evm_turnout_votes": 1090347
+    },
+    {
+      "constituency": "Dindori (20)",
+      "evm_turnout_votes": 1236675
+    },
+    {
+      "constituency": "Bhiwandi(23)",
+      "evm_turnout_votes": 1249338
+    },
+    {
+      "constituency": "Baramati(35)",
+      "evm_turnout_votes": 1410674
+    },
+    {
+      "constituency": "Shirur(36)",
+      "evm_turnout_votes": 1372797
+    },
+    {
+      "constituency": "Ahmednagar(37)",
+      "evm_turnout_votes": 1320318
+    },
+    {
+      "constituency": "Beed(39)",
+      "evm_turnout_votes": 1518614
+    },
+    {
+      "constituency": "Madha(43)",
+      "evm_turnout_votes": 1267125
+    },
+    {
+      "constituency": "Buldhana(5)",
+      "evm_turnout_votes": 1105267
+    },
+    {
+      "constituency": "Aurangabad(19)",
+      "evm_turnout_votes": 1297724
+    },
+    {
+      "constituency": "Kalyan(24)",
+      "evm_turnout_votes": 1042476
+    },
+    {
+      "constituency": "Thane(25)",
+      "evm_turnout_votes": 1304427
+    },
+    {
+      "constituency": "Mumbai North West(27)",
+      "evm_turnout_votes": 951582
+    },
+    {
+      "constituency": "Maval(33)",
+      "evm_turnout_votes": 1417866
+    },
+    {
+      "constituency": "Hatkanangale(48)",
+      "evm_turnout_votes": 1290191
+    },
+    {
+      "constituency": "Raigad(32)",
+      "evm_turnout_votes": 1008505
+    },
+    {
+      "constituency": "Sangli(44)",
+      "evm_turnout_votes": 1163363
+    }
+  ],
+  "Manipur": [
+    {
+      "constituency": "Inner Manipur(1)",
+      "evm_turnout_votes": 789912
+    },
+    {
+      "constituency": "Outer Manipur(2)",
+      "evm_turnout_votes": 791243
+    }
+  ],
+  "Meghalaya": [
+    {
+      "constituency": "Shillong(1)",
+      "evm_turnout_votes": 1033451
+    },
+    {
+      "constituency": "Tura(2)",
+      "evm_turnout_votes": 670441
+    }
+  ],
+  "Mizoram": [
+    {
+      "constituency": "MIZORAM(1)",
+      "evm_turnout_votes": 486889
+    }
+  ],
+  "NCT OF Delhi": [
+    {
+      "constituency": "Chandni Chowk(1)",
+      "evm_turnout_votes": 963895
+    },
+    {
+      "constituency": "North-East Delhi(2)",
+      "evm_turnout_votes": 1548476
+    },
+    {
+      "constituency": "East Delhi(3)",
+      "evm_turnout_votes": 1261887
+    },
+    {
+      "constituency": "New Delhi(4)",
+      "evm_turnout_votes": 844889
+    },
+    {
+      "constituency": "North-West Delhi(5)",
+      "evm_turnout_votes": 1482638
+    },
+    {
+      "constituency": "West Delhi(6)",
+      "evm_turnout_votes": 1518075
+    },
+    {
+      "constituency": "South Delhi(7)",
+      "evm_turnout_votes": 1293476
+    }
+  ],
+  "Nagaland": [
+    {
+      "constituency": "Nagaland(1)",
+      "evm_turnout_votes": 757154
+    }
+  ],
+  "Odisha": [
+    {
+      "constituency": "Bargarh(1)",
+      "evm_turnout_votes": 1300266
+    },
+    {
+      "constituency": "Sundargarh(2)",
+      "evm_turnout_votes": 1148968
+    },
+    {
+      "constituency": "Sambalpur(3)",
+      "evm_turnout_votes": 1190616
+    },
+    {
+      "constituency": "Keonjhar(4)",
+      "evm_turnout_votes": 1252761
+    },
+    {
+      "constituency": "Mayurbhanj(5)",
+      "evm_turnout_votes": 1165669
+    },
+    {
+      "constituency": "Balasore(6)",
+      "evm_turnout_votes": 1235600
+    },
+    {
+      "constituency": "Bhadrak(7)",
+      "evm_turnout_votes": 1291183
+    },
+    {
+      "constituency": "Jajpur(8)",
+      "evm_turnout_votes": 1151847
+    },
+    {
+      "constituency": "Dhenkanal(9)",
+      "evm_turnout_votes": 1184033
+    },
+    {
+      "constituency": "Bolangir(10)",
+      "evm_turnout_votes": 1394081
+    },
+    {
+      "constituency": "Kalahandi(11)",
+      "evm_turnout_votes": 1322799
+    },
+    {
+      "constituency": "Nabarangpur(12)",
+      "evm_turnout_votes": 1236661
+    },
+    {
+      "constituency": "Kandhamal(13)",
+      "evm_turnout_votes": 990520
+    },
+    {
+      "constituency": "Cuttack(14)",
+      "evm_turnout_votes": 1116941
+    },
+    {
+      "constituency": "Kendrapara(15)",
+      "evm_turnout_votes": 1272561
+    },
+    {
+      "constituency": "Jagatsinghpur(16)",
+      "evm_turnout_votes": 1280103
+    },
+    {
+      "constituency": "Puri(17)",
+      "evm_turnout_votes": 1191034
+    },
+    {
+      "constituency": "Bhubaneswar(18)",
+      "evm_turnout_votes": 1077476
+    },
+    {
+      "constituency": "Aska(19)",
+      "evm_turnout_votes": 1016047
+    },
+    {
+      "constituency": "Berhampur(20)",
+      "evm_turnout_votes": 1038806
+    },
+    {
+      "constituency": "Koraput(21)",
+      "evm_turnout_votes": 1144023
+    }
+  ],
+  "Puducherry": [
+    {
+      "constituency": "PUDUCHERRY(1)",
+      "evm_turnout_votes": 804489
+    }
+  ],
+  "Punjab": [
+    {
+      "constituency": "Gurdaspur(1)",
+      "evm_turnout_votes": 1070254
+    },
+    {
+      "constituency": "Amritsar(2)",
+      "evm_turnout_votes": 903326
+    },
+    {
+      "constituency": "Jalandhar(4)",
+      "evm_turnout_votes": 987602
+    },
+    {
+      "constituency": "Ludhiana(7)",
+      "evm_turnout_votes": 1057219
+    },
+    {
+      "constituency": "Fatehgarh Sahib(8)",
+      "evm_turnout_votes": 971031
+    },
+    {
+      "constituency": "Firozpur(10)",
+      "evm_turnout_votes": 1117934
+    },
+    {
+      "constituency": "Patiala(13)",
+      "evm_turnout_votes": 1149065
+    },
+    {
+      "constituency": "Hoshiarpur(5)",
+      "evm_turnout_votes": 942810
+    },
+    {
+      "constituency": "Anandpur Sahib(6)",
+      "evm_turnout_votes": 1073709
+    },
+    {
+      "constituency": "Sangrur(12)",
+      "evm_turnout_votes": 1005403
+    },
+    {
+      "constituency": "Bathinda(11)",
+      "evm_turnout_votes": 1145264
+    },
+    {
+      "constituency": "Khadoor Sahib(3)",
+      "evm_turnout_votes": 1042796
+    },
+    {
+      "constituency": "Faridkot(9)",
+      "evm_turnout_votes": 1009711
+    }
+  ],
+  "Rajasthan": [
+    {
+      "constituency": "BIKANER (2)",
+      "evm_turnout_votes": 1108423
+    },
+    {
+      "constituency": "JAIPUR RURAL(6)",
+      "evm_turnout_votes": 1237966
+    },
+    {
+      "constituency": "JAIPUR(7)",
+      "evm_turnout_votes": 1449110
+    },
+    {
+      "constituency": "ALWAR(8)",
+      "evm_turnout_votes": 1237473
+    },
+    {
+      "constituency": "AJMER (13)",
+      "evm_turnout_votes": 1190576
+    },
+    {
+      "constituency": "PALI(15)",
+      "evm_turnout_votes": 1340018
+    },
+    {
+      "constituency": "JODHPUR(16)",
+      "evm_turnout_votes": 1370371
+    },
+    {
+      "constituency": "JALORE (18)",
+      "evm_turnout_votes": 1444896
+    },
+    {
+      "constituency": "UDAIPUR (19)",
+      "evm_turnout_votes": 1487355
+    },
+    {
+      "constituency": "CHITTORGARH(21)",
+      "evm_turnout_votes": 1488902
+    },
+    {
+      "constituency": "RAJSAMAND(22)",
+      "evm_turnout_votes": 1203306
+    },
+    {
+      "constituency": "BHILWARA(23)",
+      "evm_turnout_votes": 1296244
+    },
+    {
+      "constituency": "KOTA(24)",
+      "evm_turnout_votes": 1487901
+    },
+    {
+      "constituency": "JHALAWAR-BARAN(25)",
+      "evm_turnout_votes": 1415552
+    },
+    {
+      "constituency": "GANGANAGAR (1)",
+      "evm_turnout_votes": 1399702
+    },
+    {
+      "constituency": "CHURU(3)",
+      "evm_turnout_votes": 1407789
+    },
+    {
+      "constituency": "JHUNJHUNU (4)",
+      "evm_turnout_votes": 1094908
+    },
+    {
+      "constituency": "BHARATPUR (9)",
+      "evm_turnout_votes": 1116850
+    },
+    {
+      "constituency": "KARAULI-DHOLPUR (10)",
+      "evm_turnout_votes": 979010
+    },
+    {
+      "constituency": "DAUSA (11)",
+      "evm_turnout_votes": 1058583
+    },
+    {
+      "constituency": "TONK-SAWAI MADHOPUR (12)",
+      "evm_turnout_votes": 1214246
+    },
+    {
+      "constituency": "BARMER(17)",
+      "evm_turnout_votes": 1675314
+    },
+    {
+      "constituency": "SIKAR(5)",
+      "evm_turnout_votes": 1274311
+    },
+    {
+      "constituency": "NAGAUR(14)",
+      "evm_turnout_votes": 1227911
+    },
+    {
+      "constituency": "BANSWARA (20)",
+      "evm_turnout_votes": 1625747
+    }
+  ],
+  "Sikkim": [
+    {
+      "constituency": "Sikkim(1)",
+      "evm_turnout_votes": 368869
+    }
+  ],
+  "Tamil Nadu": [
+    {
+      "constituency": "CHENNAI NORTH(2)",
+      "evm_turnout_votes": 899330
+    },
+    {
+      "constituency": "CHENNAI SOUTH(3)",
+      "evm_turnout_votes": 1095926
+    },
+    {
+      "constituency": "CHENNAI CENTRAL(4)",
+      "evm_turnout_votes": 727305
+    },
+    {
+      "constituency": "SRIPERUMBUDUR(5)",
+      "evm_turnout_votes": 1435381
+    },
+    {
+      "constituency": "KANCHEEPURAM(6)",
+      "evm_turnout_votes": 1253129
+    },
+    {
+      "constituency": "ARAKKONAM(7)",
+      "evm_turnout_votes": 1156724
+    },
+    {
+      "constituency": "VELLORE(8)",
+      "evm_turnout_votes": 1123625
+    },
+    {
+      "constituency": "DHARMAPURI(10)",
+      "evm_turnout_votes": 1238428
+    },
+    {
+      "constituency": "TIRUVANNAMALAI(11)",
+      "evm_turnout_votes": 1137264
+    },
+    {
+      "constituency": "ARANI(12)",
+      "evm_turnout_votes": 1132317
+    },
+    {
+      "constituency": "KALLAKURICHI(14)",
+      "evm_turnout_votes": 1242562
+    },
+    {
+      "constituency": "SALEM(15)",
+      "evm_turnout_votes": 1295702
+    },
+    {
+      "constituency": "NAMAKKAL(16)",
+      "evm_turnout_votes": 1136116
+    },
+    {
+      "constituency": "ERODE(17)",
+      "evm_turnout_votes": 1086406
+    },
+    {
+      "constituency": "NILGIRIS(19)",
+      "evm_turnout_votes": 1013616
+    },
+    {
+      "constituency": "COIMBATORE(20)",
+      "evm_turnout_votes": 1366177
+    },
+    {
+      "constituency": "POLLACHI(21)",
+      "evm_turnout_votes": 1120439
+    },
+    {
+      "constituency": "PERAMBALUR(25)",
+      "evm_turnout_votes": 1119859
+    },
+    {
+      "constituency": "THANJAVUR(30)",
+      "evm_turnout_votes": 1022796
+    },
+    {
+      "constituency": "THENI(33)",
+      "evm_turnout_votes": 1133569
+    },
+    {
+      "constituency": "THOOTHUKKUDI(36)",
+      "evm_turnout_votes": 973066
+    },
+    {
+      "constituency": "TENKASI(37)",
+      "evm_turnout_votes": 1031307
+    },
+    {
+      "constituency": "TIRUVALLUR(1)",
+      "evm_turnout_votes": 1413947
+    },
+    {
+      "constituency": "KRISHNAGIRI(9)",
+      "evm_turnout_votes": 1160887
+    },
+    {
+      "constituency": "KARUR(23)",
+      "evm_turnout_votes": 1125359
+    },
+    {
+      "constituency": "CUDDALORE(26)",
+      "evm_turnout_votes": 1021640
+    },
+    {
+      "constituency": "MAYILADUTHURAI(28)",
+      "evm_turnout_votes": 1083416
+    },
+    {
+      "constituency": "SIVAGANGA(31)",
+      "evm_turnout_votes": 1048358
+    },
+    {
+      "constituency": "VIRUDHUNAGAR(34)",
+      "evm_turnout_votes": 1053507
+    },
+    {
+      "constituency": "TIRUNELVELI(38)",
+      "evm_turnout_votes": 1060656
+    },
+    {
+      "constituency": "KANNIYAKUMARI(39)",
+      "evm_turnout_votes": 1016841
+    },
+    {
+      "constituency": "VILUPPURAM(13)",
+      "evm_turnout_votes": 1145468
+    },
+    {
+      "constituency": "CHIDAMBARAM(27)",
+      "evm_turnout_votes": 1158718
+    },
+    {
+      "constituency": "TIRUPPUR(18)",
+      "evm_turnout_votes": 1136443
+    },
+    {
+      "constituency": "NAGAPATTINAM(29)",
+      "evm_turnout_votes": 968049
+    },
+    {
+      "constituency": "DINDIGUL(22)",
+      "evm_turnout_votes": 1143174
+    },
+    {
+      "constituency": "MADURAI(32)",
+      "evm_turnout_votes": 981623
+    },
+    {
+      "constituency": "TIRUCHIRAPPALLI(24)",
+      "evm_turnout_votes": 1048165
+    },
+    {
+      "constituency": "RAMANATHAPURAM(35)",
+      "evm_turnout_votes": 1102130
+    }
+  ],
+  "Telangana": [
+    {
+      "constituency": "Adilabad (1)",
+      "evm_turnout_votes": 1219982
+    },
+    {
+      "constituency": "Karimnagar (3)",
+      "evm_turnout_votes": 1302447
+    },
+    {
+      "constituency": "Nizamabad(4)",
+      "evm_turnout_votes": 1226215
+    },
+    {
+      "constituency": "Medak(6)",
+      "evm_turnout_votes": 1372896
+    },
+    {
+      "constituency": "Malkajgiri(7)",
+      "evm_turnout_votes": 1915185
+    },
+    {
+      "constituency": "Secunderabad(8)",
+      "evm_turnout_votes": 1039041
+    },
+    {
+      "constituency": "Chevella(10)",
+      "evm_turnout_votes": 1656178
+    },
+    {
+      "constituency": "Mahbubnagar(11)",
+      "evm_turnout_votes": 1218323
+    },
+    {
+      "constituency": "Peddapalle (2)",
+      "evm_turnout_votes": 1082815
+    },
+    {
+      "constituency": "Zahirabad(5)",
+      "evm_turnout_votes": 1225027
+    },
+    {
+      "constituency": "Nagarkurnool(12)",
+      "evm_turnout_votes": 1205275
+    },
+    {
+      "constituency": "Nalgonda(13)",
+      "evm_turnout_votes": 1277136
+    },
+    {
+      "constituency": "Bhongir (14)",
+      "evm_turnout_votes": 1388579
+    },
+    {
+      "constituency": "Warangal(15)",
+      "evm_turnout_votes": 1255435
+    },
+    {
+      "constituency": "Mahabubabad (16)",
+      "evm_turnout_votes": 1100480
+    },
+    {
+      "constituency": "Khammam (17)",
+      "evm_turnout_votes": 1240582
+    },
+    {
+      "constituency": "Hyderabad(9)",
+      "evm_turnout_votes": 1073544
+    }
+  ],
+  "Tripura": [
+    {
+      "constituency": "Tripura West(1)",
+      "evm_turnout_votes": 1192487
+    },
+    {
+      "constituency": "Tripura East(2)",
+      "evm_turnout_votes": 1121664
+    }
+  ],
+  "Uttar Pradesh": [
+    {
+      "constituency": "Kairana(2)",
+      "evm_turnout_votes": 1075537
+    },
+    {
+      "constituency": "Muzaffarnagar(3)",
+      "evm_turnout_votes": 1075007
+    },
+    {
+      "constituency": "Moradabad(6)",
+      "evm_turnout_votes": 1280819
+    },
+    {
+      "constituency": "Rampur(7)",
+      "evm_turnout_votes": 966744
+    },
+    {
+      "constituency": "Sambhal(8)",
+      "evm_turnout_votes": 1193721
+    },
+    {
+      "constituency": "Firozabad(20)",
+      "evm_turnout_votes": 1105210
+    },
+    {
+      "constituency": "Mainpuri(21)",
+      "evm_turnout_votes": 1051023
+    },
+    {
+      "constituency": "Etah(22)",
+      "evm_turnout_votes": 1007609
+    },
+    {
+      "constituency": "Badaun(23)",
+      "evm_turnout_votes": 1090662
+    },
+    {
+      "constituency": "Aonla(24)",
+      "evm_turnout_votes": 1086120
+    },
+    {
+      "constituency": "Kheri(28)",
+      "evm_turnout_votes": 1209810
+    },
+    {
+      "constituency": "Dhaurahra(29)",
+      "evm_turnout_votes": 1109492
+    },
+    {
+      "constituency": "Mohanlalganj(34)",
+      "evm_turnout_votes": 1374478
+    },
+    {
+      "constituency": "Sultanpur(38)",
+      "evm_turnout_votes": 1030179
+    },
+    {
+      "constituency": "Pratapgarh(39)",
+      "evm_turnout_votes": 943304
+    },
+    {
+      "constituency": "Etawah(41)",
+      "evm_turnout_votes": 1030621
+    },
+    {
+      "constituency": "Kannauj(42)",
+      "evm_turnout_votes": 1214285
+    },
+    {
+      "constituency": "Jalaun(45)",
+      "evm_turnout_votes": 1126966
+    },
+    {
+      "constituency": "Hamirpur(47)",
+      "evm_turnout_votes": 1113768
+    },
+    {
+      "constituency": "Banda(48)",
+      "evm_turnout_votes": 1042931
+    },
+    {
+      "constituency": "Fatehpur(49)",
+      "evm_turnout_votes": 1105472
+    },
+    {
+      "constituency": "Kaushambi(50)",
+      "evm_turnout_votes": 1007927
+    },
+    {
+      "constituency": "Faizabad(54)",
+      "evm_turnout_votes": 1139094
+    },
+    {
+      "constituency": "Ambedkar Nagar(55)",
+      "evm_turnout_votes": 1174672
+    },
+    {
+      "constituency": "Shrawasti(58)",
+      "evm_turnout_votes": 1046002
+    },
+    {
+      "constituency": "Basti(61)",
+      "evm_turnout_votes": 1077422
+    },
+    {
+      "constituency": "Sant Kabir Nagar(62)",
+      "evm_turnout_votes": 1088750
+    },
+    {
+      "constituency": "Lalganj(68)",
+      "evm_turnout_votes": 999434
+    },
+    {
+      "constituency": "Azamgarh(69)",
+      "evm_turnout_votes": 1048948
+    },
+    {
+      "constituency": "Ghosi(70)",
+      "evm_turnout_votes": 1147461
+    },
+    {
+      "constituency": "Salempur(71)",
+      "evm_turnout_votes": 913701
+    },
+    {
+      "constituency": "Ballia(72)",
+      "evm_turnout_votes": 1001968
+    },
+    {
+      "constituency": "Jaunpur(73)",
+      "evm_turnout_votes": 1096957
+    },
+    {
+      "constituency": "Machhlishahr(74)",
+      "evm_turnout_votes": 1056972
+    },
+    {
+      "constituency": "Ghazipur(75)",
+      "evm_turnout_votes": 1148952
+    },
+    {
+      "constituency": "Chandauli(76)",
+      "evm_turnout_votes": 1113469
+    },
+    {
+      "constituency": "Robertsganj(80)",
+      "evm_turnout_votes": 1008459
+    },
+    {
+      "constituency": "Amroha(9)",
+      "evm_turnout_votes": 1108635
+    },
+    {
+      "constituency": "Meerut(10)",
+      "evm_turnout_votes": 1179112
+    },
+    {
+      "constituency": "Ghaziabad(12)",
+      "evm_turnout_votes": 1468608
+    },
+    {
+      "constituency": "Gautam Buddha Nagar(13)",
+      "evm_turnout_votes": 1433370
+    },
+    {
+      "constituency": "Bulandshahr(14)",
+      "evm_turnout_votes": 1049325
+    },
+    {
+      "constituency": "Aligarh(15)",
+      "evm_turnout_votes": 1131155
+    },
+    {
+      "constituency": "Hathras(16)",
+      "evm_turnout_votes": 1079010
+    },
+    {
+      "constituency": "Mathura(17)",
+      "evm_turnout_votes": 953522
+    },
+    {
+      "constituency": "Agra(18)",
+      "evm_turnout_votes": 1119183
+    },
+    {
+      "constituency": "Fatehpur Sikri(19)",
+      "evm_turnout_votes": 1028909
+    },
+    {
+      "constituency": "Bareilly(25)",
+      "evm_turnout_votes": 1116465
+    },
+    {
+      "constituency": "Pilibhit(26)",
+      "evm_turnout_votes": 1155967
+    },
+    {
+      "constituency": "Shahjahanpur(27)",
+      "evm_turnout_votes": 1243585
+    },
+    {
+      "constituency": "Hardoi(31)",
+      "evm_turnout_votes": 1097322
+    },
+    {
+      "constituency": "Misrikh(32)",
+      "evm_turnout_votes": 1049151
+    },
+    {
+      "constituency": "Unnao(33)",
+      "evm_turnout_votes": 1298002
+    },
+    {
+      "constituency": "Lucknow(35)",
+      "evm_turnout_votes": 1133259
+    },
+    {
+      "constituency": "Farrukhabad(40)",
+      "evm_turnout_votes": 1031784
+    },
+    {
+      "constituency": "Kanpur(43)",
+      "evm_turnout_votes": 882042
+    },
+    {
+      "constituency": "Akbarpur(44)",
+      "evm_turnout_votes": 1079818
+    },
+    {
+      "constituency": "Jhansi(46)",
+      "evm_turnout_votes": 1378807
+    },
+    {
+      "constituency": "Phulpur(51)",
+      "evm_turnout_votes": 1011627
+    },
+    {
+      "constituency": "Baharaich(56)",
+      "evm_turnout_votes": 1056179
+    },
+    {
+      "constituency": "Kaiserganj(57)",
+      "evm_turnout_votes": 1060767
+    },
+    {
+      "constituency": "Gonda(59)",
+      "evm_turnout_votes": 951592
+    },
+    {
+      "constituency": "Domariyaganj(60)",
+      "evm_turnout_votes": 1016183
+    },
+    {
+      "constituency": "Maharajganj(63)",
+      "evm_turnout_votes": 1208722
+    },
+    {
+      "constituency": "Gorakhpur(64)",
+      "evm_turnout_votes": 1151384
+    },
+    {
+      "constituency": "Kushi Nagar(65)",
+      "evm_turnout_votes": 1079710
+    },
+    {
+      "constituency": "Deoria(66)",
+      "evm_turnout_votes": 1040381
+    },
+    {
+      "constituency": "Bansgaon(67)",
+      "evm_turnout_votes": 941708
+    },
+    {
+      "constituency": "Varanasi(77)",
+      "evm_turnout_votes": 1127081
+    },
+    {
+      "constituency": "Bhadohi(78)",
+      "evm_turnout_votes": 1081697
+    },
+    {
+      "constituency": "Saharanpur(1)",
+      "evm_turnout_votes": 1227175
+    },
+    {
+      "constituency": "Sitapur(30)",
+      "evm_turnout_votes": 1100826
+    },
+    {
+      "constituency": "Rae Bareli(36)",
+      "evm_turnout_votes": 1036644
+    },
+    {
+      "constituency": "Amethi(37)",
+      "evm_turnout_votes": 976679
+    },
+    {
+      "constituency": "Allahabad(52)",
+      "evm_turnout_votes": 945146
+    },
+    {
+      "constituency": "Barabanki(53)",
+      "evm_turnout_votes": 1288381
+    },
+    {
+      "constituency": "Bijnor(4)",
+      "evm_turnout_votes": 1020877
+    },
+    {
+      "constituency": "Baghpat(11)",
+      "evm_turnout_votes": 928628
+    },
+    {
+      "constituency": "Nagina(5)",
+      "evm_turnout_votes": 998870
+    },
+    {
+      "constituency": "Mirzapur(79)",
+      "evm_turnout_votes": 1103900
+    }
+  ],
+  "Uttarakhand": [
+    {
+      "constituency": "Tehri Garhwal(1)",
+      "evm_turnout_votes": 846803
+    },
+    {
+      "constituency": "Garhwal(2)",
+      "evm_turnout_votes": 716561
+    },
+    {
+      "constituency": "Almora(3)",
+      "evm_turnout_votes": 652412
+    },
+    {
+      "constituency": "Nainital-Udhamsingh Nagar(4)",
+      "evm_turnout_votes": 1255964
+    },
+    {
+      "constituency": "Haridwar(5)",
+      "evm_turnout_votes": 1293233
+    }
+  ],
+  "West Bengal": [
+    {
+      "constituency": "Coochbehar(1)",
+      "evm_turnout_votes": 1615848
+    },
+    {
+      "constituency": "Jangipur(9)",
+      "evm_turnout_votes": 1366962
+    },
+    {
+      "constituency": "Baharampur(10)",
+      "evm_turnout_votes": 1380981
+    },
+    {
+      "constituency": "Murshidabad(11)",
+      "evm_turnout_votes": 1539216
+    },
+    {
+      "constituency": "Krishnanagar(12)",
+      "evm_turnout_votes": 1415842
+    },
+    {
+      "constituency": "Barrackpur(15)",
+      "evm_turnout_votes": 1137819
+    },
+    {
+      "constituency": "Dum dum(16)",
+      "evm_turnout_votes": 1254461
+    },
+    {
+      "constituency": "Barasat(17)",
+      "evm_turnout_votes": 1527533
+    },
+    {
+      "constituency": "Basirhat(18)",
+      "evm_turnout_votes": 1519128
+    },
+    {
+      "constituency": "Joynagar(19)",
+      "evm_turnout_votes": 1477368
+    },
+    {
+      "constituency": "Mathurapur(20)",
+      "evm_turnout_votes": 1490330
+    },
+    {
+      "constituency": "Diamond harbour(21)",
+      "evm_turnout_votes": 1524223
+    },
+    {
+      "constituency": "Jadavpur(22)",
+      "evm_turnout_votes": 1558207
+    },
+    {
+      "constituency": "Kolkata Dakshin(23)",
+      "evm_turnout_votes": 1238425
+    },
+    {
+      "constituency": "Kolkata Uttar(24)",
+      "evm_turnout_votes": 955466
+    },
+    {
+      "constituency": "Howrah(25)",
+      "evm_turnout_votes": 1268854
+    },
+    {
+      "constituency": "Uluberia(26)",
+      "evm_turnout_votes": 1387012
+    },
+    {
+      "constituency": "Srerampur(27)",
+      "evm_turnout_votes": 1471838
+    },
+    {
+      "constituency": "Hooghly(28)",
+      "evm_turnout_votes": 1511948
+    },
+    {
+      "constituency": "Arambagh(29)",
+      "evm_turnout_votes": 1554300
+    },
+    {
+      "constituency": "Ghatal(32)",
+      "evm_turnout_votes": 1593450
+    },
+    {
+      "constituency": "Jhargram(33)",
+      "evm_turnout_votes": 1483802
+    },
+    {
+      "constituency": "Medinipur(34)",
+      "evm_turnout_votes": 1474654
+    },
+    {
+      "constituency": "Bankura(36)",
+      "evm_turnout_votes": 1437806
+    },
+    {
+      "constituency": "Bardhaman Purba(38)",
+      "evm_turnout_votes": 1492448
+    },
+    {
+      "constituency": "Bardhaman-Durgapur(39)",
+      "evm_turnout_votes": 1493984
+    },
+    {
+      "constituency": "Asansol(40)",
+      "evm_turnout_votes": 1296332
+    },
+    {
+      "constituency": "Bolpur(41)",
+      "evm_turnout_votes": 1520408
+    },
+    {
+      "constituency": "Birbhum(42)",
+      "evm_turnout_votes": 1521048
+    },
+    {
+      "constituency": "Alipurduars(2)",
+      "evm_turnout_votes": 1414597
+    },
+    {
+      "constituency": "Jalpaiguri(3)",
+      "evm_turnout_votes": 1571995
+    },
+    {
+      "constituency": "Darjeeling(4)",
+      "evm_turnout_votes": 1319731
+    },
+    {
+      "constituency": "Raiganj(5)",
+      "evm_turnout_votes": 1363996
+    },
+    {
+      "constituency": "Balurghat(6)",
+      "evm_turnout_votes": 1233664
+    },
+    {
+      "constituency": "Maldaha Uttar(7)",
+      "evm_turnout_votes": 1413820
+    },
+    {
+      "constituency": "Ranaghat(13)",
+      "evm_turnout_votes": 1531996
+    },
+    {
+      "constituency": "Bangaon(14)",
+      "evm_turnout_votes": 1487892
+    },
+    {
+      "constituency": "Tamluk(30)",
+      "evm_turnout_votes": 1568214
+    },
+    {
+      "constituency": "Kanthi(31)",
+      "evm_turnout_votes": 1519392
+    },
+    {
+      "constituency": "Purulia(35)",
+      "evm_turnout_votes": 1428596
+    },
+    {
+      "constituency": "Bishnupur(37)",
+      "evm_turnout_votes": 1506951
+    },
+    {
+      "constituency": "Maldaha Dakshin(8)",
+      "evm_turnout_votes": 1364552
+    }
+  ]
+}
