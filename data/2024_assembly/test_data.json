@@ -1,0 +1,135 @@
+[
+  {
+    "Constituency": "ADAMPUR - 47",
+    "Id": "S0747",
+    "Url": "https://results.eci.gov.in/AcResultGenOct2024/candidateswise-S0747.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "CHANDER PARKASH S/O ARJUN LAL",
+        "Status": "won",
+        "Votes": "65371",
+        "Plus_minus": "(+ 1268)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "BHAVYA BISHNOI",
+        "Status": "lost",
+        "Votes": "64103",
+        "Plus_minus": "( -1268)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "RANDEEP CHOUDARYVAS",
+        "Status": "lost",
+        "Votes": "1869",
+        "Plus_minus": "( -63502)",
+        "Party": "Indian National Lok Dal"
+      },
+      {
+        "Candidate Name": "BHUPENDER BENIWAL",
+        "Status": "lost",
+        "Votes": "1814",
+        "Plus_minus": "( -63557)",
+        "Party": "Aam Aadmi Party"
+      },
+      {
+        "Candidate Name": "KRISHAN GANGWA PARJAPATI",
+        "Status": "lost",
+        "Votes": "1297",
+        "Plus_minus": "( -64074)",
+        "Party": "Jannayak Janta Party"
+      },
+      {
+        "Candidate Name": "RAJESH KUMAR",
+        "Status": "lost",
+        "Votes": "323",
+        "Plus_minus": "( -65048)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "RAMPHAL",
+        "Status": "lost",
+        "Votes": "197",
+        "Plus_minus": "( -65174)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "RENU CHAHAL BALSAMAND",
+        "Status": "lost",
+        "Votes": "156",
+        "Plus_minus": "( -65215)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "PARMOD BASWANA",
+        "Status": "lost",
+        "Votes": "57",
+        "Plus_minus": "( -65314)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "CHANDER PARKASH S/O RAJA RAM",
+        "Status": "lost",
+        "Votes": "51",
+        "Plus_minus": "( -65320)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "BALJEET SINGH",
+        "Status": "lost",
+        "Votes": "40",
+        "Plus_minus": "( -65331)",
+        "Party": "Bhartiya Kisan Party"
+      },
+      {
+        "Candidate Name": "AMIT",
+        "Status": "lost",
+        "Votes": "29",
+        "Plus_minus": "( -65342)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "",
+        "Votes": "390",
+        "Plus_minus": "( -64981)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "AMBALA CANTT. - 4",
+    "Id": "S074",
+    "Url": "https://results.eci.gov.in/AcResultGenOct2024/candidateswise-S074.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "ANIL VIJ",
+        "Status": "won",
+        "Votes": "59858",
+        "Plus_minus": "(+ 7277)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "CHITRA SARWARA",
+        "Status": "lost",
+        "Votes": "52581",
+        "Plus_minus": "( -7277)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "PARVINDER PAL PARI",
+        "Status": "lost",
+        "Votes": "14469",
+        "Plus_minus": "( -45389)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "ONKAR SINGH",
+        "Status": "lost",
+        "Votes": "2863",
+        "Plus_minus": "( -56995)",
+        "Party": "Indian National Lok Dal"
+      }
+    ]
+  }
+]

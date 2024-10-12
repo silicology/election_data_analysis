@@ -1,5 +1,5 @@
 [workspace]
-members = [ "evm-turnout", "evm-turnout-matching", "join-evm-phase-data", "polled-turnout-parsing", "state-wise-votes"
+members = [ "assembly_code/party-wise-percentage-votes", "assembly_code/party-wise-votes", "evm-turnout", "evm-turnout-matching", "join-evm-phase-data", "polled-turnout-parsing", "state-wise-votes"
 , "tranform-evm-turout-data", "vote-percentage", "vote-splitting", "vote-splitting-lost", "voter-turnout"]
 
 resolver = "2"

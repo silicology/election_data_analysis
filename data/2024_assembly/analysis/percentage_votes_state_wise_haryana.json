@@ -1,0 +1,314 @@
+{
+  "state_data": [
+    {
+      "party": "Bharatiya Janata Party",
+      "percentage": 39.94448315777956,
+      "votes": 5548800
+    },
+    {
+      "party": "Indian National Congress",
+      "percentage": 39.09360404512759,
+      "votes": 5430602
+    },
+    {
+      "party": "Independent",
+      "percentage": 10.429816402808093,
+      "votes": 1448835
+    },
+    {
+      "party": "Indian National Lok Dal",
+      "percentage": 4.140669542331592,
+      "votes": 575192
+    },
+    {
+      "party": "Bahujan Samaj Party",
+      "percentage": 1.8189180550676396,
+      "votes": 252671
+    },
+    {
+      "party": "Aam Aadmi Party",
+      "percentage": 1.7885680801193264,
+      "votes": 248455
+    },
+    {
+      "party": "Jannayak Janta Party",
+      "percentage": 0.9000034554051175,
+      "votes": 125022
+    },
+    {
+      "party": "Haryana Lokhit Party",
+      "percentage": 0.5218525578636382,
+      "votes": 72492
+    },
+    {
+      "party": "None of the Above",
+      "percentage": 0.38369394325073,
+      "votes": 53300
+    },
+    {
+      "party": "Haryana Jan Sevak Party",
+      "percentage": 0.28314885309345145,
+      "votes": 39333
+    },
+    {
+      "party": "Communist Party of India  (Marxist)",
+      "percentage": 0.2474430002130833,
+      "votes": 34373
+    },
+    {
+      "party": "Aazad Samaj Party (Kanshi Ram)",
+      "percentage": 0.14062059075909492,
+      "votes": 19534
+    },
+    {
+      "party": "Socialist Unity Centre Of India (COMMUNIST)",
+      "percentage": 0.03512995202745895,
+      "votes": 4880
+    },
+    {
+      "party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "percentage": 0.03036437246963563,
+      "votes": 4218
+    },
+    {
+      "party": "Kisan Mazdoor Sangharsh Party",
+      "percentage": 0.02862947115024677,
+      "votes": 3977
+    },
+    {
+      "party": "Rashtrawadi Janlok Party (Satya)",
+      "percentage": 0.02397907176300528,
+      "votes": 3331
+    },
+    {
+      "party": "Bhartiya Shakti Chetna Party",
+      "percentage": 0.019674212887509285,
+      "votes": 2733
+    },
+    {
+      "party": "Mission Ekta Party",
+      "percentage": 0.015815677173017892,
+      "votes": 2197
+    },
+    {
+      "party": "Peoples Party of India (Democratic)",
+      "percentage": 0.015614111874499684,
+      "votes": 2169
+    },
+    {
+      "party": "Jan Sewak Kranti Party",
+      "percentage": 0.015513329225240582,
+      "votes": 2155
+    },
+    {
+      "party": "Samata Party",
+      "percentage": 0.010042271122603532,
+      "votes": 1395
+    },
+    {
+      "party": "Communist Party of India",
+      "percentage": 0.009660736807551211,
+      "votes": 1342
+    },
+    {
+      "party": "Rashtriya Bhagidari Samaj Party",
+      "percentage": 0.009639140525567119,
+      "votes": 1339
+    },
+    {
+      "party": "Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)",
+      "percentage": 0.008472941298426063,
+      "votes": 1177
+    },
+    {
+      "party": "Sanyukt Sangharsh Party",
+      "percentage": 0.00842254997379651,
+      "votes": 1170
+    },
+    {
+      "party": "Buland Bharat Party",
+      "percentage": 0.006637257329778106,
+      "votes": 922
+    },
+    {
+      "party": "Yuga Thulasi Party",
+      "percentage": 0.006478884595228086,
+      "votes": 900
+    },
+    {
+      "party": "Republican Party of India (A)",
+      "percentage": 0.005938977545625745,
+      "votes": 825
+    },
+    {
+      "party": "Loktanter Suraksha Party",
+      "percentage": 0.005845393657028006,
+      "votes": 812
+    },
+    {
+      "party": "Liberal Socialist Party",
+      "percentage": 0.004549616737982389,
+      "votes": 632
+    },
+    {
+      "party": "Aam Aadmi Parivartan Party",
+      "percentage": 0.0045424179773210244,
+      "votes": 631
+    },
+    {
+      "party": "Bharatiya Asha Party",
+      "percentage": 0.003318628664889053,
+      "votes": 461
+    },
+    {
+      "party": "Akhil Bhartiya Kisan Majdoor Party",
+      "percentage": 0.0028219141792548996,
+      "votes": 392
+    },
+    {
+      "party": "Indian Praja Congress",
+      "percentage": 0.0027571253333026186,
+      "votes": 383
+    },
+    {
+      "party": "Veer Lakshya Party",
+      "percentage": 0.0025411625134616825,
+      "votes": 353
+    },
+    {
+      "party": "Bhartiya Panchyat Party",
+      "percentage": 0.002411584821557121,
+      "votes": 335
+    },
+    {
+      "party": "Political Team India",
+      "percentage": 0.0023611934969275687,
+      "votes": 328
+    },
+    {
+      "party": "Right to Recall Party",
+      "percentage": 0.00226760960832983,
+      "votes": 315
+    },
+    {
+      "party": "Akhil Bhartiya Manavatavadi Party",
+      "percentage": 0.002253212087007101,
+      "votes": 313
+    },
+    {
+      "party": "Rashtriya Lokswaraj Party",
+      "percentage": 0.0020588455491502584,
+      "votes": 286
+    },
+    {
+      "party": "Ambedkar Samaj Vikas Party",
+      "percentage": 0.0018788765326161448,
+      "votes": 261
+    },
+    {
+      "party": "Rashtriya Garib Dal",
+      "percentage": 0.0017492988407115829,
+      "votes": 243
+    },
+    {
+      "party": "Bhartiya Kisan Party",
+      "percentage": 0.001734901319388854,
+      "votes": 241
+    },
+    {
+      "party": "Republican Party of India",
+      "percentage": 0.0016557149521138443,
+      "votes": 230
+    },
+    {
+      "party": "Rashtriya Janhit Vikas Party",
+      "percentage": 0.0014397521322729078,
+      "votes": 200
+    },
+    {
+      "party": "Bahujan Mukti Party",
+      "percentage": 0.0013677645256592625,
+      "votes": 190
+    },
+    {
+      "party": "Bharat Jodo Party",
+      "percentage": 0.0013677645256592625,
+      "votes": 190
+    },
+    {
+      "party": "Sarva Jan Smaj Party (Nand Kishore Chawla)",
+      "percentage": 0.0012093917911092425,
+      "votes": 168
+    },
+    {
+      "party": "Aam Janshakti Party",
+      "percentage": 0.0011949942697865134,
+      "votes": 166
+    },
+    {
+      "party": "Akhil Bharatiya Socialist Party",
+      "percentage": 0.0006838822628296312,
+      "votes": 95
+    },
+    {
+      "party": "Rashtriya Mazdoor Ekta Party",
+      "percentage": 0.0006046958955546213,
+      "votes": 84
+    },
+    {
+      "party": "Rashtra Nirman Party",
+      "percentage": 0.0005830996135705276,
+      "votes": 81
+    },
+    {
+      "party": "Bahujan Janata Dal (Khodawal)",
+      "percentage": 0.0005615033315864341,
+      "votes": 78
+    },
+    {
+      "party": "Rashtriya Jatigat Aarakshan Virodhi Party",
+      "percentage": 0.0005039132462955178,
+      "votes": 70
+    },
+    {
+      "party": "Nehru Janhit Congress",
+      "percentage": 0.00048231696431142416,
+      "votes": 67
+    },
+    {
+      "party": "Rashtriya Majdoor Vikas Party",
+      "percentage": 0.00043192563968187235,
+      "votes": 60
+    },
+    {
+      "party": "Bhartiya Veer Dal",
+      "percentage": 0.0004175281183591433,
+      "votes": 58
+    },
+    {
+      "party": "Nationalist Congress Party",
+      "percentage": 0.0004031305970364142,
+      "votes": 56
+    },
+    {
+      "party": "Bhartiya Sarvodaya Party",
+      "percentage": 0.0003455405117454979,
+      "votes": 48
+    },
+    {
+      "party": "Bhartiya Janraj Party",
+      "percentage": 0.0002951491871159461,
+      "votes": 41
+    },
+    {
+      "party": "Bharat Jan Jagran Dal",
+      "percentage": 0.00028075166579321704,
+      "votes": 39
+    },
+    {
+      "party": "Rashtravadi Bharat Party",
+      "percentage": 0.00024475786248639433,
+      "votes": 34
+    }
+  ]
+}
