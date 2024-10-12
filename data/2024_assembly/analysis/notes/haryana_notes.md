@@ -12,5 +12,6 @@ Indian National Congress - INC seat percentage:39.09360404512759
 
 
 ### Difference
-Difference in seat percentage: 12.2222%
+Difference in seat percentage: 12.2222
+
 Difference in vote share: 0.850879113
