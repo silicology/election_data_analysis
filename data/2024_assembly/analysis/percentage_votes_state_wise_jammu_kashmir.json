@@ -1,0 +1,244 @@
+{
+  "state_data": [
+    {
+      "party": "Bharatiya Janata Party",
+      "percentage": 25.64261518636963,
+      "votes": 1462225
+    },
+    {
+      "party": "Jammu & Kashmir National Conference",
+      "percentage": 23.4316219141529,
+      "votes": 1336147
+    },
+    {
+      "party": "Independent",
+      "percentage": 16.642074354245743,
+      "votes": 948985
+    },
+    {
+      "party": "Indian National Congress",
+      "percentage": 11.971715391829717,
+      "votes": 682666
+    },
+    {
+      "party": "Jammu & Kashmir Peoples Democratic Party",
+      "percentage": 8.872663145763026,
+      "votes": 505948
+    },
+    {
+      "party": "Jammu and Kashmir Apni Party",
+      "percentage": 3.3640143913253615,
+      "votes": 191827
+    },
+    {
+      "party": "Jammu & Kashmir People Conference",
+      "percentage": 2.484811455820469,
+      "votes": 141692
+    },
+    {
+      "party": "None of the Above",
+      "percentage": 1.480045679621151,
+      "votes": 84397
+    },
+    {
+      "party": "Democratic Progressive Azad Party",
+      "percentage": 1.1993881792756778,
+      "votes": 68393
+    },
+    {
+      "party": "J&K National Panthers Party (India)",
+      "percentage": 1.1625961625470598,
+      "votes": 66295
+    },
+    {
+      "party": "Bahujan Samaj Party",
+      "percentage": 0.9613974933728774,
+      "votes": 54822
+    },
+    {
+      "party": "Communist Party of India  (Marxist)",
+      "percentage": 0.589829690491105,
+      "votes": 33634
+    },
+    {
+      "party": "Aam Aadmi Party",
+      "percentage": 0.5214189863641561,
+      "votes": 29733
+    },
+    {
+      "party": "Jammu And Kashmir Peoples Democratic Front (Secular)",
+      "percentage": 0.5151759177486231,
+      "votes": 29377
+    },
+    {
+      "party": "Samajwadi Party",
+      "percentage": 0.14376594525319852,
+      "votes": 8198
+    },
+    {
+      "party": "Jammu & Kashmir National Panthers Party (Bhim)",
+      "percentage": 0.13336667646384176,
+      "votes": 7605
+    },
+    {
+      "party": "Janata Dal  (United)",
+      "percentage": 0.12884220538853983,
+      "votes": 7347
+    },
+    {
+      "party": "Peoples Democratic Party",
+      "percentage": 0.09620638883374569,
+      "votes": 5486
+    },
+    {
+      "party": "Jammu & Kashmir Awami National Conference",
+      "percentage": 0.08556160611007022,
+      "votes": 4879
+    },
+    {
+      "party": "Bhim Sena",
+      "percentage": 0.05406567567889863,
+      "votes": 3083
+    },
+    {
+      "party": "Aazad Samaj Party (Kanshi Ram)",
+      "percentage": 0.053925382002145084,
+      "votes": 3075
+    },
+    {
+      "party": "Rashtriya Lok Dal",
+      "percentage": 0.05294332626487026,
+      "votes": 3019
+    },
+    {
+      "party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+      "percentage": 0.05050572363127735,
+      "votes": 2880
+    },
+    {
+      "party": "Jammu & Kashmir All Alliance Democratic Party",
+      "percentage": 0.04927815395968381,
+      "votes": 2810
+    },
+    {
+      "party": "Nationalist Congress Party",
+      "percentage": 0.03438948751421351,
+      "votes": 1961
+    },
+    {
+      "party": "Republican Party of India (A)",
+      "percentage": 0.02998777340607093,
+      "votes": 1710
+    },
+    {
+      "party": "Jammu and Kashmir Nationalist People's Front",
+      "percentage": 0.028760203734477383,
+      "votes": 1640
+    },
+    {
+      "party": "Rashtriya Lok Janshakti Party",
+      "percentage": 0.023446580727436744,
+      "votes": 1337
+    },
+    {
+      "party": "All Jammu & Kashmir Liberal Democratic Party",
+      "percentage": 0.02332382376027739,
+      "votes": 1330
+    },
+    {
+      "party": "Republican Party of India (Athawale)",
+      "percentage": 0.019167623586453523,
+      "votes": 1093
+    },
+    {
+      "party": "Liberal Democratic Party",
+      "percentage": 0.01839600836430901,
+      "votes": 1049
+    },
+    {
+      "party": "All India Forward Bloc",
+      "percentage": 0.016186382955440625,
+      "votes": 923
+    },
+    {
+      "party": "National Loktantrik Party",
+      "percentage": 0.014134587932919981,
+      "votes": 806
+    },
+    {
+      "party": "National Awami United Party",
+      "percentage": 0.01253874735984837,
+      "votes": 715
+    },
+    {
+      "party": "Aman Aur Shanti Tehreek-E-Jammu & Kashmir",
+      "percentage": 0.011328714397849018,
+      "votes": 646
+    },
+    {
+      "party": "Garib Democratic Party",
+      "percentage": 0.011030590334747728,
+      "votes": 629
+    },
+    {
+      "party": "Anarakshit Samaj Party",
+      "percentage": 0.010451878918139342,
+      "votes": 596
+    },
+    {
+      "party": "Sampoorna Bharat Kranti Party",
+      "percentage": 0.009347066213705148,
+      "votes": 533
+    },
+    {
+      "party": "National Youth Party",
+      "percentage": 0.008575450991560634,
+      "votes": 489
+    },
+    {
+      "party": "Azad Samaj Party",
+      "percentage": 0.008119496542111602,
+      "votes": 463
+    },
+    {
+      "party": "Hindustan Shakti Sena",
+      "percentage": 0.007172514224025151,
+      "votes": 409
+    },
+    {
+      "party": "Sainik Samaj Party",
+      "percentage": 0.006102774938779347,
+      "votes": 348
+    },
+    {
+      "party": "Bharat Jodo Party",
+      "percentage": 0.004787521719214832,
+      "votes": 273
+    },
+    {
+      "party": "Bharatiya Sampuran Krantikari Party",
+      "percentage": 0.004717374880838058,
+      "votes": 269
+    },
+    {
+      "party": "National Democratic Party (Indian)",
+      "percentage": 0.0034898052092445114,
+      "votes": 199
+    },
+    {
+      "party": "National Republic Party Of India",
+      "percentage": 0.0032267545653316084,
+      "votes": 184
+    },
+    {
+      "party": "ShivSena (Uddhav Balasaheb Thackeray)",
+      "percentage": 0.0022096254088683842,
+      "votes": 126
+    },
+    {
+      "party": "Haq Insaaf Party",
+      "percentage": 0.0012801798003761273,
+      "votes": 73
+    }
+  ]
+}
