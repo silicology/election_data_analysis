@@ -1,0 +1,902 @@
+{
+  "ADAMPUR - 47": {
+    "First Runner-Up Name": "BHAVYA BISHNOI",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 64103,
+    "Loser Total Votes": 70326,
+    "Winner Name": "CHANDER PARKASH S/O ARJUN LAL",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 65371,
+    "Winner Won Majority": "No"
+  },
+  "AMBALA CANTT. - 4": {
+    "First Runner-Up Name": "CHITRA SARWARA",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 52581,
+    "Loser Total Votes": 73465,
+    "Winner Name": "ANIL VIJ",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 59858,
+    "Winner Won Majority": "No"
+  },
+  "AMBALA CITY - 5": {
+    "First Runner-Up Name": "ASEEM GOEL NANEOLA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 73344,
+    "Loser Total Votes": 81226,
+    "Winner Name": "NIRMAL SINGH MOHRA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 84475,
+    "Winner Won Majority": "Yes"
+  },
+  "ASSANDH - 23": {
+    "First Runner-Up Name": "SHAMSHER SINGH GOGI",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 52455,
+    "Loser Total Votes": 107531,
+    "Winner Name": "YOGINDER SINGH RANA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 54761,
+    "Winner Won Majority": "No"
+  },
+  "ATELI - 68": {
+    "First Runner-Up Name": "ATTAR LAL",
+    "First Runner-Up Party": "Bahujan Samaj Party",
+    "First Runner-Up Votes": 54652,
+    "Loser Total Votes": 87503,
+    "Winner Name": "ARTI SINGH RAO",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 57737,
+    "Winner Won Majority": "No"
+  },
+  "BADHRA - 55": {
+    "First Runner-Up Name": "SOMVIR SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 51730,
+    "Loser Total Votes": 84762,
+    "Winner Name": "UMED SINGH",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 59315,
+    "Winner Won Majority": "No"
+  },
+  "BADKHAL - 87": {
+    "First Runner-Up Name": "VIJAY PRATAP SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 73295,
+    "Loser Total Votes": 80508,
+    "Winner Name": "DHANESH ADLAKHA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 79476,
+    "Winner Won Majority": "No"
+  },
+  "BADLI - 65": {
+    "First Runner-Up Name": "OMPRAKASH DHANKAR",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 51340,
+    "Loser Total Votes": 64140,
+    "Winner Name": "KULDEEP VATS",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 68160,
+    "Winner Won Majority": "Yes"
+  },
+  "BADSHAHPUR - 76": {
+    "First Runner-Up Name": "VARDHAN YADAV",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 84798,
+    "Loser Total Votes": 136782,
+    "Winner Name": "RAO NARBIR SINGH",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 145503,
+    "Winner Won Majority": "Yes"
+  },
+  "BAHADURGARH - 64": {
+    "First Runner-Up Name": "DINESH KAUSHIK",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 31192,
+    "Loser Total Votes": 85909,
+    "Winner Name": "RAJESH JOON",
+    "Winner Party": "Independent",
+    "Winner Votes": 73191,
+    "Winner Won Majority": "No"
+  },
+  "BALLABGARH - 88": {
+    "First Runner-Up Name": "SHARDA RATHORE",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 44076,
+    "Loser Total Votes": 84804,
+    "Winner Name": "MOOL CHAND SHARMA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 61806,
+    "Winner Won Majority": "No"
+  },
+  "BARODA - 33": {
+    "First Runner-Up Name": "KAPOOR SINGH NARWAL",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 48820,
+    "Loser Total Votes": 75509,
+    "Winner Name": "INDURAJ SINGH NARWAL",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 54462,
+    "Winner Won Majority": "No"
+  },
+  "BARWALA - 51": {
+    "First Runner-Up Name": "RAMNIWAS GHORELA",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 39901,
+    "Loser Total Votes": 73244,
+    "Winner Name": "RANBIR GANGWA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 66843,
+    "Winner Won Majority": "No"
+  },
+  "BAWAL - 72": {
+    "First Runner-Up Name": "DR. M.L. RANGA",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 66847,
+    "Loser Total Votes": 70277,
+    "Winner Name": "DR. KRISHAN KUMAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 86858,
+    "Winner Won Majority": "Yes"
+  },
+  "BAWANI KHERA - 59": {
+    "First Runner-Up Name": "PRADEEP NARWAL",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 58298,
+    "Loser Total Votes": 73292,
+    "Winner Name": "KAPOOR SINGH",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 80077,
+    "Winner Won Majority": "Yes"
+  },
+  "BERI - 67": {
+    "First Runner-Up Name": "SANJAY KUMAR",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 25160,
+    "Loser Total Votes": 58336,
+    "Winner Name": "RAGHUVIR SINGH KADIAN",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 60630,
+    "Winner Won Majority": "Yes"
+  },
+  "BHIWANI - 57": {
+    "First Runner-Up Name": "OM PRAKASH",
+    "First Runner-Up Party": "Communist Party of India  (Marxist)",
+    "First Runner-Up Votes": 34373,
+    "Loser Total Votes": 78167,
+    "Winner Name": "GHANSHYAM SARAF",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 67087,
+    "Winner Won Majority": "No"
+  },
+  "DABWALI - 43": {
+    "First Runner-Up Name": "AMIT SIHAG",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 55464,
+    "Loser Total Votes": 106859,
+    "Winner Name": "ADITYA DEVILAL",
+    "Winner Party": "Indian National Lok Dal",
+    "Winner Votes": 56074,
+    "Winner Won Majority": "No"
+  },
+  "DADRI - 56": {
+    "First Runner-Up Name": "MANISHA SANGWAN",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 63611,
+    "Loser Total Votes": 76736,
+    "Winner Name": "SUNIL SATPAL SANGWAN",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 65568,
+    "Winner Won Majority": "No"
+  },
+  "ELLENABAD - 46": {
+    "First Runner-Up Name": "ABHAY SINGH CHAUTALA",
+    "First Runner-Up Party": "Indian National Lok Dal",
+    "First Runner-Up Votes": 62865,
+    "Loser Total Votes": 80589,
+    "Winner Name": "BHARAT SINGH BENIWAL",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 77865,
+    "Winner Won Majority": "No"
+  },
+  "FARIDABAD - 89": {
+    "First Runner-Up Name": "LAKHAN KUMAR SINGLA",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 45263,
+    "Loser Total Votes": 49436,
+    "Winner Name": "VIPUL GOEL",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 93651,
+    "Winner Won Majority": "Yes"
+  },
+  "FARIDABAD NIT - 86": {
+    "First Runner-Up Name": "NEERAJ SHARMA",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 58775,
+    "Loser Total Votes": 101498,
+    "Winner Name": "SATISH KUMAR PHAGNA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 91992,
+    "Winner Won Majority": "No"
+  },
+  "FATEHABAD - 40": {
+    "First Runner-Up Name": "DURA RAM",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 83920,
+    "Loser Total Votes": 109104,
+    "Winner Name": "BALWAN SINGH DOULATPURIA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 86172,
+    "Winner Won Majority": "No"
+  },
+  "FEROZEPUR JHIRKA - 80": {
+    "First Runner-Up Name": "NASEEM AHMED",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 32056,
+    "Loser Total Votes": 50669,
+    "Winner Name": "MAMMAN KHAN",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 130497,
+    "Winner Won Majority": "Yes"
+  },
+  "GANAUR - 28": {
+    "First Runner-Up Name": "KULDIP SHARMA",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 42039,
+    "Loser Total Votes": 63790,
+    "Winner Name": "DEVENDER KADYAN",
+    "Winner Party": "Independent",
+    "Winner Votes": 77248,
+    "Winner Won Majority": "Yes"
+  },
+  "GARHI SAMPLA - KILOI - 61": {
+    "First Runner-Up Name": "MANJU",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 37074,
+    "Loser Total Votes": 40709,
+    "Winner Name": "BHUPINDER SINGH HOODA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 108539,
+    "Winner Won Majority": "Yes"
+  },
+  "GHARAUNDA - 22": {
+    "First Runner-Up Name": "VARINDER SINGH RATHORE",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 82705,
+    "Loser Total Votes": 87502,
+    "Winner Name": "HARVINDER KALYAN",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 87236,
+    "Winner Won Majority": "No"
+  },
+  "GOHANA - 32": {
+    "First Runner-Up Name": "JAGBIR SINGH MALIK",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 46626,
+    "Loser Total Votes": 73731,
+    "Winner Name": "ARVIND KUMAR SHARMA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 57055,
+    "Winner Won Majority": "No"
+  },
+  "GUHLA - 15": {
+    "First Runner-Up Name": "KULWANT RAM BAZIGAR",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 41731,
+    "Loser Total Votes": 69265,
+    "Winner Name": "DEVENDER HANS",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 64611,
+    "Winner Won Majority": "No"
+  },
+  "GURGAON - 77": {
+    "First Runner-Up Name": "NAVEEN GOYAL",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 54570,
+    "Loser Total Votes": 107489,
+    "Winner Name": "MUKESH SHARMA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 122615,
+    "Winner Won Majority": "Yes"
+  },
+  "HANSI - 50": {
+    "First Runner-Up Name": "RAHUL MAKKAR",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 57226,
+    "Loser Total Votes": 63599,
+    "Winner Name": "VINOD BHAYANA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 78686,
+    "Winner Won Majority": "Yes"
+  },
+  "HATHIN - 82": {
+    "First Runner-Up Name": "MANOJ KUMAR",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 47511,
+    "Loser Total Votes": 108331,
+    "Winner Name": "MOHD ISRAIL",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 79907,
+    "Winner Won Majority": "No"
+  },
+  "HISAR - 52": {
+    "First Runner-Up Name": "RAM NIWAS RARA",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 30290,
+    "Loser Total Votes": 63263,
+    "Winner Name": "SAVITRI JINDAL",
+    "Winner Party": "Independent",
+    "Winner Votes": 49231,
+    "Winner Won Majority": "No"
+  },
+  "HODAL - 83": {
+    "First Runner-Up Name": "UDAI BHAN",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 66270,
+    "Loser Total Votes": 72281,
+    "Winner Name": "HARINDER SINGH",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 68865,
+    "Winner Won Majority": "No"
+  },
+  "INDRI - 20": {
+    "First Runner-Up Name": "RAKESH KAMBOJ",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 65316,
+    "Loser Total Votes": 76112,
+    "Winner Name": "RAM KUMAR KASHYAP",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 80465,
+    "Winner Won Majority": "Yes"
+  },
+  "ISRANA - 26": {
+    "First Runner-Up Name": "BALBIR SINGH BALMIKI",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 53643,
+    "Loser Total Votes": 62116,
+    "Winner Name": "KRISHAN LAL PANWAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 67538,
+    "Winner Won Majority": "Yes"
+  },
+  "JAGADHRI - 8": {
+    "First Runner-Up Name": "KANWAR PAL",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 60535,
+    "Loser Total Votes": 115629,
+    "Winner Name": "AKRAM KHAN",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 67403,
+    "Winner Won Majority": "No"
+  },
+  "JHAJJAR - 66": {
+    "First Runner-Up Name": "KAPTAN BIRDHANA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 52790,
+    "Loser Total Votes": 57296,
+    "Winner Name": "GEETA BHUKKAL",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 66345,
+    "Winner Won Majority": "Yes"
+  },
+  "JIND - 36": {
+    "First Runner-Up Name": "MAHAVIR GUPTA",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 53060,
+    "Loser Total Votes": 66316,
+    "Winner Name": "DR KRISHAN LAL MIDDHA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 68920,
+    "Winner Won Majority": "Yes"
+  },
+  "JULANA - 34": {
+    "First Runner-Up Name": "YOGESH KUMAR",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 59065,
+    "Loser Total Votes": 73791,
+    "Winner Name": "VINESH",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 65080,
+    "Winner Won Majority": "No"
+  },
+  "KAITHAL - 17": {
+    "First Runner-Up Name": "LEELA RAM",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 75620,
+    "Loser Total Votes": 84970,
+    "Winner Name": "ADITYA SURJEWALA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 83744,
+    "Winner Won Majority": "No"
+  },
+  "KALANAUR - 63": {
+    "First Runner-Up Name": "RENU DABLA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 57116,
+    "Loser Total Votes": 73913,
+    "Winner Name": "SHAKUNTLA KHATAK",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 69348,
+    "Winner Won Majority": "No"
+  },
+  "KALANWALI - 42": {
+    "First Runner-Up Name": "RAJINDER SINGH DESUJODHA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 43769,
+    "Loser Total Votes": 73855,
+    "Winner Name": "SHISHPAL KEHARWALA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 66728,
+    "Winner Won Majority": "No"
+  },
+  "KALAYAT - 16": {
+    "First Runner-Up Name": "KAMLESH DHANDA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 34723,
+    "Loser Total Votes": 112271,
+    "Winner Name": "VIKAS SAHARAN",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 48142,
+    "Winner Won Majority": "No"
+  },
+  "KALKA - 1": {
+    "First Runner-Up Name": "PARDEEP CHAUDHARY",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 49729,
+    "Loser Total Votes": 85348,
+    "Winner Name": "SHAKTI RANI SHARMA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 60612,
+    "Winner Won Majority": "No"
+  },
+  "KARNAL - 21": {
+    "First Runner-Up Name": "SUMITA VIRK",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 56354,
+    "Loser Total Votes": 60865,
+    "Winner Name": "JAGMOHAN ANAND",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 90006,
+    "Winner Won Majority": "Yes"
+  },
+  "KHARKHAUDA - 30": {
+    "First Runner-Up Name": "JAIVEER SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 52449,
+    "Loser Total Votes": 55632,
+    "Winner Name": "PAWAN KHARKHODA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 58084,
+    "Winner Won Majority": "Yes"
+  },
+  "KOSLI - 73": {
+    "First Runner-Up Name": "JAGDISH YADAV",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 74976,
+    "Loser Total Votes": 85926,
+    "Winner Name": "ANIL YADAV",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 92185,
+    "Winner Won Majority": "Yes"
+  },
+  "LADWA - 11": {
+    "First Runner-Up Name": "MEWA SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 54123,
+    "Loser Total Votes": 77891,
+    "Winner Name": "NAYAB SINGH",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 70177,
+    "Winner Won Majority": "No"
+  },
+  "LOHARU - 54": {
+    "First Runner-Up Name": "JAI PARKASH DALAL",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 80544,
+    "Loser Total Votes": 84779,
+    "Winner Name": "RAJBIR FARTIA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 81336,
+    "Winner Won Majority": "No"
+  },
+  "MAHENDRAGARH - 69": {
+    "First Runner-Up Name": "RAO DAN SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 60388,
+    "Loser Total Votes": 92365,
+    "Winner Name": "KANWAR SINGH",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 63036,
+    "Winner Won Majority": "No"
+  },
+  "MEHAM - 60": {
+    "First Runner-Up Name": "BALRAJ KUNDU",
+    "First Runner-Up Party": "Haryana Jan Sevak Party",
+    "First Runner-Up Votes": 38805,
+    "Loser Total Votes": 92630,
+    "Winner Name": "BALRAM DANGI",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 56865,
+    "Winner Won Majority": "No"
+  },
+  "MULANA  - 6": {
+    "First Runner-Up Name": "SANTOSH CHAUHAN SARWAN",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 66224,
+    "Loser Total Votes": 80748,
+    "Winner Name": "POOJA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 79089,
+    "Winner Won Majority": "No"
+  },
+  "NALWA - 53": {
+    "First Runner-Up Name": "ANIL MAAN",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 54186,
+    "Loser Total Votes": 63216,
+    "Winner Name": "RANDHIR PANIHAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 66330,
+    "Winner Won Majority": "Yes"
+  },
+  "NANGAL CHAUDHRY - 71": {
+    "First Runner-Up Name": "DR. ABHE SINGH YADAV",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 55059,
+    "Loser Total Votes": 56484,
+    "Winner Name": "MANJU CHOUDHARY",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 61989,
+    "Winner Won Majority": "Yes"
+  },
+  "NARAINGARH - 3": {
+    "First Runner-Up Name": "DR. PAWAN SAINI",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 47086,
+    "Loser Total Votes": 79109,
+    "Winner Name": "SHALLEY CHAUDHARY",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 62180,
+    "Winner Won Majority": "No"
+  },
+  "NARNAUL - 70": {
+    "First Runner-Up Name": "RAO NARENDER SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 40464,
+    "Loser Total Votes": 48941,
+    "Winner Name": "OM PRAKASH YADAV",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 57635,
+    "Winner Won Majority": "Yes"
+  },
+  "NARNAUND - 49": {
+    "First Runner-Up Name": "CAPT. ABHIMANYU",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 72223,
+    "Loser Total Votes": 80279,
+    "Winner Name": "JASSI PETWAR",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 84801,
+    "Winner Won Majority": "Yes"
+  },
+  "NARWANA - 38": {
+    "First Runner-Up Name": "SATBIR DABLAIN",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 47975,
+    "Loser Total Votes": 100336,
+    "Winner Name": "KRISHAN KUMAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 59474,
+    "Winner Won Majority": "No"
+  },
+  "NILOKHERI - 19": {
+    "First Runner-Up Name": "DHARAM PAL",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 59057,
+    "Loser Total Votes": 70936,
+    "Winner Name": "BHAGWAN DASS",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 77902,
+    "Winner Won Majority": "Yes"
+  },
+  "NUH - 79": {
+    "First Runner-Up Name": "TAHIR HUSSAIN",
+    "First Runner-Up Party": "Indian National Lok Dal",
+    "First Runner-Up Votes": 44870,
+    "Loser Total Votes": 63123,
+    "Winner Name": "AFTAB AHMED",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 91833,
+    "Winner Won Majority": "Yes"
+  },
+  "PALWAL - 84": {
+    "First Runner-Up Name": "KARAN SINGH DALAL",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 75513,
+    "Loser Total Votes": 83762,
+    "Winner Name": "GAURAV GAUTAM",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 109118,
+    "Winner Won Majority": "Yes"
+  },
+  "PANCHKULA - 2": {
+    "First Runner-Up Name": "GIAN CHAND GUPTA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 65400,
+    "Loser Total Votes": 73105,
+    "Winner Name": "CHANDER MOHAN",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 67397,
+    "Winner Won Majority": "No"
+  },
+  "PANIPAT CITY - 25": {
+    "First Runner-Up Name": "VARINDER KUMAR SHAH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 46078,
+    "Loser Total Votes": 65113,
+    "Winner Name": "PARMOD KUMAR VIJ",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 81750,
+    "Winner Won Majority": "Yes"
+  },
+  "PANIPAT RURAL - 24": {
+    "First Runner-Up Name": "SACHIN KUNDU",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 50867,
+    "Loser Total Votes": 100060,
+    "Winner Name": "MAHIPAL DHANDA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 101079,
+    "Winner Won Majority": "Yes"
+  },
+  "PATAUDI - 75": {
+    "First Runner-Up Name": "PEARL CHOUDHARY",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 51989,
+    "Loser Total Votes": 59374,
+    "Winner Name": "BIMLA CHAUDHARY",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 98519,
+    "Winner Won Majority": "Yes"
+  },
+  "PEHOWA - 14": {
+    "First Runner-Up Name": "JAI BHAGWAN SHARMA (DD)",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 57995,
+    "Loser Total Votes": 64054,
+    "Winner Name": "MANDEEP CHATHA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 64548,
+    "Winner Won Majority": "Yes"
+  },
+  "PRITHLA - 85": {
+    "First Runner-Up Name": "TEK CHAND SHARMA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 49721,
+    "Loser Total Votes": 96929,
+    "Winner Name": "RAGHUBIR TEWATIA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 70262,
+    "Winner Won Majority": "No"
+  },
+  "PUNAHANA - 81": {
+    "First Runner-Up Name": "RAHISH KHAN",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 53384,
+    "Loser Total Votes": 60979,
+    "Winner Name": "MOHAMMAD ILYAS",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 85300,
+    "Winner Won Majority": "Yes"
+  },
+  "PUNDRI - 18": {
+    "First Runner-Up Name": "SATBIR BHANA",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 40608,
+    "Loser Total Votes": 93169,
+    "Winner Name": "SATPAL JAMBA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 42805,
+    "Winner Won Majority": "No"
+  },
+  "RADAUR - 10": {
+    "First Runner-Up Name": "DR. BISHAN LAL SAINI",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 60216,
+    "Loser Total Votes": 79670,
+    "Winner Name": "SHYAM SINGH RANA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 73348,
+    "Winner Won Majority": "No"
+  },
+  "RAI - 29": {
+    "First Runner-Up Name": "JAI BHAGWAN ANTIL",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 59941,
+    "Loser Total Votes": 75605,
+    "Winner Name": "KRISHNA GAHLAWAT",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 64614,
+    "Winner Won Majority": "No"
+  },
+  "RANIA - 44": {
+    "First Runner-Up Name": "SARV MITTER",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 39723,
+    "Loser Total Votes": 100488,
+    "Winner Name": "ARJUN CHAUTALA",
+    "Winner Party": "Indian National Lok Dal",
+    "Winner Votes": 43914,
+    "Winner Won Majority": "No"
+  },
+  "RATIA - 41": {
+    "First Runner-Up Name": "SUNITA DUGGAL",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 64984,
+    "Loser Total Votes": 78078,
+    "Winner Name": "JARNAIL SINGH",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 86426,
+    "Winner Won Majority": "Yes"
+  },
+  "REWARI - 74": {
+    "First Runner-Up Name": "CHIRANJEEV RAO",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 54978,
+    "Loser Total Votes": 83920,
+    "Winner Name": "LAXMAN SINGH YADAV",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 83747,
+    "Winner Won Majority": "No"
+  },
+  "ROHTAK - 62": {
+    "First Runner-Up Name": "MANISH KUMAR GROVER",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 58078,
+    "Loser Total Votes": 61229,
+    "Winner Name": "BHARAT BHUSHAN BATRA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 59419,
+    "Winner Won Majority": "No"
+  },
+  "SADHAURA - 7": {
+    "First Runner-Up Name": "BALWANT SINGH",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 55835,
+    "Loser Total Votes": 116616,
+    "Winner Name": "RENU BALA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 57534,
+    "Winner Won Majority": "No"
+  },
+  "SAFIDON - 35": {
+    "First Runner-Up Name": "SUBHASH GANGOLI",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 54946,
+    "Loser Total Votes": 87672,
+    "Winner Name": "RAM KUMAR GAUTAM",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 58983,
+    "Winner Won Majority": "No"
+  },
+  "SAMALKHA - 27": {
+    "First Runner-Up Name": "DHARAM SINGH CHHOKER",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 61978,
+    "Loser Total Votes": 86826,
+    "Winner Name": "MANMOHAN BHADANA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 81293,
+    "Winner Won Majority": "No"
+  },
+  "SHAHBAD - 12": {
+    "First Runner-Up Name": "SUBHASH CHAND",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 54609,
+    "Loser Total Votes": 60159,
+    "Winner Name": "RAM KARAN",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 61050,
+    "Winner Won Majority": "Yes"
+  },
+  "SIRSA - 45": {
+    "First Runner-Up Name": "GOPAL KANDA",
+    "First Runner-Up Party": "Haryana Lokhit Party",
+    "First Runner-Up Votes": 71786,
+    "Loser Total Votes": 79011,
+    "Winner Name": "GOKUL SETIA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 79020,
+    "Winner Won Majority": "Yes"
+  },
+  "SOHNA - 78": {
+    "First Runner-Up Name": "ROHTAS SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 49366,
+    "Loser Total Votes": 142319,
+    "Winner Name": "TEJPAL TANWAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 61243,
+    "Winner Won Majority": "No"
+  },
+  "SONIPAT - 31": {
+    "First Runner-Up Name": "SURENDER PANWAR",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 55200,
+    "Loser Total Votes": 59949,
+    "Winner Name": "NIKHIL MADAAN",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 84827,
+    "Winner Won Majority": "Yes"
+  },
+  "THANESAR - 13": {
+    "First Runner-Up Name": "SUBHASH SUDHA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 66833,
+    "Loser Total Votes": 73136,
+    "Winner Name": "ASHOK KUMAR ARORA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 70076,
+    "Winner Won Majority": "No"
+  },
+  "TIGAON - 90": {
+    "First Runner-Up Name": "LALIT NAGAR S/O LATE BHARAT SINGH NAGAR",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 56828,
+    "Loser Total Votes": 109485,
+    "Winner Name": "RAJESH NAGAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 94229,
+    "Winner Won Majority": "No"
+  },
+  "TOHANA - 39": {
+    "First Runner-Up Name": "DEVENDER SINGH BABLI",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 77686,
+    "Loser Total Votes": 91945,
+    "Winner Name": "PARAMVIR SINGH",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 88522,
+    "Winner Won Majority": "No"
+  },
+  "TOSHAM - 58": {
+    "First Runner-Up Name": "ANIRUDH CHAUDHARY",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 62157,
+    "Loser Total Votes": 84278,
+    "Winner Name": "SHRUTI CHOUDHRY",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 76414,
+    "Winner Won Majority": "No"
+  },
+  "UCHANA KALAN - 37": {
+    "First Runner-Up Name": "BRIJENDRA SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 48936,
+    "Loser Total Votes": 117038,
+    "Winner Name": "DEVENDER CHATAR BHUJ ATTRI",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 48968,
+    "Winner Won Majority": "No"
+  },
+  "UKLANA - 48": {
+    "First Runner-Up Name": "ANOOP DHANAK",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 50356,
+    "Loser Total Votes": 66267,
+    "Winner Name": "NARESH SELWAL",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 78448,
+    "Winner Won Majority": "Yes"
+  },
+  "YAMUNANAGAR - 9": {
+    "First Runner-Up Name": "RAMAN TYAGI",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 50748,
+    "Loser Total Votes": 90828,
+    "Winner Name": "GHANSHYAM DASS",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 73185,
+    "Winner Won Majority": "No"
+  }
+}

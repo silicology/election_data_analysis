@@ -1,0 +1,902 @@
+{
+  "AKHNOOR(SC) - 81": {
+    "First Runner-Up Name": "ASHOK KUMAR",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 25248,
+    "Loser Total Votes": 27035,
+    "Winner Name": "MOHAN LAL",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 49927,
+    "Winner Won Majority": "Yes"
+  },
+  "ANANTNAG - 44": {
+    "First Runner-Up Name": "MEHBOOB BEG",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 4993,
+    "Loser Total Votes": 21417,
+    "Winner Name": "PEERZADA MOHAMMAD SYED",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 6679,
+    "Winner Won Majority": "No"
+  },
+  "ANANTNAG WEST - 43": {
+    "First Runner-Up Name": "ABDUL GAFFAR SOFI",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 14700,
+    "Loser Total Votes": 36798,
+    "Winner Name": "ABDUL MAJEED BHAT",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 25135,
+    "Winner Won Majority": "No"
+  },
+  "BAHU - 75": {
+    "First Runner-Up Name": "TARANJIT SINGH TONY",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 29134,
+    "Loser Total Votes": 32590,
+    "Winner Name": "VIKRAM RANDHAWA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 40385,
+    "Winner Won Majority": "Yes"
+  },
+  "BANDIPORA - 15": {
+    "First Runner-Up Name": "USMAN ABDUL MAJID",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 19580,
+    "Loser Total Votes": 53905,
+    "Winner Name": "NIZAM UDDIN BHAT",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 20391,
+    "Winner Won Majority": "No"
+  },
+  "BANI - 63": {
+    "First Runner-Up Name": "JEWAN LAL",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 16624,
+    "Loser Total Votes": 24320,
+    "Winner Name": "DR RAMESHWAR SINGH",
+    "Winner Party": "Independent",
+    "Winner Votes": 18672,
+    "Winner Won Majority": "No"
+  },
+  "BANIHAL - 55": {
+    "First Runner-Up Name": "IMTIAZ AHMED SHAN",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 27018,
+    "Loser Total Votes": 57954,
+    "Winner Name": "SAJAD SHAHEEN",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 33128,
+    "Winner Won Majority": "No"
+  },
+  "BARAMULLA - 10": {
+    "First Runner-Up Name": "SHOAIB NABI LONE",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 10750,
+    "Loser Total Votes": 46256,
+    "Winner Name": "JAVID HASSAN BAIG",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 22523,
+    "Winner Won Majority": "No"
+  },
+  "BASOHLI - 65": {
+    "First Runner-Up Name": "CH. LAL SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 15840,
+    "Loser Total Votes": 16875,
+    "Winner Name": "DARSHAN KUMAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 31874,
+    "Winner Won Majority": "Yes"
+  },
+  "BEERWAH - 28": {
+    "First Runner-Up Name": "NAZIR AHMAD KHAN",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 15957,
+    "Loser Total Votes": 46128,
+    "Winner Name": "SHAFI AHMAD WANI",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 20118,
+    "Winner Won Majority": "No"
+  },
+  "BHADARWAH - 51": {
+    "First Runner-Up Name": "SHEIKH MEHBOOB IQBAL",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 31998,
+    "Loser Total Votes": 43888,
+    "Winner Name": "DALEEP SINGH",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 42128,
+    "Winner Won Majority": "No"
+  },
+  "BILLAWAR - 64": {
+    "First Runner-Up Name": "MANOHAR LAL SHARMA",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 23261,
+    "Loser Total Votes": 24690,
+    "Winner Name": "SATISH KUMAR SHARMA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 44629,
+    "Winner Won Majority": "Yes"
+  },
+  "BISHNAH(SC) - 72": {
+    "First Runner-Up Name": "NEERAJ KUNDAN",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 37808,
+    "Loser Total Votes": 41176,
+    "Winner Name": "RAJEEV KUMAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 53435,
+    "Winner Won Majority": "Yes"
+  },
+  "BUDGAM - 27": {
+    "First Runner-Up Name": "AGA SYED MUNTAZIR MEHDI",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 17525,
+    "Loser Total Votes": 30042,
+    "Winner Name": "OMAR ABDULLAH",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 36010,
+    "Winner Won Majority": "Yes"
+  },
+  "BUDHAL(ST) - 86": {
+    "First Runner-Up Name": "CHOWDHARY ZULFKAR ALI",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 23135,
+    "Loser Total Votes": 26331,
+    "Winner Name": "JAVAID IQBAL",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 42043,
+    "Winner Won Majority": "Yes"
+  },
+  "CENTRAL SHALTENG - 26": {
+    "First Runner-Up Name": "MUHAMMAD IRFAN SHAH",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 4538,
+    "Loser Total Votes": 14958,
+    "Winner Name": "TARIQ HAMEED KARRA",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 18933,
+    "Winner Won Majority": "Yes"
+  },
+  "CHADOORA - 31": {
+    "First Runner-Up Name": "MOHMAD YASEEN BHAT",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 14773,
+    "Loser Total Votes": 18330,
+    "Winner Name": "ALI MOHAMMAD DAR",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 31991,
+    "Winner Won Majority": "Yes"
+  },
+  "CHANNAPORA - 23": {
+    "First Runner-Up Name": "SYED MOHAMMAD ALTAF BUKHARI",
+    "First Runner-Up Party": "Jammu and Kashmir Apni Party",
+    "First Runner-Up Votes": 8029,
+    "Loser Total Votes": 11714,
+    "Winner Name": "MUSHTAQ GUROO",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 13717,
+    "Winner Won Majority": "Yes"
+  },
+  "CHENANI - 61": {
+    "First Runner-Up Name": "HARSH DEV SINGH",
+    "First Runner-Up Party": "J&K National Panthers Party (India)",
+    "First Runner-Up Votes": 32379,
+    "Loser Total Votes": 37086,
+    "Winner Name": "BALWANT SINGH MANKOTIA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 47990,
+    "Winner Won Majority": "Yes"
+  },
+  "CHHAMB - 82": {
+    "First Runner-Up Name": "RAJEEV SHARMA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 27056,
+    "Loser Total Votes": 52961,
+    "Winner Name": "SATISH SHARMA",
+    "Winner Party": "Independent",
+    "Winner Votes": 33985,
+    "Winner Won Majority": "No"
+  },
+  "CHRAR-i- SHARIEF - 30": {
+    "First Runner-Up Name": "GHULAM NABI LONE",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 24461,
+    "Loser Total Votes": 38219,
+    "Winner Name": "ADVOCATE ABDUL RAHIM RATHER",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 35957,
+    "Winner Won Majority": "No"
+  },
+  "D. H. PORA - 38": {
+    "First Runner-Up Name": "GULZAR AHMAD DAR",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 19174,
+    "Loser Total Votes": 31897,
+    "Winner Name": "SAKEENA MASOOD",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 36623,
+    "Winner Won Majority": "Yes"
+  },
+  "DEVSAR - 40": {
+    "First Runner-Up Name": "MOHAMMAD SARTAJ MADNI",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 17390,
+    "Loser Total Votes": 47080,
+    "Winner Name": "PEERZADA FEROZE AHAMAD",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 18230,
+    "Winner Won Majority": "No"
+  },
+  "DODA - 52": {
+    "First Runner-Up Name": "GAJAY SINGH RANA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 18690,
+    "Loser Total Votes": 49752,
+    "Winner Name": "MEHRAJ MALIK",
+    "Winner Party": "Aam Aadmi Party",
+    "Winner Votes": 23228,
+    "Winner Won Majority": "No"
+  },
+  "DODA WEST - 53": {
+    "First Runner-Up Name": "PARDEEP KUMAR",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 30511,
+    "Loser Total Votes": 33980,
+    "Winner Name": "SHAKTI RAJ PARIHAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 33964,
+    "Winner Won Majority": "No"
+  },
+  "DOORU - 41": {
+    "First Runner-Up Name": "MOHAMMAD ASHRAF MALIK",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 14542,
+    "Loser Total Votes": 28127,
+    "Winner Name": "GULAM AHMAD MIR",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 44270,
+    "Winner Won Majority": "Yes"
+  },
+  "EIDGAH - 25": {
+    "First Runner-Up Name": "GHULAM NABI BHAT",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 6020,
+    "Loser Total Votes": 15285,
+    "Winner Name": "MUBARIK GUL",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 7700,
+    "Winner Won Majority": "No"
+  },
+  "GANDERBAL - 18": {
+    "First Runner-Up Name": "BASHIR AHMAD MIR",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 22153,
+    "Loser Total Votes": 41989,
+    "Winner Name": "OMAR ABDULLAH",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 32727,
+    "Winner Won Majority": "No"
+  },
+  "GULABGARH(ST) - 56": {
+    "First Runner-Up Name": "AIJAZ AHMAD KHAN",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 24064,
+    "Loser Total Votes": 40845,
+    "Winner Name": "KHURSHIED AHMED",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 30591,
+    "Winner Won Majority": "No"
+  },
+  "GULMARG - 11": {
+    "First Runner-Up Name": "GHULAM HASSAN MIR",
+    "First Runner-Up Party": "Jammu and Kashmir Apni Party",
+    "First Runner-Up Votes": 22793,
+    "Loser Total Votes": 38402,
+    "Winner Name": "PIRZADA FAROOQ AHMED SHAH",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 26984,
+    "Winner Won Majority": "No"
+  },
+  "GUREZ(ST) - 16": {
+    "First Runner-Up Name": "FAQEER MOHAMMAD KHAN",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 7246,
+    "Loser Total Votes": 9584,
+    "Winner Name": "NAZIR AHMAD KHAN",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 8378,
+    "Winner Won Majority": "No"
+  },
+  "HABBAKADAL - 21": {
+    "First Runner-Up Name": "ASHOK KUMAR BHAT",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 2899,
+    "Loser Total Votes": 6792,
+    "Winner Name": "SHAMIM FIRDOUS",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 12437,
+    "Winner Won Majority": "Yes"
+  },
+  "HANDWARA - 5": {
+    "First Runner-Up Name": "CHOWDRY MOHAMMAD RAMZAN",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 29150,
+    "Loser Total Votes": 43288,
+    "Winner Name": "SAJAD GANI LONE",
+    "Winner Party": "Jammu & Kashmir People Conference",
+    "Winner Votes": 29812,
+    "Winner Won Majority": "No"
+  },
+  "HAZRATBAL - 19": {
+    "First Runner-Up Name": "ASIEA NAQASH",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 8595,
+    "Loser Total Votes": 17778,
+    "Winner Name": "SALMAN SAGAR",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 18890,
+    "Winner Won Majority": "Yes"
+  },
+  "HIRANAGAR - 68": {
+    "First Runner-Up Name": "RAKESH KUMAR",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 28127,
+    "Loser Total Votes": 30365,
+    "Winner Name": "VIJAY KUMAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 36737,
+    "Winner Won Majority": "Yes"
+  },
+  "INDERWAL - 48": {
+    "First Runner-Up Name": "GHULAM MOHD SAROORI",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 13552,
+    "Loser Total Votes": 39660,
+    "Winner Name": "PAYARE LAL SHARMA",
+    "Winner Party": "Independent",
+    "Winner Votes": 14195,
+    "Winner Won Majority": "No"
+  },
+  "JAMMU EAST - 76": {
+    "First Runner-Up Name": "YOGESH SAWHNEY",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 24475,
+    "Loser Total Votes": 26709,
+    "Winner Name": "YUDHVIR SETHI",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 42589,
+    "Winner Won Majority": "Yes"
+  },
+  "JAMMU NORTH - 79": {
+    "First Runner-Up Name": "AJAY KUMAR SADHOTRA",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 19856,
+    "Loser Total Votes": 26959,
+    "Winner Name": "SHAM LAL SHARMA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 47219,
+    "Winner Won Majority": "Yes"
+  },
+  "JAMMU WEST - 78": {
+    "First Runner-Up Name": "MANMOHAN SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 19836,
+    "Loser Total Votes": 22857,
+    "Winner Name": "ARVIND GUPTA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 41963,
+    "Winner Won Majority": "Yes"
+  },
+  "JASROTA - 66": {
+    "First Runner-Up Name": "BRIJESHWAR SINGH",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 21737,
+    "Loser Total Votes": 31611,
+    "Winner Name": "RAJIV JASROTIA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 34157,
+    "Winner Won Majority": "Yes"
+  },
+  "KALAKOTE - SUNDERBANI - 83": {
+    "First Runner-Up Name": "YASHU VARDHAN SINGH",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 20601,
+    "Loser Total Votes": 33893,
+    "Winner Name": "RANDHIR SINGH",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 35010,
+    "Winner Won Majority": "Yes"
+  },
+  "KANGAN(ST) - 17": {
+    "First Runner-Up Name": "SYED JAMAT ALI SHAH",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 25088,
+    "Loser Total Votes": 28940,
+    "Winner Name": "MIAN MEHAR ALI",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 28907,
+    "Winner Won Majority": "No"
+  },
+  "KARNAH - 1": {
+    "First Runner-Up Name": "NASEER AHMAD AWAN",
+    "First Runner-Up Party": "Jammu & Kashmir People Conference",
+    "First Runner-Up Votes": 8032,
+    "Loser Total Votes": 27026,
+    "Winner Name": "JAVAID AHMAD MIRCHAL",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 14294,
+    "Winner Won Majority": "No"
+  },
+  "KATHUA(SC) - 67": {
+    "First Runner-Up Name": "SANDEEP MAJOTRA",
+    "First Runner-Up Party": "Bahujan Samaj Party",
+    "First Runner-Up Votes": 33827,
+    "Loser Total Votes": 37297,
+    "Winner Name": "DR. BHARAT BHUSHAN",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 45944,
+    "Winner Won Majority": "Yes"
+  },
+  "KHANSAHIB - 29": {
+    "First Runner-Up Name": "HAKEEM MOHAMMAD  YASEEN SHAH",
+    "First Runner-Up Party": "Jammu And Kashmir Peoples Democratic Front (Secular)",
+    "First Runner-Up Votes": 21611,
+    "Loser Total Votes": 35105,
+    "Winner Name": "SAIF UD DIN BHAT",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 33225,
+    "Winner Won Majority": "No"
+  },
+  "KHANYAR - 20": {
+    "First Runner-Up Name": "SHEIKH IMRAN",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 4994,
+    "Loser Total Votes": 8959,
+    "Winner Name": "ALI MOHAMMAD SAGAR",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 14906,
+    "Winner Won Majority": "Yes"
+  },
+  "KISHTWAR - 49": {
+    "First Runner-Up Name": "SAJJAD AHMED KICHLOO",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 28532,
+    "Loser Total Votes": 31471,
+    "Winner Name": "SHAGUN PARIHAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 29053,
+    "Winner Won Majority": "No"
+  },
+  "KOKERNAG(ST) - 42": {
+    "First Runner-Up Name": "HAROON RASHID KHATANA",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 11787,
+    "Loser Total Votes": 39528,
+    "Winner Name": "ZAFAR ALI KHATANA",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 17949,
+    "Winner Won Majority": "No"
+  },
+  "KULGAM - 39": {
+    "First Runner-Up Name": "SAYAR AHMAD RESHI",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 25796,
+    "Loser Total Votes": 41344,
+    "Winner Name": "MOHAMAD YOUSUF TARIGAMI",
+    "Winner Party": "Communist Party of India  (Marxist)",
+    "Winner Votes": 33634,
+    "Winner Won Majority": "No"
+  },
+  "KUPWARA - 3": {
+    "First Runner-Up Name": "NASIR ASLAM WANI",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 17976,
+    "Loser Total Votes": 34282,
+    "Winner Name": "MIR MOHAMMAD FAYAZ",
+    "Winner Party": "Jammu & Kashmir Peoples Democratic Party",
+    "Winner Votes": 27773,
+    "Winner Won Majority": "No"
+  },
+  "LAL CHOWK - 22": {
+    "First Runner-Up Name": "MOHAMMAD ASHRAF MIR",
+    "First Runner-Up Party": "Jammu and Kashmir Apni Party",
+    "First Runner-Up Votes": 5388,
+    "Loser Total Votes": 20080,
+    "Winner Name": "SHEIKH AHSAN AHMED",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 16731,
+    "Winner Won Majority": "No"
+  },
+  "LANGATE - 6": {
+    "First Runner-Up Name": "IRFAN SULTAN PANDITHPURI",
+    "First Runner-Up Party": "Jammu & Kashmir People Conference",
+    "First Runner-Up Votes": 24382,
+    "Loser Total Votes": 52078,
+    "Winner Name": "KHURSHEED AHMAD SHIEKH",
+    "Winner Party": "Independent",
+    "Winner Votes": 25984,
+    "Winner Won Majority": "No"
+  },
+  "LOLAB - 4": {
+    "First Runner-Up Name": "DAWOOD BASHIR BHAT",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 11732,
+    "Loser Total Votes": 39741,
+    "Winner Name": "QAYSAR JAMSHAID LONE",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 19603,
+    "Winner Won Majority": "No"
+  },
+  "MARH(SC) - 80": {
+    "First Runner-Up Name": "MULA RAM",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 19477,
+    "Loser Total Votes": 34476,
+    "Winner Name": "SURINDER KUMAR",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 42563,
+    "Winner Won Majority": "Yes"
+  },
+  "MENDHAR(ST) - 90": {
+    "First Runner-Up Name": "MURTAZA AHMED KHAN",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 17270,
+    "Loser Total Votes": 50558,
+    "Winner Name": "JAVED AHMED RANA",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 32176,
+    "Winner Won Majority": "No"
+  },
+  "NAGROTA - 77": {
+    "First Runner-Up Name": "JOGINDER SINGH",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 17641,
+    "Loser Total Votes": 25970,
+    "Winner Name": "DEVENDER SINGH RANA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 48113,
+    "Winner Won Majority": "Yes"
+  },
+  "NOWSHERA - 84": {
+    "First Runner-Up Name": "RAVINDER RAINA",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 27250,
+    "Loser Total Votes": 29679,
+    "Winner Name": "SURINDER KUMAR CHOUDHARY",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 35069,
+    "Winner Won Majority": "Yes"
+  },
+  "PADDER - NAGSENI - 50": {
+    "First Runner-Up Name": "POOJA THAKUR",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 15490,
+    "Loser Total Votes": 16760,
+    "Winner Name": "SUNIL KUMAR SHARMA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 17036,
+    "Winner Won Majority": "Yes"
+  },
+  "PAHALGAM - 47": {
+    "First Runner-Up Name": "RAFI AHMED MIR",
+    "First Runner-Up Party": "Jammu and Kashmir Apni Party",
+    "First Runner-Up Votes": 12454,
+    "Loser Total Votes": 23953,
+    "Winner Name": "ALTAF AHMAD WANI",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 26210,
+    "Winner Won Majority": "Yes"
+  },
+  "PAMPORE - 32": {
+    "First Runner-Up Name": "ZAHOOR AHMAD MIR",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 12325,
+    "Loser Total Votes": 30331,
+    "Winner Name": "HASNAIN MASOODI",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 15088,
+    "Winner Won Majority": "No"
+  },
+  "PATTAN - 13": {
+    "First Runner-Up Name": "IMRAN RAZA ANSARI",
+    "First Runner-Up Party": "Jammu & Kashmir People Conference",
+    "First Runner-Up Votes": 29290,
+    "Loser Total Votes": 40379,
+    "Winner Name": "JAVAID RIYAZ",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 29893,
+    "Winner Won Majority": "No"
+  },
+  "POONCH HAVELI - 89": {
+    "First Runner-Up Name": "CHOUDHARY ABDUL GHANI",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 20928,
+    "Loser Total Votes": 56048,
+    "Winner Name": "AJAZ AHMED JAN",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 41807,
+    "Winner Won Majority": "No"
+  },
+  "PULWAMA - 34": {
+    "First Runner-Up Name": "MOHAMMAD KHALIL BAND",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 16568,
+    "Loser Total Votes": 25783,
+    "Winner Name": "WAHEED UR REHMAN PARA",
+    "Winner Party": "Jammu & Kashmir Peoples Democratic Party",
+    "Winner Votes": 24716,
+    "Winner Won Majority": "No"
+  },
+  "R. S. PURA- JAMMU SOUTH - 74": {
+    "First Runner-Up Name": "RAMAN BHALLA",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 41351,
+    "Loser Total Votes": 44673,
+    "Winner Name": "DR. NARINDER SINGH RAINA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 43317,
+    "Winner Won Majority": "No"
+  },
+  "RAFIABAD - 8": {
+    "First Runner-Up Name": "YAWAR AHMAD MIR",
+    "First Runner-Up Party": "Jammu and Kashmir Apni Party",
+    "First Runner-Up Votes": 19581,
+    "Loser Total Votes": 42420,
+    "Winner Name": "JAVID AHMAD DAR",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 28783,
+    "Winner Won Majority": "No"
+  },
+  "RAJOURI(ST) - 85": {
+    "First Runner-Up Name": "VIBOD KUMAR",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 27519,
+    "Loser Total Votes": 35297,
+    "Winner Name": "IFTKAR AHMED",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 28923,
+    "Winner Won Majority": "No"
+  },
+  "RAJPORA - 35": {
+    "First Runner-Up Name": "SYED BASHIR AHMAD",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 11314,
+    "Loser Total Votes": 27840,
+    "Winner Name": "GHULAM MOHI UDDIN MIR",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 25627,
+    "Winner Won Majority": "No"
+  },
+  "RAMBAN - 54": {
+    "First Runner-Up Name": "SURAJ SINGH PARIHAR",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 19412,
+    "Loser Total Votes": 40782,
+    "Winner Name": "ARJUN SINGH RAJU",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 28425,
+    "Winner Won Majority": "No"
+  },
+  "RAMGARH(SC) - 69": {
+    "First Runner-Up Name": "YASH PAUL KUNDAL",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 21470,
+    "Loser Total Votes": 33552,
+    "Winner Name": "DR DEVINDER KUMAR MANYAL",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 35672,
+    "Winner Won Majority": "Yes"
+  },
+  "RAMNAGAR(SC) - 62": {
+    "First Runner-Up Name": "ASHRI DEVI",
+    "First Runner-Up Party": "J&K National Panthers Party (India)",
+    "First Runner-Up Votes": 25244,
+    "Loser Total Votes": 36683,
+    "Winner Name": "SUNIL BHARDWAJ",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 34550,
+    "Winner Won Majority": "No"
+  },
+  "REASI - 57": {
+    "First Runner-Up Name": "MUMTAZ AHMED",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 20832,
+    "Loser Total Votes": 22783,
+    "Winner Name": "KULDEEP RAJ DUBEY",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 39647,
+    "Winner Won Majority": "Yes"
+  },
+  "SAMBA - 70": {
+    "First Runner-Up Name": "RAVINDER SINGH",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 12873,
+    "Loser Total Votes": 26757,
+    "Winner Name": "SURJEET SINGH SLATHIA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 43182,
+    "Winner Won Majority": "Yes"
+  },
+  "SHANGUS - ANANTNAG EAST - 46": {
+    "First Runner-Up Name": "ABDUL REHMAN BHAT",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 15813,
+    "Loser Total Votes": 27649,
+    "Winner Name": "REYAZ AHMAD KHAN",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 30345,
+    "Winner Won Majority": "Yes"
+  },
+  "SHOPIAN - 37": {
+    "First Runner-Up Name": "SHEIKH MOHAMMAD RAFI",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 12906,
+    "Loser Total Votes": 45344,
+    "Winner Name": "SHABIR AHMAD KULLAY",
+    "Winner Party": "Independent",
+    "Winner Votes": 14113,
+    "Winner Won Majority": "No"
+  },
+  "SHRI MATA VAISHNO DEVI - 58": {
+    "First Runner-Up Name": "JUGAL KISHORE",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 16204,
+    "Loser Total Votes": 27345,
+    "Winner Name": "BALDEV RAJ SHARMA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 18199,
+    "Winner Won Majority": "No"
+  },
+  "SONAWARI - 14": {
+    "First Runner-Up Name": "YASIR RESHI",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 17791,
+    "Loser Total Votes": 53542,
+    "Winner Name": "HILAL AKBAR LONE",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 31535,
+    "Winner Won Majority": "No"
+  },
+  "SOPORE - 7": {
+    "First Runner-Up Name": "MURSALEEN AAJIR",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 6619,
+    "Loser Total Votes": 24578,
+    "Winner Name": "IRSHAD RASOOL KAR",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 26975,
+    "Winner Won Majority": "Yes"
+  },
+  "SRIGUFWARA - BIJBEHARA - 45": {
+    "First Runner-Up Name": "ILTIJA MEHBOOBA MUFTI",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 23529,
+    "Loser Total Votes": 28797,
+    "Winner Name": "BASHIR AHMAD SHAH VEERI",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 33299,
+    "Winner Won Majority": "Yes"
+  },
+  "SUCHETGARH(SC) - 73": {
+    "First Runner-Up Name": "BHUSAN LAL",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 28161,
+    "Loser Total Votes": 45545,
+    "Winner Name": "GHARU RAM",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 39302,
+    "Winner Won Majority": "No"
+  },
+  "SURANKOTE(ST) - 88": {
+    "First Runner-Up Name": "MOHD SHAHNAWAZ",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 25350,
+    "Loser Total Votes": 52670,
+    "Winner Name": "CHOUDHARY MOHAMMED AKRAM",
+    "Winner Party": "Independent",
+    "Winner Votes": 34201,
+    "Winner Won Majority": "No"
+  },
+  "THANNAMANDI(ST) - 87": {
+    "First Runner-Up Name": "MOHD IQBAL MALIK",
+    "First Runner-Up Party": "Bharatiya Janata Party",
+    "First Runner-Up Votes": 26466,
+    "Loser Total Votes": 58735,
+    "Winner Name": "MUZAFFAR IQBAL KHAN",
+    "Winner Party": "Independent",
+    "Winner Votes": 32645,
+    "Winner Won Majority": "No"
+  },
+  "TRAL - 33": {
+    "First Runner-Up Name": "SURINDER SINGH",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 10250,
+    "Loser Total Votes": 32668,
+    "Winner Name": "RAFIQ AHMAD NAIK",
+    "Winner Party": "Jammu & Kashmir Peoples Democratic Party",
+    "Winner Votes": 10710,
+    "Winner Won Majority": "No"
+  },
+  "TREHGAM - 2": {
+    "First Runner-Up Name": "BASHIR AHMAD DAR",
+    "First Runner-Up Party": "Jammu & Kashmir People Conference",
+    "First Runner-Up Votes": 14376,
+    "Loser Total Votes": 35346,
+    "Winner Name": "SAIFULLAH MIR",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 18002,
+    "Winner Won Majority": "No"
+  },
+  "UDHAMPUR EAST - 60": {
+    "First Runner-Up Name": "PAWAN KHAJURIA",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 30647,
+    "Loser Total Votes": 46250,
+    "Winner Name": "RANBIR SINGH PATHANIA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 32996,
+    "Winner Won Majority": "No"
+  },
+  "UDHAMPUR WEST - 59": {
+    "First Runner-Up Name": "SUMEET MAGOTRA",
+    "First Runner-Up Party": "Indian National Congress",
+    "First Runner-Up Votes": 26412,
+    "Loser Total Votes": 43439,
+    "Winner Name": "PAWAN KUMAR GUPTA",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 47164,
+    "Winner Won Majority": "Yes"
+  },
+  "URI - 9": {
+    "First Runner-Up Name": "TAJ MOHI UD DIN",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 25244,
+    "Loser Total Votes": 34195,
+    "Winner Name": "SAJJAD SHAFI",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 39713,
+    "Winner Won Majority": "Yes"
+  },
+  "VIJAYPUR - 71": {
+    "First Runner-Up Name": "RAJESH KUMAR PARGOTRA",
+    "First Runner-Up Party": "Jammu & Kashmir National Conference",
+    "First Runner-Up Votes": 13819,
+    "Loser Total Votes": 29606,
+    "Winner Name": "CHANDER PARKASH",
+    "Winner Party": "Bharatiya Janata Party",
+    "Winner Votes": 32859,
+    "Winner Won Majority": "Yes"
+  },
+  "WAGOORA - KREERI - 12": {
+    "First Runner-Up Name": "SYED BASHARAT AHMED BUKHARI",
+    "First Runner-Up Party": "Jammu & Kashmir Peoples Democratic Party",
+    "First Runner-Up Votes": 9251,
+    "Loser Total Votes": 27543,
+    "Winner Name": "IRFAN HAFIZ LONE",
+    "Winner Party": "Indian National Congress",
+    "Winner Votes": 17002,
+    "Winner Won Majority": "No"
+  },
+  "ZADIBAL - 24": {
+    "First Runner-Up Name": "ABID HUSSAIN ANSARI",
+    "First Runner-Up Party": "Jammu & Kashmir People Conference",
+    "First Runner-Up Votes": 6016,
+    "Loser Total Votes": 12704,
+    "Winner Name": "TANVIR SADIQ",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 22189,
+    "Winner Won Majority": "Yes"
+  },
+  "ZAINAPORA - 36": {
+    "First Runner-Up Name": "AIJAZ AHMAD MIR",
+    "First Runner-Up Party": "Independent",
+    "First Runner-Up Votes": 15018,
+    "Loser Total Votes": 32613,
+    "Winner Name": "SHOWKAT HUSSAIN GANIE",
+    "Winner Party": "Jammu & Kashmir National Conference",
+    "Winner Votes": 28251,
+    "Winner Won Majority": "No"
+  }
+}
