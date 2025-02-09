@@ -4,7 +4,7 @@ use std::fs;
 
 fn main() {
     // Step 1: Load the vote data from a JSON file
-    let input_path = "data/2024_assembly/analysis/party_wise_votes_jammu_kashmir.json";
+    let input_path = "data/2025_assembly/analysis/party_wise_votes_delhi_2025.json";
     let json_data = fs::read_to_string(input_path).expect("Unable to read file");
 
     // Parse the input JSON data
@@ -40,7 +40,7 @@ fn main() {
     });
 
     // Save the result to a file
-    let output_path = "data/2024_assembly/analysis/percentage_votes_state_wise_jammu_kashmir.json";
+    let output_path = "data/2025_assembly/analysis/percentage_votes_party_wise_delhi_2025.json";
     let result_json = serde_json::to_string_pretty(&result).unwrap();
     fs::write(output_path, result_json).expect("Unable to write file");
 

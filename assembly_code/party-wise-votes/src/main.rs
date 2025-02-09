@@ -3,7 +3,7 @@ use std::collections::BTreeMap;
 use std::fs;
 
 fn main() {
-    let path = "data/2024_assembly/constituency_data_jammu_kashmir.json";
+    let path = "data/2025_assembly/constituency_data_delhi_2025.json";
 
     let json_data = fs::read_to_string(path).expect("Unable to read file");
     let votes_data: Value = serde_json::from_str(&json_data).unwrap();
@@ -39,7 +39,7 @@ fn main() {
 
     let result_json = serde_json::to_string_pretty(&party_votes).unwrap();
     fs::write(
-        "data/2024_assembly/analysis/party_wise_votes_jammu_kashmir.json",
+        "data/2025_assembly/analysis/party_wise_votes_delhi_2025.json",
         result_json,
     )
     .expect("Unable to write file");
