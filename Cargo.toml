@@ -3,7 +3,7 @@ members = [
     "assembly_code/party-wise-percentage-votes",
     "assembly_code/party-wise-votes",
     "assembly_code/vote-splitting-assembly",
-    "assembly_code/winning-candidate",
+    "assembly_code/winning-candidate", "country-wise-percentage",
     "evm-turnout",
     "evm-turnout-matching",
     "join-evm-phase-data",
